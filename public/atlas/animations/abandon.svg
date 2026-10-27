@@ -1,0 +1,387 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="490" viewBox="40 120 1120 490" role="img" aria-labelledby="title desc">
+  <title id="title">A winter departure</title>
+  <desc id="desc">A car stops on a snowy mountain road. A bundled traveller leaves it behind on foot as snow covers the roof and wheels. A ten-second looping illustrated story.</desc>
+  <defs>
+    <filter id="paper">
+      <feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" stitchTiles="stitch" />
+      <feColorMatrix type="saturate" values="0" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope=".075" />
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" mode="multiply" />
+    </filter>
+    <filter id="ink">
+      <feTurbulence type="fractalNoise" baseFrequency=".025" numOctaves="2" seed="6" result="n" />
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="1.5" />
+    </filter>
+    <linearGradient id="sky" x2="0" y2="1" x1="0" y1="0">
+      <stop stop-color="#dce5e6" />
+      <stop offset="1" stop-color="#f4f3e9" />
+    </linearGradient>
+    <g id="pine" stroke="#627c7c" stroke-width="2" stroke-linejoin="round">
+      <path d="M0 0L-24 49H-13L-35 82H-18L-44 119H44L18 82H35L13 49H24Z" fill="#829b97" />
+      <path d="M0 114V143" />
+      <path d="M-20 45L0 6 20 45M-29 78L0 53 28 78M-36 113L0 88 36 113" fill="none" stroke="#e5ede7" stroke-width="6" />
+    </g>
+    <clipPath id="frame">
+      <rect x="40" y="120" width="1120" height="490" rx="14" />
+    </clipPath>
+  </defs>
+  <metadata>{"wordId": "abandon", "dailyExample": "We had to abandon our car in the snow.", "source": "https://github.com/go1app/word-atlas/blob/main/README.md", "attribution": "Word Atlas contributors — CC BY 4.0", "license": "https://creativecommons.org/licenses/by/4.0/", "changes": "New original vector animation interpreting the daily example; no original bitmap or audio embedded.", "durationSeconds": 10}</metadata>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="800" rx="20" fill="#f7f3e9" />
+    <g filter="url(#paper)">
+      <path d="M40 120Q600 108 1160 120V605Q600 625 40 605Z" fill="url(#sky)" />
+      <circle cx="920" cy="216" r="43" fill="#fff9dd" opacity=".7" />
+      <g filter="url(#ink)">
+        <path d="M40 395L212 225 354 368 480 233 686 398 850 280 1160 418V573H40Z" fill="#b6c8c8" />
+        <path d="M124 311L212 225 290 308 233 288 215 308 192 291ZM412 305L480 233 567 310 500 289 482 305 462 285Z" fill="#f2f4ed" />
+        <path d="M40 448Q229 383 422 437T790 420T1160 440V610H40Z" fill="#d4dfda" />
+        <g opacity=".6">
+          <use href="#pine" transform="translate(108 326) scale(.9)" />
+          <use href="#pine" transform="translate(166 353) scale(.65)" />
+          <use href="#pine" transform="translate(1025 331) scale(.9)" />
+          <use href="#pine" transform="translate(1090 308) scale(1.1)" />
+        </g>
+        <path d="M40 507Q216 450 439 497T803 480T1160 486V610H40Z" fill="#f4f5ee" />
+        <path d="M40 567Q402 507 1160 562" fill="none" stroke="#d6ded8" stroke-width="3" />
+        <path d="M70 581Q436 543 1120 586" fill="none" stroke="#e3e6df" stroke-width="2" />
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="-480 0;0 0;0 0;0 0" keyTimes="0;.22;.96;1" dur="10s" repeatCount="indefinite" />
+          <ellipse cx="515" cy="548" rx="158" ry="15" fill="#a6b8b3" opacity=".28" />
+          <g stroke="#424f50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="430" cy="526" r="29" fill="#445356" />
+            <circle cx="430" cy="526" r="15" fill="#b2bfba" />
+            <circle cx="610" cy="526" r="29" fill="#445356" />
+            <circle cx="610" cy="526" r="15" fill="#b2bfba" />
+            <path d="M369 514L370 478Q373 465 408 462L440 410Q450 398 476 398H548Q568 399 584 426L607 461 651 474Q663 479 663 496V516L638 520Q636 491 610 491T580 521H461Q458 491 430 491T398 520Z" fill="#b96552" />
+            <path d="M420 460L450 416Q455 412 474 412H493V460ZM506 412H545Q556 413 568 431L586 460H506Z" fill="#c1d2cf" />
+            <path d="M393 478H640M505 469V513M475 475H486" fill="none" stroke="#854c43" />
+            <path d="M373 491H388V503H370M650 486H662V499H650" fill="#eddaa0" />
+            <path d="M359 517H392M640 518H670" stroke="#c9c6b4" stroke-width="8" />
+          </g>
+          <g opacity="0">
+            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.24;.29;.39;.44;1" dur="10s" repeatCount="indefinite" />
+            <path d="M500 464L550 446 554 501 502 517Z" fill="#c57861" stroke="#424f50" stroke-width="3" />
+            <path d="M508 468L543 456V477L508 487Z" fill="#bdceca" />
+          </g>
+          <g opacity="0">
+            <animate attributeName="opacity" values="0;0;.25;1;1" keyTimes="0;.48;.6;.79;1" dur="10s" repeatCount="indefinite" />
+            <path d="M402 460Q413 444 435 451M438 412Q446 392 477 393L549 394Q571 395 582 424M597 464Q628 460 657 478" fill="none" stroke="#fffef5" stroke-width="17" stroke-linecap="round" />
+            <path d="M370 535Q398 515 439 534Q486 518 535 536Q598 513 668 539L681 555H351Z" fill="#fffef6" stroke="#dde5de" stroke-width="2" />
+          </g>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.29;.32;.65;.72;1" dur="10s" repeatCount="indefinite" />
+          <animateTransform attributeName="transform" type="translate" values="0 0;0 0;340 -22;340 -22" keyTimes="0;.33;.72;1" dur="10s" repeatCount="indefinite" />
+          <g transform="translate(544 490)" stroke="#3d5054" stroke-width="4" stroke-linecap="round">
+            <path d="M-4 25L-15 53M5 25L20 52" fill="none">
+              <animate attributeName="d" values="M-4 25L-15 53M5 25L20 52;M-4 25L15 51M5 25L-12 53;M-4 25L-15 53M5 25L20 52" dur=".7s" repeatCount="indefinite" />
+            </path>
+            <path d="M-14 -7Q0 -17 12 -5L16 27H-16Z" fill="#c39554" />
+            <path d="M10 -3L22 15 30 9" fill="none" />
+            <circle cy="-23" r="12" fill="#d5ad87" stroke-width="2" />
+            <path d="M-13 -25Q-13 -44 4 -38L13 -26Z" fill="#455e64" stroke-width="2" />
+            <path d="M-8 -8L17 -4 27 0" stroke="#ac5d4b" stroke-width="7" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <circle cx="525" cy="275" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1022" cy="199" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="864" cy="401" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="162" cy="233" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="395" cy="543" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="94" cy="544" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="438" cy="204" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="804" cy="164" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1078" cy="247" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="615" cy="165" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="639" cy="413" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1083" cy="219" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="632" cy="340" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="666" cy="252" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="989" cy="440" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1007" cy="478" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="442" cy="154" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="945" cy="261" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="698" cy="444" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="248" cy="549" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="610" cy="511" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="405" cy="268" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="773" cy="477" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="627" cy="496" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="633" cy="284" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="882" cy="561" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="434" cy="577" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="554" cy="315" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="61" cy="306" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="789" cy="521" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="240" cy="344" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="467" cy="178" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="387" cy="424" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1046" cy="418" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="114" cy="182" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="880" cy="453" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="537" cy="344" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="490" cy="335" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="918" cy="545" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="106" cy="138" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1118" cy="226" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="577" cy="192" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="686" cy="409" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="867" cy="581" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="232" cy="340" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="380" cy="292" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="687" cy="537" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="591" cy="293" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="194" cy="559" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="433" cy="142" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="303" cy="512" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="165" cy="565" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="993" cy="411" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="841" cy="231" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="363" cy="126" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="822" cy="569" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="455" cy="202" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1007" cy="588" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="112" cy="476" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="568" cy="431" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="205" cy="513" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="752" cy="543" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1154" cy="352" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="679" cy="318" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="861" cy="168" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="791" cy="382" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="951" cy="154" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1022" cy="336" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="384" cy="310" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="347" cy="287" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="571" cy="397" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="53" cy="451" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="268" cy="369" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1108" cy="245" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="772" cy="237" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="45" cy="466" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="683" cy="398" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="667" cy="564" r="3.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="947" cy="320" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="783" cy="458" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="211" cy="430" r="2" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="405" cy="266" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="759" cy="465" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="409" cy="288" r="2.7" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="657" cy="572" r="1.4" fill="#fffef8" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;-60 130" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <g pointer-events="none">
+      <path d="M40 596Q187 569 302 589T578 597T880 586T1160 594V620H40Z" fill="#f8f8ef" />
+      <use href="#pine" transform="translate(53 428) scale(0.95)" opacity=".82" />
+      <use href="#pine" transform="translate(1138 427) scale(1.0)" opacity=".82" />
+      <ellipse cx="557" cy="544.0" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 557 544.0)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.340;0.356;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="582" cy="549.3" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 582 549.3)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.368;0.384;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="607" cy="540.6" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 607 540.6)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.396;0.412;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="632" cy="545.9" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 632 545.9)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.424;0.440;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="657" cy="537.2" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 657 537.2)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.452;0.468;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="682" cy="542.5" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 682 542.5)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.480;0.496;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="707" cy="533.8" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 707 533.8)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.508;0.524;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="732" cy="539.1" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 732 539.1)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.536;0.552;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="757" cy="530.4" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 757 530.4)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.564;0.580;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="782" cy="535.7" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 782 535.7)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.592;0.608;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="807" cy="527.0" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 807 527.0)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.620;0.636;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="832" cy="532.3" rx="4" ry="1.6" fill="#9baca9" opacity="0" transform="rotate(-12 832 532.3)">
+        <animate attributeName="opacity" values="0;0;.45;.24;.24" keyTimes="0;0.648;0.664;.85;1" dur="10s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+  </g>
+</svg>
