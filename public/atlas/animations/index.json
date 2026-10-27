@@ -60,6 +60,56 @@
       "posterTimeSeconds": 5,
       "attribution": "Word Atlas contributors — CC BY 4.0",
       "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "library",
+      "src": "atlas/animations/library.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I borrowed three books from the library after school.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "bedroom",
+      "src": "atlas/animations/bedroom.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My bedroom gets plenty of sunlight in the morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "clothes",
+      "src": "atlas/animations/clothes.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Your clean clothes are drying outside in the sunshine.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "strong",
+      "src": "atlas/animations/strong.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My brother is strong enough to lift this sofa.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "paint",
+      "src": "atlas/animations/paint.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There is blue paint all over your hands.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
 }

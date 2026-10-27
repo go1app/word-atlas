@@ -1,0 +1,52 @@
+[
+  {
+    "wordId": "library",
+    "sentence": "I borrowed three books from the library after school.",
+    "visualSampleSeconds": [
+      5
+    ],
+    "review": "passed offline scene check",
+    "playbackInBrowser": "not yet verified",
+    "notes": "Exactly three books, checkout desk and student backpack."
+  },
+  {
+    "wordId": "bedroom",
+    "sentence": "My bedroom gets plenty of sunlight in the morning.",
+    "visualSampleSeconds": [
+      5
+    ],
+    "review": "passed offline scene check",
+    "playbackInBrowser": "not yet verified",
+    "notes": "Morning window, sunbeam, bedding and swaying curtains."
+  },
+  {
+    "wordId": "clothes",
+    "sentence": "Your clean clothes are drying outside in the sunshine.",
+    "visualSampleSeconds": [
+      5
+    ],
+    "review": "passed offline scene check",
+    "playbackInBrowser": "not yet verified",
+    "notes": "Pinned garments sway from fixed clothespins in sunny garden."
+  },
+  {
+    "wordId": "strong",
+    "sentence": "My brother is strong enough to lift this sofa.",
+    "visualSampleSeconds": [
+      5
+    ],
+    "review": "passed offline scene check",
+    "playbackInBrowser": "not yet verified",
+    "notes": "Sofa raises above fixed floor shadow; feet remain on floor; neck connection corrected."
+  },
+  {
+    "wordId": "paint",
+    "sentence": "There is blue paint all over your hands.",
+    "visualSampleSeconds": [
+      5
+    ],
+    "review": "passed offline scene check",
+    "playbackInBrowser": "not yet verified",
+    "notes": "Blue pigment on fingers and palms; art materials establish context."
+  }
+]
