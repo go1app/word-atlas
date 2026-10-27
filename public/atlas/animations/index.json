@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "animations": [
+    {
+      "wordId": "abandon",
+      "src": "atlas/animations/abandon.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We had to abandon our car in the snow.",
+      "posterTimeSeconds": 8,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
