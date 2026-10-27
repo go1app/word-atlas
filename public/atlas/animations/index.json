@@ -10,6 +10,56 @@
       "posterTimeSeconds": 8,
       "attribution": "Word Atlas contributors — CC BY 4.0",
       "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "migrate",
+      "src": "atlas/animations/migrate.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These birds migrate south when the weather turns cold.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "volcano",
+      "src": "atlas/animations/volcano.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched steam rising from the volcano across the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "lighthouse",
+      "src": "atlas/animations/lighthouse.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The lighthouse beam swept across the dark sea.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "telescope",
+      "src": "atlas/animations/telescope.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched the moon through a telescope on the balcony.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "festival",
+      "src": "atlas/animations/festival.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our town holds a lantern festival every autumn.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
 }

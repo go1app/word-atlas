@@ -15,3 +15,13 @@
 例句来源：[Word Atlas README](https://github.com/go1app/word-atlas/blob/main/README.md)。
 署名：Word Atlas contributors — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
 修改说明：依据日常例句新绘制矢量场景并添加动画，未嵌入原插画或录音。本目录新素材亦按 CC BY 4.0 提供，在可授予的权利范围内。
+
+## 第二批：五个日常例句场景
+
+打开 `preview.html` 集中预览；每张支持重播、暂停、点击揭晓答案和大屏播放。预览页独立于原应用，尚未新增应用入口。
+
+- `migrate.svg`：These birds migrate south when the weather turns cold.
+- `volcano.svg`：We watched steam rising from the volcano across the lake.
+- `lighthouse.svg`：The lighthouse beam swept across the dark sea.
+- `telescope.svg`：We watched the moon through a telescope on the balcony.
+- `festival.svg`：Our town holds a lantern festival every autumn.
