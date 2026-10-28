@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 66,
-  "pending": 7232,
+  "uploaded": 71,
+  "pending": 7227,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "letter",
-    "bad",
-    "writing",
-    "upstairs",
-    "nose"
+    "postcard",
+    "head",
+    "yesterday",
+    "waitress",
+    "something"
   ],
   "words": [
     {
@@ -789,27 +789,67 @@
     {
       "wordId": "letter",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A letter from my sister arrived this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/letter.svg",
+      "blobSha": "1237e1a2cfc83dc4e0cdfab7ebfdf93891b5e0d4",
+      "visualReview": "Morning light and an envelope sliding through a door slot establish arrival of a personal letter.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bad",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The soup tasted so bad that I stopped eating.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bad.svg",
+      "blobSha": "782b88dddd28c1af3386fbb008fcc38fac3469bf",
+      "visualReview": "Spoon is lowered away from the mouth and held down beside an untouched bowl; expression suggests distaste.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "writing",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I do most of my writing before breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/writing.svg",
+      "blobSha": "3ba2ca9c63b6508bcf3d65ed40849c5c8493e779",
+      "visualReview": "Moving pen stays attached to a forearm above lined paper; breakfast waits at the side in early light.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "upstairs",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I left my glasses upstairs beside the bed.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/upstairs.svg",
+      "blobSha": "89e74b13dbbd9f1b514e83447cee700772cfa093",
+      "visualReview": "House cutaway includes stairs and upper bedroom; glasses are highlighted on the bedside table.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "nose",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My nose turned red in the cold wind.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/nose.svg",
+      "blobSha": "5189a0b161d657c5c22c8473e0da183c1a517d51",
+      "visualReview": "Bundled child has a nose gradually turning rosy while pale wind and snow move around the face.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "postcard",

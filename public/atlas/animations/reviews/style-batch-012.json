@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "letter",
+    "dailyExample": "A letter from my sister arrived this morning.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Morning light and an envelope sliding through a door slot establish arrival of a personal letter.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bad",
+    "dailyExample": "The soup tasted so bad that I stopped eating.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Spoon is lowered away from the mouth and held down beside an untouched bowl; expression suggests distaste.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "writing",
+    "dailyExample": "I do most of my writing before breakfast.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Moving pen stays attached to a forearm above lined paper; breakfast waits at the side in early light.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "upstairs",
+    "dailyExample": "I left my glasses upstairs beside the bed.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "House cutaway includes stairs and upper bedroom; glasses are highlighted on the bedside table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "nose",
+    "dailyExample": "My nose turned red in the cold wind.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bundled child has a nose gradually turning rosy while pale wind and snow move around the face.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

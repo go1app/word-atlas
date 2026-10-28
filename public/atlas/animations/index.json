@@ -770,6 +770,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "letter",
+      "src": "atlas/animations/letter.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A letter from my sister arrived this morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bad",
+      "src": "atlas/animations/bad.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The soup tasted so bad that I stopped eating.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "writing",
+      "src": "atlas/animations/writing.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I do most of my writing before breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "upstairs",
+      "src": "atlas/animations/upstairs.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I left my glasses upstairs beside the bed.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "nose",
+      "src": "atlas/animations/nose.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My nose turned red in the cold wind.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
