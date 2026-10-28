@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 286,
-  "pending": 7012,
+  "uploaded": 291,
+  "pending": 7007,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "artist",
-    "stand",
-    "must",
-    "sky",
-    "about"
+    "sandwich",
+    "slow",
+    "make",
+    "every",
+    "quiet"
   ],
   "words": [
     {
@@ -3649,27 +3649,67 @@
     {
       "wordId": "artist",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The artist painted the harbour in soft blue colours.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/artist.svg",
+      "blobSha": "26b5b07831860cb2104f709426c04752dca3bf17",
+      "visualReview": "Artist paints soft blue harbour boats on an easel with the actual harbour visible behind.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "stand",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please stand near the door until the bus stops.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/stand.svg",
+      "blobSha": "c8ddf51ae01266cd3a933b1fe2ba5cd18188d956",
+      "visualReview": "Passenger stands by the door while outside motion stops before the folding bus door opens.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "must",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "You must wear a helmet when riding here.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/must.svg",
+      "blobSha": "e1fe37e7c2006b90cebab1829e12e8b04affd1f1",
+      "visualReview": "Cyclist wears a strapped helmet beside a circular helmet requirement symbol.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sky",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The sky turned orange as we walked home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sky.svg",
+      "blobSha": "c8c4285dccbd3ab165fe506941c78c718312a1ec",
+      "visualReview": "Orange sky fades into view as two people walk toward their home.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "about",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We talked about our holiday plans over dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/about.svg",
+      "blobSha": "61948218e45882cbcd77f7eb1434326b805d5f2c",
+      "visualReview": "Holiday destinations appear as picture conversation bubbles while a pair talks over dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sandwich",

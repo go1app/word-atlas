@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "artist",
+    "dailyExample": "The artist painted the harbour in soft blue colours.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Artist paints soft blue harbour boats on an easel with the actual harbour visible behind.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "stand",
+    "dailyExample": "Please stand near the door until the bus stops.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Passenger stands by the door while outside motion stops before the folding bus door opens.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "must",
+    "dailyExample": "You must wear a helmet when riding here.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cyclist wears a strapped helmet beside a circular helmet requirement symbol.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sky",
+    "dailyExample": "The sky turned orange as we walked home.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Orange sky fades into view as two people walk toward their home.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "about",
+    "dailyExample": "We talked about our holiday plans over dinner.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Holiday destinations appear as picture conversation bubbles while a pair talks over dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

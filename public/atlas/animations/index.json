@@ -3410,6 +3410,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "artist",
+      "src": "atlas/animations/artist.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The artist painted the harbour in soft blue colours.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "stand",
+      "src": "atlas/animations/stand.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please stand near the door until the bus stops.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "must",
+      "src": "atlas/animations/must.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "You must wear a helmet when riding here.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sky",
+      "src": "atlas/animations/sky.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The sky turned orange as we walked home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "about",
+      "src": "atlas/animations/about.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We talked about our holiday plans over dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
