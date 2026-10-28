@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 111,
-  "pending": 7187,
+  "uploaded": 116,
+  "pending": 7182,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "camera",
-    "menu",
-    "girl",
-    "answer",
-    "line"
+    "mister",
+    "door",
+    "smile",
+    "october",
+    "room"
   ],
   "words": [
     {
@@ -1374,27 +1374,67 @@
     {
       "wordId": "camera",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She raised her camera to photograph the sleeping cat.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/camera.svg",
+      "blobSha": "5fdc5f0ac9b0311fc242587a60d830676d395535",
+      "visualReview": "Camera and both connected forearms rise to face level before a brief shutter accent; cat sleeps on a chair.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "menu",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "There are several vegetarian dishes on the menu.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/menu.svg",
+      "blobSha": "68c41306ebcdb91218ca4e7217a7d44e898e5eba",
+      "visualReview": "Open menu presents four illustrated vegetable dishes without revealing target-word text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "girl",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The girl carefully carried her kitten into the house.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/girl.svg",
+      "blobSha": "826213f111f9d978f128aa10b0b1751b2acbe771",
+      "visualReview": "Young figure carries a small kitten in both arms toward an open house doorway; movement is grouped for stable contact.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "answer",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I asked the price, but nobody gave an answer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/answer.svg",
+      "blobSha": "41321c7fc3f2af9f51254eaf7e7a7834cd7aaaff",
+      "visualReview": "Customer asks a question at an empty stall; an unfilled response bubble supports the absence of an answer.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "line",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Draw a straight line across the page with your ruler.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/line.svg",
+      "blobSha": "ae532e8cef8c619bffa678b9c13fdd0713a3b183",
+      "visualReview": "Pencil tip and dash-revealed line progress together along the fixed ruler; reset fades before returning.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "mister",

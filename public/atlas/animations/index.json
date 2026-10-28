@@ -1310,6 +1310,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "camera",
+      "src": "atlas/animations/camera.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She raised her camera to photograph the sleeping cat.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "menu",
+      "src": "atlas/animations/menu.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There are several vegetarian dishes on the menu.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "girl",
+      "src": "atlas/animations/girl.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The girl carefully carried her kitten into the house.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "answer",
+      "src": "atlas/animations/answer.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I asked the price, but nobody gave an answer.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "line",
+      "src": "atlas/animations/line.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Draw a straight line across the page with your ruler.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

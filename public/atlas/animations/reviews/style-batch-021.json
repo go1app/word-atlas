@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "camera",
+    "dailyExample": "She raised her camera to photograph the sleeping cat.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Camera and both connected forearms rise to face level before a brief shutter accent; cat sleeps on a chair.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "menu",
+    "dailyExample": "There are several vegetarian dishes on the menu.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Open menu presents four illustrated vegetable dishes without revealing target-word text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "girl",
+    "dailyExample": "The girl carefully carried her kitten into the house.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Young figure carries a small kitten in both arms toward an open house doorway; movement is grouped for stable contact.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "answer",
+    "dailyExample": "I asked the price, but nobody gave an answer.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Customer asks a question at an empty stall; an unfilled response bubble supports the absence of an answer.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "line",
+    "dailyExample": "Draw a straight line across the page with your ruler.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pencil tip and dash-revealed line progress together along the fixed ruler; reset fades before returning.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
