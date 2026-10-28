@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "important",
+    "dailyExample": "Keep your important documents in this waterproof folder.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Stamped documents slide into a clear sealed folder while water drops remain outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "house",
+    "dailyExample": "Their house has a small garden behind the kitchen.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Kitchen opens directly into a small fenced garden with planted beds behind the house.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "lady",
+    "dailyExample": "A kind lady helped me find the station.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Smiling woman points a map-carrying visitor toward a clearly identifiable station.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "piano",
+    "dailyExample": "My sister practises the piano after dinner every evening.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seated player moves hands over upright piano keys in an evening room after dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "market",
+    "dailyExample": "We bought fresh peaches at the market this morning.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand selects a ripe peach from morning market baskets; fruit has a seam and fresh leaves.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -3590,6 +3590,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "important",
+      "src": "atlas/animations/important.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Keep your important documents in this waterproof folder.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "house",
+      "src": "atlas/animations/house.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Their house has a small garden behind the kitchen.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "lady",
+      "src": "atlas/animations/lady.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A kind lady helped me find the station.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "piano",
+      "src": "atlas/animations/piano.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My sister practises the piano after dinner every evening.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "market",
+      "src": "atlas/animations/market.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We bought fresh peaches at the market this morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

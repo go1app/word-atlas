@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 301,
-  "pending": 6997,
+  "uploaded": 306,
+  "pending": 6992,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "important",
-    "house",
-    "lady",
-    "piano",
-    "market"
+    "hill",
+    "late",
+    "age",
+    "cake",
+    "photograph"
   ],
   "words": [
     {
@@ -3844,27 +3844,67 @@
     {
       "wordId": "important",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Keep your important documents in this waterproof folder.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/important.svg",
+      "blobSha": "c7d15b15a13b2ffdb55a224d7566c59c798986de",
+      "visualReview": "Stamped documents slide into a clear sealed folder while water drops remain outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "house",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Their house has a small garden behind the kitchen.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/house.svg",
+      "blobSha": "53c796532944964ef9582c4fe7e2dc58a04c9b12",
+      "visualReview": "Kitchen opens directly into a small fenced garden with planted beds behind the house.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "lady",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A kind lady helped me find the station.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/lady.svg",
+      "blobSha": "18361ea593fa41f0cda41e30bef409ad6add6f1c",
+      "visualReview": "Smiling woman points a map-carrying visitor toward a clearly identifiable station.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "piano",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister practises the piano after dinner every evening.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/piano.svg",
+      "blobSha": "d62909df94ab9726d7eaae3a434ef5a3656f832a",
+      "visualReview": "Seated player moves hands over upright piano keys in an evening room after dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "market",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We bought fresh peaches at the market this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/market.svg",
+      "blobSha": "eee85bae9c3eaa05ba6a4967246ec66ce3bf5cf8",
+      "visualReview": "Hand selects a ripe peach from morning market baskets; fruit has a seam and fresh leaves.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hill",
