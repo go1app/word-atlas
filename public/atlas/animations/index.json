@@ -3350,6 +3350,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "number",
+      "src": "atlas/animations/number.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I saved your phone number on my new phone.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "take",
+      "src": "atlas/animations/take.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Take an umbrella because it might rain this afternoon.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "enjoy",
+      "src": "atlas/animations/enjoy.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We enjoy walking beside the river after dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "january",
+      "src": "atlas/animations/january.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our swimming lessons begin in January this year.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hobby",
+      "src": "atlas/animations/hobby.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Growing herbs on my balcony has become my favourite hobby.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 281,
-  "pending": 7017,
+  "uploaded": 286,
+  "pending": 7012,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "number",
-    "take",
-    "enjoy",
-    "january",
-    "hobby"
+    "artist",
+    "stand",
+    "must",
+    "sky",
+    "about"
   ],
   "words": [
     {
@@ -3584,27 +3584,67 @@
     {
       "wordId": "number",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I saved your phone number on my new phone.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/number.svg",
+      "blobSha": "43609002b4f3e44c3c476799b9e4385c8b5ca4af",
+      "visualReview": "New phone shows a contact avatar, grouped number placeholders and a save confirmation without real contact details.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "take",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Take an umbrella because it might rain this afternoon.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/take.svg",
+      "blobSha": "f7c95f9f953d72b428135379d308e6b59a1f64b1",
+      "visualReview": "Hand lifts a closed umbrella from a rack before leaving through a cloudy doorway.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "enjoy",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We enjoy walking beside the river after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/enjoy.svg",
+      "blobSha": "8158919418fbbd201b044fde9ee41cdb4173aac4",
+      "visualReview": "Smiling pair walks with alternating legs beside a river after a meal visible in the home window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "january",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our swimming lessons begin in January this year.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/january.svg",
+      "blobSha": "5e13ba51af8f879386bb770bdae34fe3437486f7",
+      "visualReview": "First month dot is highlighted over an indoor swimming lesson with winter visible outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hobby",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Growing herbs on my balcony has become my favourite hobby.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hobby.svg",
+      "blobSha": "2da458e0c8efd74071476d4ff9516d9df70a0a14",
+      "visualReview": "Balcony herb garden has several distinct plant forms while a gardener waters the pots.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "artist",

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "number",
+    "dailyExample": "I saved your phone number on my new phone.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "New phone shows a contact avatar, grouped number placeholders and a save confirmation without real contact details.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "take",
+    "dailyExample": "Take an umbrella because it might rain this afternoon.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand lifts a closed umbrella from a rack before leaving through a cloudy doorway.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "enjoy",
+    "dailyExample": "We enjoy walking beside the river after dinner.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Smiling pair walks with alternating legs beside a river after a meal visible in the home window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "january",
+    "dailyExample": "Our swimming lessons begin in January this year.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "First month dot is highlighted over an indoor swimming lesson with winter visible outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hobby",
+    "dailyExample": "Growing herbs on my balcony has become my favourite hobby.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Balcony herb garden has several distinct plant forms while a gardener waters the pots.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
