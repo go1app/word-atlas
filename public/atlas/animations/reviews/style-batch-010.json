@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "side",
+    "dailyExample": "Please leave your muddy boots by the side door.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Muddy boots settle beside a house entrance, with muddy footprints and a distinct side door.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pretty",
+    "dailyExample": "We found a pretty cottage beside a quiet stream.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Flower-framed cottage sits beside a quiet flowing stream; two visitors establish the discovery scene.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "arrive",
+    "dailyExample": "Our guests arrived just as dinner was ready.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Guests approach the open doorway while a host welcomes them and dinner steams on the table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "london",
+    "dailyExample": "We spent a rainy afternoon exploring London by bus.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A red double-decker passes a recognizable clock tower under light afternoon rain.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "too",
+    "dailyExample": "This soup is too hot to eat now.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Spoon and forearm move together toward the mouth, then withdraw from steaming soup; breath marks indicate cooling.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

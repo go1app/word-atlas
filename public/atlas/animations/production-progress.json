@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 56,
-  "pending": 7242,
+  "uploaded": 61,
+  "pending": 7237,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "side",
-    "pretty",
-    "arrive",
-    "london",
-    "too"
+    "glass",
+    "policeman",
+    "or",
+    "once",
+    "sock"
   ],
   "words": [
     {
@@ -659,27 +659,67 @@
     {
       "wordId": "side",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please leave your muddy boots by the side door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/side.svg",
+      "blobSha": "84a88311507941456ae36c5049037b0635a2439c",
+      "visualReview": "Muddy boots settle beside a house entrance, with muddy footprints and a distinct side door.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pretty",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We found a pretty cottage beside a quiet stream.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pretty.svg",
+      "blobSha": "0a3671b19f9669858c3043bddf94004e6c128aef",
+      "visualReview": "Flower-framed cottage sits beside a quiet flowing stream; two visitors establish the discovery scene.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "arrive",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our guests arrived just as dinner was ready.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/arrive.svg",
+      "blobSha": "f5cff9031c211563b19b87242d5619062bf7e972",
+      "visualReview": "Guests approach the open doorway while a host welcomes them and dinner steams on the table.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "london",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent a rainy afternoon exploring London by bus.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/london.svg",
+      "blobSha": "d5d91c0398f176ede9e21ff07354d0afca020711",
+      "visualReview": "A red double-decker passes a recognizable clock tower under light afternoon rain.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "too",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This soup is too hot to eat now.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/too.svg",
+      "blobSha": "87bead5ce215b9ac1831d26457ff753c4728edaa",
+      "visualReview": "Spoon and forearm move together toward the mouth, then withdraw from steaming soup; breath marks indicate cooling.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "glass",
