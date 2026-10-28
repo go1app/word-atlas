@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "always",
+    "dailyExample": "My neighbour always waves when she sees me.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Neighbor repeatedly waves from beside her garden gate upon seeing a passerby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "usually",
+    "dailyExample": "I usually walk to work unless it rains.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person with a work bag walks toward an office in sunny weather; umbrella waits at the home doorway.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "history",
+    "dailyExample": "Our guide explained the history of the old castle.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Guide gestures toward an old castle wall while visitors listen, with masonry details and an arched gateway.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "friday",
+    "dailyExample": "We usually cook dinner together at home on Friday.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people prepare dinner together at home; seven-day calendar dots highlight the fifth day without visible words.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "feet",
+    "dailyExample": "My feet felt cold against the kitchen tiles.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Close-up of bare feet grounded on cool kitchen tiles with gentle blue chill marks.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

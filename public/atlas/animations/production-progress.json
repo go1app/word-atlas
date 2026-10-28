@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 331,
-  "pending": 6967,
+  "uploaded": 336,
+  "pending": 6962,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "always",
-    "usually",
-    "history",
-    "friday",
-    "feet"
+    "wash",
+    "sofa",
+    "interesting",
+    "rice",
+    "area"
   ],
   "words": [
     {
@@ -4234,27 +4234,67 @@
     {
       "wordId": "always",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My neighbour always waves when she sees me.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/always.svg",
+      "blobSha": "d2daa5c01f3bc02f3c7c4c63cd4d70ab7c2d6874",
+      "visualReview": "Neighbor repeatedly waves from beside her garden gate upon seeing a passerby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "usually",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I usually walk to work unless it rains.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/usually.svg",
+      "blobSha": "19fd89e035c48f8dfb616999aae9d535065afba3",
+      "visualReview": "Person with a work bag walks toward an office in sunny weather; umbrella waits at the home doorway.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "history",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our guide explained the history of the old castle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/history.svg",
+      "blobSha": "ab754671ef497177164a940ba17e34f03e45bc10",
+      "visualReview": "Guide gestures toward an old castle wall while visitors listen, with masonry details and an arched gateway.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "friday",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually cook dinner together at home on Friday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/friday.svg",
+      "blobSha": "5607629cdf7857d880d0a6444b0b1ab0d53c7b00",
+      "visualReview": "Two people prepare dinner together at home; seven-day calendar dots highlight the fifth day without visible words.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "feet",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My feet felt cold against the kitchen tiles.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/feet.svg",
+      "blobSha": "b5e40cf53d80be74a75a4ed24df86688c0371812",
+      "visualReview": "Close-up of bare feet grounded on cool kitchen tiles with gentle blue chill marks.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wash",
