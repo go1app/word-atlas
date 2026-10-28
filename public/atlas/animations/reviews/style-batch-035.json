@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "second",
+    "dailyExample": "This is my second cup of tea today.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "An empty first teacup stays on the table while a second fresh cup is lifted with steam rising.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "floor",
+    "dailyExample": "My keys fell onto the kitchen floor again.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Keys fall and bounce once onto a tiled kitchen floor; small impact accents follow contact.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "farm",
+    "dailyExample": "We bought fresh eggs from a nearby farm.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Farmer and customer exchange fresh eggs in a woven basket beside a barn and hen.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "low",
+    "dailyExample": "The low shelf is easy for children to reach.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child reaches a book on a low shelf with feet on the floor and no climbing aid.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "painting",
+    "dailyExample": "We hung a colourful painting above the sofa.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two hands settle an original colourful framed landscape above a sofa then withdraw.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

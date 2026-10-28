@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 181,
-  "pending": 7117,
+  "uploaded": 186,
+  "pending": 7112,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "second",
-    "floor",
-    "farm",
-    "low",
-    "painting"
+    "map",
+    "move",
+    "send",
+    "sixty",
+    "list"
   ],
   "words": [
     {
@@ -2284,27 +2284,67 @@
     {
       "wordId": "second",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This is my second cup of tea today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/second.svg",
+      "blobSha": "b8010ca0117b823e2fe78cfa22ed3ae222f60ece",
+      "visualReview": "An empty first teacup stays on the table while a second fresh cup is lifted with steam rising.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "floor",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My keys fell onto the kitchen floor again.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/floor.svg",
+      "blobSha": "693a25f496530a8210834915ed1388728e0f7177",
+      "visualReview": "Keys fall and bounce once onto a tiled kitchen floor; small impact accents follow contact.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "farm",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We bought fresh eggs from a nearby farm.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/farm.svg",
+      "blobSha": "a76bcc5f4a6cf3526e4047287589fbad3da24327",
+      "visualReview": "Farmer and customer exchange fresh eggs in a woven basket beside a barn and hen.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "low",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The low shelf is easy for children to reach.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/low.svg",
+      "blobSha": "f41cdf6e0ca9d8211cd83b538dd45796422e9476",
+      "visualReview": "Child reaches a book on a low shelf with feet on the floor and no climbing aid.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "painting",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We hung a colourful painting above the sofa.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/painting.svg",
+      "blobSha": "90a4c9e5d9b46515835acc1f8b7ad311d5ace41f",
+      "visualReview": "Two hands settle an original colourful framed landscape above a sofa then withdraw.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "map",

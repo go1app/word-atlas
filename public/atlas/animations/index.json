@@ -2150,6 +2150,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "second",
+      "src": "atlas/animations/second.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This is my second cup of tea today.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "floor",
+      "src": "atlas/animations/floor.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My keys fell onto the kitchen floor again.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "farm",
+      "src": "atlas/animations/farm.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We bought fresh eggs from a nearby farm.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "low",
+      "src": "atlas/animations/low.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The low shelf is easy for children to reach.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "painting",
+      "src": "atlas/animations/painting.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We hung a colourful painting above the sofa.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
