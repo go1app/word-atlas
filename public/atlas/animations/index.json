@@ -1070,6 +1070,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pair",
+      "src": "atlas/animations/pair.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I left my favourite pair of gloves on the bus.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "student",
+      "src": "atlas/animations/student.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A student left her backpack under the library desk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "yourself",
+      "src": "atlas/animations/yourself.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Be careful not to cut yourself with that knife.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "price",
+      "src": "atlas/animations/price.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The price of fresh strawberries has fallen this week.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "last",
+      "src": "atlas/animations/last.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I caught the last bus home just before midnight.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

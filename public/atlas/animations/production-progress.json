@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 91,
-  "pending": 7207,
+  "uploaded": 96,
+  "pending": 7202,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "pair",
-    "student",
-    "yourself",
-    "price",
-    "last"
+    "listen",
+    "poor",
+    "gym",
+    "reading",
+    "guitar"
   ],
   "words": [
     {
@@ -1114,27 +1114,67 @@
     {
       "wordId": "pair",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I left my favourite pair of gloves on the bus.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pair.svg",
+      "blobSha": "dd40676d55b82b608b64bbded64de047cfa023e0",
+      "visualReview": "Two matching gloves remain together on a bus seat as their owner moves away.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "student",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A student left her backpack under the library desk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/student.svg",
+      "blobSha": "38776ae61e11065e28aac9b212bb1eef8cb875b5",
+      "visualReview": "Library books and reading desk establish the setting; a backpack is left underneath while the student exits.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "yourself",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Be careful not to cut yourself with that knife.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/yourself.svg",
+      "blobSha": "d529353e8edb9dd48f87e8c7b01d999c987d9976",
+      "visualReview": "Knife and holding hand move together over a board while guiding fingertips stay away from the cutting edge; no injury is shown.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "price",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The price of fresh strawberries has fallen this week.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/price.svg",
+      "blobSha": "ac4215a533b13afe27d7090e0d24ac3906c88e66",
+      "visualReview": "Fresh strawberry baskets sit beneath a price tag that changes from three coins to two with a downward arrow.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "last",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I caught the last bus home just before midnight.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/last.svg",
+      "blobSha": "b8364a226dd95241b191fac61cb804fd3a04b608",
+      "visualReview": "A lone passenger boards a bus beneath a clock close to midnight, with muted lit windows in the background.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "listen",

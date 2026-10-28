@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "pair",
+    "dailyExample": "I left my favourite pair of gloves on the bus.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two matching gloves remain together on a bus seat as their owner moves away.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "student",
+    "dailyExample": "A student left her backpack under the library desk.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Library books and reading desk establish the setting; a backpack is left underneath while the student exits.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "yourself",
+    "dailyExample": "Be careful not to cut yourself with that knife.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Knife and holding hand move together over a board while guiding fingertips stay away from the cutting edge; no injury is shown.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "price",
+    "dailyExample": "The price of fresh strawberries has fallen this week.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh strawberry baskets sit beneath a price tag that changes from three coins to two with a downward arrow.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "last",
+    "dailyExample": "I caught the last bus home just before midnight.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A lone passenger boards a bus beneath a clock close to midnight, with muted lit windows in the background.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
