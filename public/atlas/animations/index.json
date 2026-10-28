@@ -1190,6 +1190,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "toothpaste",
+      "src": "atlas/animations/toothpaste.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I squeezed some toothpaste onto my brush before breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sun",
+      "src": "atlas/animations/sun.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The sun appeared just as we reached the beach.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "france",
+      "src": "atlas/animations/france.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We travelled through France by train last summer.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "angry",
+      "src": "atlas/animations/angry.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "He felt angry when someone damaged his bicycle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "aeroplane",
+      "src": "atlas/animations/aeroplane.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The aeroplane flew low over the sandy beach.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

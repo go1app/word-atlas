@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "toothpaste",
+    "dailyExample": "I squeezed some toothpaste onto my brush before breakfast.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Tube lowers toward toothbrush bristles and reveals a small ribbon of paste over a bathroom basin in morning light.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sun",
+    "dailyExample": "The sun appeared just as we reached the beach.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A pair reaches the sand while a cloud shifts to reveal the sun; sea waves stay gentle.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "france",
+    "dailyExample": "We travelled through France by train last summer.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Summer train journey passes countryside and a simplified Eiffel-tower silhouette with a small tricolour cue.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "angry",
+    "dailyExample": "He felt angry when someone damaged his bicycle.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Tense brows, hands on hips and a visibly bent bicycle wheel convey anger at the damaged bicycle.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "aeroplane",
+    "dailyExample": "The aeroplane flew low over the sandy beach.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Recognizable passenger plane passes low over sandy shoreline with gentle moving waves.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

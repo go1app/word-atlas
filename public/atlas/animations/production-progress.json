@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 101,
-  "pending": 7197,
+  "uploaded": 106,
+  "pending": 7192,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "toothpaste",
-    "sun",
-    "france",
-    "angry",
-    "aeroplane"
+    "spring",
+    "rome",
+    "band",
+    "east",
+    "banana"
   ],
   "words": [
     {
@@ -1244,27 +1244,67 @@
     {
       "wordId": "toothpaste",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I squeezed some toothpaste onto my brush before breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/toothpaste.svg",
+      "blobSha": "8bee0b5f9555ebec470ee342e2ccb5ba3b77f10f",
+      "visualReview": "Tube lowers toward toothbrush bristles and reveals a small ribbon of paste over a bathroom basin in morning light.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sun",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The sun appeared just as we reached the beach.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sun.svg",
+      "blobSha": "3e5b540d66d71ecf3bc0e66d22da0e223efe2899",
+      "visualReview": "A pair reaches the sand while a cloud shifts to reveal the sun; sea waves stay gentle.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "france",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We travelled through France by train last summer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/france.svg",
+      "blobSha": "4eb1b76c6b5c5f43af7363b72cd1733914cc1f62",
+      "visualReview": "Summer train journey passes countryside and a simplified Eiffel-tower silhouette with a small tricolour cue.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "angry",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He felt angry when someone damaged his bicycle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/angry.svg",
+      "blobSha": "edec8b0a6c4bbb9961814cf4619b83ca63a936ff",
+      "visualReview": "Tense brows, hands on hips and a visibly bent bicycle wheel convey anger at the damaged bicycle.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "aeroplane",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The aeroplane flew low over the sandy beach.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/aeroplane.svg",
+      "blobSha": "8c6fb3a14421c1822fa5d921a0b9d17ab5179fe4",
+      "visualReview": "Recognizable passenger plane passes low over sandy shoreline with gentle moving waves.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "spring",
