@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "window",
+    "dailyExample": "Please open the window and let some fresh air in.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Casement morphs open and pale breeze moves into the room beside a curtain and plant.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "ride",
+    "dailyExample": "We ride our bikes to the lake every weekend.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two cyclists pedal with moving knees and rotating spokes on a route beside the lake.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "leg",
+    "dailyExample": "My legs felt tired after the long walk home.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Walker rests on a doorstep with hands on knees and subtle aching-leg accents after the long walk home.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tomato",
+    "dailyExample": "She sliced a ripe tomato for her cheese sandwich.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Ripe tomato, cut slices and a cheese sandwich share a board while knife and hand move together.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "try",
+    "dailyExample": "I'll try to fix the lamp before dinner.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand adjusts a lamp with a screwdriver and a faint test flicker appears, suggesting an attempt at repair.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -1910,6 +1910,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "window",
+      "src": "atlas/animations/window.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please open the window and let some fresh air in.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "ride",
+      "src": "atlas/animations/ride.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We ride our bikes to the lake every weekend.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "leg",
+      "src": "atlas/animations/leg.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My legs felt tired after the long walk home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "tomato",
+      "src": "atlas/animations/tomato.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She sliced a ripe tomato for her cheese sandwich.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "try",
+      "src": "atlas/animations/try.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I'll try to fix the lamp before dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
