@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "meet",
+    "dailyExample": "Let's meet outside the library after lunch today.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two friends approach each other and wave outside a library with an afternoon clock.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "stay",
+    "dailyExample": "We stayed at a small hotel beside the lake.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small hotel stands directly beside a lake; guests and luggage wait at the entrance.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "food",
+    "dailyExample": "We packed enough food for a picnic by the lake.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Food and a sandwich are packed into a woven basket with a lake visible outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "music",
+    "dailyExample": "Soft music drifted through the kitchen while we cooked.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Radio notes drift across a kitchen while a connected hand stirs a soup pot.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fridge",
+    "dailyExample": "Put the milk back in the fridge, please.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Milk enters the lit refrigerator before the solid door closes over it; hand withdraws first.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

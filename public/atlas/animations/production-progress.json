@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 191,
-  "pending": 7107,
+  "uploaded": 196,
+  "pending": 7102,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "meet",
-    "stay",
-    "food",
-    "music",
-    "fridge"
+    "website",
+    "china",
+    "telephone",
+    "question",
+    "village"
   ],
   "words": [
     {
@@ -2414,27 +2414,67 @@
     {
       "wordId": "meet",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Let's meet outside the library after lunch today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/meet.svg",
+      "blobSha": "2c17c21ea9970c6b00c992ab5aac9c0228322211",
+      "visualReview": "Two friends approach each other and wave outside a library with an afternoon clock.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "stay",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We stayed at a small hotel beside the lake.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/stay.svg",
+      "blobSha": "5d4594dd100aee030911498c7ab0744abea5b21a",
+      "visualReview": "Small hotel stands directly beside a lake; guests and luggage wait at the entrance.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "food",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We packed enough food for a picnic by the lake.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/food.svg",
+      "blobSha": "8214d9adc29f2fbd897d8b50826825789bf8edde",
+      "visualReview": "Food and a sandwich are packed into a woven basket with a lake visible outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "music",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Soft music drifted through the kitchen while we cooked.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/music.svg",
+      "blobSha": "a098b8b505db8d1e7a9e4803887fb57be50f7b2e",
+      "visualReview": "Radio notes drift across a kitchen while a connected hand stirs a soup pot.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fridge",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Put the milk back in the fridge, please.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fridge.svg",
+      "blobSha": "027471ce1940f1c088ee5971e2a44b75955f3925",
+      "visualReview": "Milk enters the lit refrigerator before the solid door closes over it; hand withdraws first.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "website",

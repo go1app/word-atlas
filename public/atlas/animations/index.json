@@ -2270,6 +2270,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "meet",
+      "src": "atlas/animations/meet.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Let's meet outside the library after lunch today.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "stay",
+      "src": "atlas/animations/stay.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We stayed at a small hotel beside the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "food",
+      "src": "atlas/animations/food.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We packed enough food for a picnic by the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "music",
+      "src": "atlas/animations/music.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Soft music drifted through the kitchen while we cooked.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fridge",
+      "src": "atlas/animations/fridge.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Put the milk back in the fridge, please.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
