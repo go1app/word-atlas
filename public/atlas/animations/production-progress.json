@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 116,
-  "pending": 7182,
+  "uploaded": 121,
+  "pending": 7177,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "mister",
-    "door",
-    "smile",
-    "october",
-    "room"
+    "rest",
+    "aunt",
+    "watch",
+    "exciting",
+    "africa"
   ],
   "words": [
     {
@@ -1439,27 +1439,67 @@
     {
       "wordId": "mister",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The children greeted their new neighbour as Mister Green.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/mister.svg",
+      "blobSha": "bc19a2a58c4a09cd5133db9050d09dc94e05efa3",
+      "visualReview": "Two children wave to an adult neighbour beside moving boxes; formal greeting is represented without text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "door",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please close the door before the cat gets out.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/door.svg",
+      "blobSha": "01a6898a648725fc569621e3c3ef9faea3e3fa3e",
+      "visualReview": "Door shape closes while the hand follows the knob; approaching cat remains on the inside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "smile",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The baby smiled when I waved across the room.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/smile.svg",
+      "blobSha": "3a7566024a3e54b08872f0d2c9b5536e6f86865d",
+      "visualReview": "Baby mouth curves into a broad smile in response to a waving hand across the room.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "october",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our local swimming pool will open again in October.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/october.svg",
+      "blobSha": "444a2fdb463afcb70f6b10b42829aa32cf9d3a7c",
+      "visualReview": "Autumn leaves frame a swimming pool with an opening gate; the tenth dot on a twelve-month card is highlighted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "room",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My room has a desk beside the window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/room.svg",
+      "blobSha": "41f1d64520702c7e380cee65c5e321624b103e54",
+      "visualReview": "Desk sits directly beside the window in a complete bedroom; curtains move gently.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "rest",

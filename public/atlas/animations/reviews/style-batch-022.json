@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "mister",
+    "dailyExample": "The children greeted their new neighbour as Mister Green.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two children wave to an adult neighbour beside moving boxes; formal greeting is represented without text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "door",
+    "dailyExample": "Please close the door before the cat gets out.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Door shape closes while the hand follows the knob; approaching cat remains on the inside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "smile",
+    "dailyExample": "The baby smiled when I waved across the room.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Baby mouth curves into a broad smile in response to a waving hand across the room.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "october",
+    "dailyExample": "Our local swimming pool will open again in October.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Autumn leaves frame a swimming pool with an opening gate; the tenth dot on a twelve-month card is highlighted.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "room",
+    "dailyExample": "My room has a desk beside the window.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Desk sits directly beside the window in a complete bedroom; curtains move gently.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
