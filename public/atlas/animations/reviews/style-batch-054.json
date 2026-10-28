@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "hour",
+    "dailyExample": "The walk to the lake took us an hour.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Minute hand circles once as walkers approach a lake; symbolic time passage accompanies the journey.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "married",
+    "dailyExample": "My sister is married and lives near the coast.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Couple by a coastal home is paired with a wedding photograph and interlocking rings.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "full",
+    "dailyExample": "The basket is full, so we need another one.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Overflowing produce basket is contrasted with another empty basket brought alongside it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "europe",
+    "dailyExample": "My cousin travelled across Europe by train last summer.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Train journey links small European landmark travel views without visible place labels.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "happen",
+    "dailyExample": "What happened to the plant beside your window?",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Damaged plant, fallen soil and pot fragments beside an open window prompt a question gesture.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

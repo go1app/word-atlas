@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 276,
-  "pending": 7022,
+  "uploaded": 281,
+  "pending": 7017,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "hour",
-    "married",
-    "full",
-    "europe",
-    "happen"
+    "number",
+    "take",
+    "enjoy",
+    "january",
+    "hobby"
   ],
   "words": [
     {
@@ -3519,27 +3519,67 @@
     {
       "wordId": "hour",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The walk to the lake took us an hour.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hour.svg",
+      "blobSha": "21d50b548ab1f98adedd93ba6cc40b615a7e7802",
+      "visualReview": "Minute hand circles once as walkers approach a lake; symbolic time passage accompanies the journey.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "married",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister is married and lives near the coast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/married.svg",
+      "blobSha": "481b5ba99a6b131d322b63a40420e4a9a57161ea",
+      "visualReview": "Couple by a coastal home is paired with a wedding photograph and interlocking rings.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "full",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The basket is full, so we need another one.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/full.svg",
+      "blobSha": "4f1262269beafab29d2cce4c15c87e92ed36f393",
+      "visualReview": "Overflowing produce basket is contrasted with another empty basket brought alongside it.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "europe",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin travelled across Europe by train last summer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/europe.svg",
+      "blobSha": "2751c4c2e7287268add0d68cfd90b0f51ec54871",
+      "visualReview": "Train journey links small European landmark travel views without visible place labels.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "happen",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "What happened to the plant beside your window?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/happen.svg",
+      "blobSha": "2e7e9e0e605272f8248bb21cc1f5dcaace50353f",
+      "visualReview": "Damaged plant, fallen soil and pot fragments beside an open window prompt a question gesture.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "number",
