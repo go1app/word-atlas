@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "quickly",
+    "dailyExample": "We quickly packed our bags when the taxi arrived.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Taxi arrives outside while clothes are moved into an open suitcase; both objects establish hurried packing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "activity",
+    "dailyExample": "Painting is my favourite activity on rainy afternoons.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rain remains outside the clipped window; a painting hand and brush share a timed stroke across the paper.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "town",
+    "dailyExample": "Our town has a bakery beside the old bridge.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bakery with visible bread is placed directly beside the stone bridge and river; miniature people establish town scale.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "without",
+    "dailyExample": "I left the house without my keys this morning.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A walking figure leaves the hall while the keys stay inside on the table; reset happens while the figure is invisible.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "picture",
+    "dailyExample": "She hung a picture of the sea above her bed.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A sea picture moves upward to the hook above the bed, with a person on a low stool reaching to it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
