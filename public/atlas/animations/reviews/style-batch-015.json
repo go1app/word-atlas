@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "night",
+    "dailyExample": "We watched the stars from our balcony last night.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two figures look from a balcony toward twinkling stars and a crescent moon; warm doorway balances night colors.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "ask",
+    "dailyExample": "I asked the driver where the bus stopped.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Passenger faces a uniformed driver; a question bubble gives way to a pointing route toward a bus-stop sign.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "jacket",
+    "dailyExample": "I grabbed my jacket before stepping into the cold.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand and jacket move together away from a wall hook beside a doorway opening to cold snow.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "lucky",
+    "dailyExample": "We were lucky to catch the last bus home.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two passengers reach a waiting bus at night before fading inside; clock and arrival accents suggest the last service.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "jeans",
+    "dailyExample": "These jeans are still wet from the wash.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Blue jeans sway from two clips above a puddle; damp hems and falling drops show they are still wet.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

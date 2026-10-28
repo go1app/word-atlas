@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 81,
-  "pending": 7217,
+  "uploaded": 86,
+  "pending": 7212,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "night",
-    "ask",
-    "jacket",
-    "lucky",
-    "jeans"
+    "fire",
+    "sister",
+    "winter",
+    "doctor",
+    "pizza"
   ],
   "words": [
     {
@@ -984,27 +984,67 @@
     {
       "wordId": "night",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched the stars from our balcony last night.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/night.svg",
+      "blobSha": "5dfd296f00b9647196df342427d3157c3f7eb127",
+      "visualReview": "Two figures look from a balcony toward twinkling stars and a crescent moon; warm doorway balances night colors.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "ask",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I asked the driver where the bus stopped.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/ask.svg",
+      "blobSha": "8c796f66183772fef21d92e4fd1f11a96988a9df",
+      "visualReview": "Passenger faces a uniformed driver; a question bubble gives way to a pointing route toward a bus-stop sign.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "jacket",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I grabbed my jacket before stepping into the cold.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/jacket.svg",
+      "blobSha": "1f95f3080e50429a31ec3987999414df81eebab7",
+      "visualReview": "Hand and jacket move together away from a wall hook beside a doorway opening to cold snow.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "lucky",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We were lucky to catch the last bus home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/lucky.svg",
+      "blobSha": "fcdd541a7eb0893843ec8949fad4377e799e9fec",
+      "visualReview": "Two passengers reach a waiting bus at night before fading inside; clock and arrival accents suggest the last service.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "jeans",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "These jeans are still wet from the wash.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/jeans.svg",
+      "blobSha": "661a8df241593b0c4273e90e367d1f5ba73ebf1d",
+      "visualReview": "Blue jeans sway from two clips above a puddle; damp hems and falling drops show they are still wet.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fire",

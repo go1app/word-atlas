@@ -950,6 +950,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "night",
+      "src": "atlas/animations/night.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched the stars from our balcony last night.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "ask",
+      "src": "atlas/animations/ask.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I asked the driver where the bus stopped.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "jacket",
+      "src": "atlas/animations/jacket.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I grabbed my jacket before stepping into the cold.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "lucky",
+      "src": "atlas/animations/lucky.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We were lucky to catch the last bus home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "jeans",
+      "src": "atlas/animations/jeans.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These jeans are still wet from the wash.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
