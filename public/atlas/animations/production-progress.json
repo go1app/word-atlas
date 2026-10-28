@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 76,
-  "pending": 7222,
+  "uploaded": 81,
+  "pending": 7217,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "pet",
-    "stop",
-    "holiday",
-    "english",
-    "front"
+    "night",
+    "ask",
+    "jacket",
+    "lucky",
+    "jeans"
   ],
   "words": [
     {
@@ -919,27 +919,67 @@
     {
       "wordId": "pet",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our pet rabbit loves hiding under the kitchen table.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pet.svg",
+      "blobSha": "b1c237e430cd4d16d0b3e8ff99db0cd5cabf64c0",
+      "visualReview": "Rabbit moves into the kitchen table shadow and peeks out; ears, whiskers and tail identify the pet.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "stop",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We stopped walking when the rain became heavier.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/stop.svg",
+      "blobSha": "a60c7f174928a9ac97cf21d99211ea491a1852a5",
+      "visualReview": "Two walkers advance then stop as a denser rain layer appears; reset is hidden by fading.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "holiday",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent our holiday swimming and exploring quiet villages.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/holiday.svg",
+      "blobSha": "19e820e3aed9e4350d2d540348c8106c9b3df661",
+      "visualReview": "Swimming figures in the sea and two walkers by village houses depict both activities from the example.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "english",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We practise English together while walking home from college.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/english.svg",
+      "blobSha": "5b358baff4e7467ec3cd9796d60030d5af67b56c",
+      "visualReview": "Two students leave a college and exchange alternating dialogue bubbles; muted UK flag cues the language.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "front",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please leave your muddy boots by the front door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/front.svg",
+      "blobSha": "724ef6ced89987e1d4884169e5a3c954f33e66d1",
+      "visualReview": "Symmetrical front porch and center entrance distinguish this scene from the side-door example; muddy boots settle beside it.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "night",

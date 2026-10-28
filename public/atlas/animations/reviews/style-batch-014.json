@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "pet",
+    "dailyExample": "Our pet rabbit loves hiding under the kitchen table.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rabbit moves into the kitchen table shadow and peeks out; ears, whiskers and tail identify the pet.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "stop",
+    "dailyExample": "We stopped walking when the rain became heavier.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two walkers advance then stop as a denser rain layer appears; reset is hidden by fading.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "holiday",
+    "dailyExample": "We spent our holiday swimming and exploring quiet villages.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Swimming figures in the sea and two walkers by village houses depict both activities from the example.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "english",
+    "dailyExample": "We practise English together while walking home from college.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two students leave a college and exchange alternating dialogue bubbles; muted UK flag cues the language.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "front",
+    "dailyExample": "Please leave your muddy boots by the front door.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Symmetrical front porch and center entrance distinguish this scene from the side-door example; muddy boots settle beside it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
