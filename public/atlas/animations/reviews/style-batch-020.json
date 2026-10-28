@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "spring",
+    "dailyExample": "We plant flowers in the garden every spring.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two gardeners plant flowering seedlings into a fresh garden bed; spring colors and a picket fence support the setting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "rome",
+    "dailyExample": "We spent our first afternoon in Rome exploring ancient ruins.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two visitors explore a simplified ancient Roman amphitheatre with layered arches in afternoon light.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "band",
+    "dailyExample": "My sister plays the drums in a local band.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Central drummer swings two drumsticks between toms and cymbals, accompanied by two guitar players.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "east",
+    "dailyExample": "Our kitchen window faces east and catches the morning sun.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Low morning sun shines through the kitchen window; an east-pointing compass arrow supports the direction.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "banana",
+    "dailyExample": "He peeled a banana and sliced it over his cereal.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Peeled banana is held above cereal while a connected knife hand moves and small slices fall into the bowl.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

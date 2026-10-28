@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 106,
-  "pending": 7192,
+  "uploaded": 111,
+  "pending": 7187,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "spring",
-    "rome",
-    "band",
-    "east",
-    "banana"
+    "camera",
+    "menu",
+    "girl",
+    "answer",
+    "line"
   ],
   "words": [
     {
@@ -1309,27 +1309,67 @@
     {
       "wordId": "spring",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We plant flowers in the garden every spring.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/spring.svg",
+      "blobSha": "d3c146f9cbe2e8b866ecc575f26af024173dfc7a",
+      "visualReview": "Two gardeners plant flowering seedlings into a fresh garden bed; spring colors and a picket fence support the setting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "rome",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent our first afternoon in Rome exploring ancient ruins.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/rome.svg",
+      "blobSha": "8ecec7cbcd29f080b480567d6563bb7524876545",
+      "visualReview": "Two visitors explore a simplified ancient Roman amphitheatre with layered arches in afternoon light.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "band",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister plays the drums in a local band.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/band.svg",
+      "blobSha": "4959264f36a72bf9fc1ec6e56e181515ac5ff614",
+      "visualReview": "Central drummer swings two drumsticks between toms and cymbals, accompanied by two guitar players.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "east",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our kitchen window faces east and catches the morning sun.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/east.svg",
+      "blobSha": "29af9e1f773bda070f5b392eecce727a25f3ea3d",
+      "visualReview": "Low morning sun shines through the kitchen window; an east-pointing compass arrow supports the direction.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "banana",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He peeled a banana and sliced it over his cereal.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/banana.svg",
+      "blobSha": "0db59fe276b7df14fd53b378f54d46320020761e",
+      "visualReview": "Peeled banana is held above cereal while a connected knife hand moves and small slices fall into the bowl.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "camera",
