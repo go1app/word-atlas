@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "japanese",
+    "dailyExample": "We enjoyed Japanese food at a small restaurant yesterday.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small restaurant contains rice bowls, sushi and shoji; chopstick arm and food follow the same lifting sequence.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "river",
+    "dailyExample": "We watched ducks swimming across the river this morning.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Ducks move forward across a visible river; the family resets outside the clipped frame instead of swimming backwards.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "horse",
+    "dailyExample": "The brown horse gently took an apple from my hand.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Four legs, lowered neck and muzzle-to-apple contact checked; apple fades as the horse takes it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "lunch",
+    "dailyExample": "We ate lunch under a tree beside the river.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seated figures and food are placed on a blanket beneath a tree beside the river; the eating hand stays connected to the shoulder.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tall",
+    "dailyExample": "A tall tree shades our garden in the afternoon.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Large tree dominates the small garden; its shaded patch contains a much smaller child reading. Canopy sway remains attached to the trunk.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 26,
-  "pending": 7272,
+  "uploaded": 31,
+  "pending": 7267,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "japanese",
-    "river",
-    "horse",
-    "lunch",
-    "tall"
+    "also",
+    "coat",
+    "elephant",
+    "fast",
+    "from"
   ],
   "words": [
     {
@@ -269,27 +269,67 @@
     {
       "wordId": "japanese",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We enjoyed Japanese food at a small restaurant yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/japanese.svg",
+      "blobSha": "02e3198e6cddfef562a4af0a0e3d65743ee8aeb2",
+      "visualReview": "Small restaurant contains rice bowls, sushi and shoji; chopstick arm and food follow the same lifting sequence.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "river",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched ducks swimming across the river this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/river.svg",
+      "blobSha": "2bd18ece9415e57cb9e96fdd912875ef4f0ea6ac",
+      "visualReview": "Ducks move forward across a visible river; the family resets outside the clipped frame instead of swimming backwards.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "horse",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The brown horse gently took an apple from my hand.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/horse.svg",
+      "blobSha": "816e8177322e3a033f9aaf94d1f11716df46b64a",
+      "visualReview": "Four legs, lowered neck and muzzle-to-apple contact checked; apple fades as the horse takes it.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "lunch",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We ate lunch under a tree beside the river.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/lunch.svg",
+      "blobSha": "60f98f4481a6ca084f49ceb8f0cccf8086de0b68",
+      "visualReview": "Seated figures and food are placed on a blanket beneath a tree beside the river; the eating hand stays connected to the shoulder.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tall",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A tall tree shades our garden in the afternoon.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tall.svg",
+      "blobSha": "d2a8ab08a0c199aa9226210215010effa6c9bba7",
+      "visualReview": "Large tree dominates the small garden; its shaded patch contains a much smaller child reading. Canopy sway remains attached to the trunk.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "also",
