@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 211,
-  "pending": 7087,
+  "uploaded": 216,
+  "pending": 7082,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "around",
-    "by",
-    "smell",
-    "grandparent",
-    "friendly"
+    "wide",
+    "fly",
+    "cold",
+    "children",
+    "trousers"
   ],
   "words": [
     {
@@ -2674,27 +2674,67 @@
     {
       "wordId": "around",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We sat around the fire and watched the stars.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/around.svg",
+      "blobSha": "4214994dcbb8f7e0cc6bbbfde1e487b262c639ef",
+      "visualReview": "Four seated figures form a ring around a gently flickering campfire beneath twinkling stars.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "by",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This wooden bowl was made by my grandfather.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/by.svg",
+      "blobSha": "da42058dadc42c121a5a017a4ca2a9022217d2e1",
+      "visualReview": "Grey-haired grandfather carves a wooden bowl, with visible wood grain and shavings.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "smell",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The smell of fresh bread filled our kitchen.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/smell.svg",
+      "blobSha": "159b2b4883a3c7b84d2fdf6564261da9dd15f766",
+      "visualReview": "Warm bread aroma curls toward a child with closed eyes and a contented expression in the kitchen.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "grandparent",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Each grandparent brought a homemade dish to our picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/grandparent.svg",
+      "blobSha": "17ba3c8f2efe879e90a05064a87c297282a16229",
+      "visualReview": "Four older relatives bring distinct homemade dishes to a picnic blanket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "friendly",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our new neighbour is friendly and always waves hello.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/friendly.svg",
+      "blobSha": "94cc338b589594993820d659dd0a297e14054f77",
+      "visualReview": "Neighbour smiles and waves from a garden gate; raised forearm pivots from a fixed shoulder.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wide",

@@ -2510,6 +2510,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "around",
+      "src": "atlas/animations/around.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We sat around the fire and watched the stars.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "by",
+      "src": "atlas/animations/by.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This wooden bowl was made by my grandfather.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "smell",
+      "src": "atlas/animations/smell.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The smell of fresh bread filled our kitchen.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "grandparent",
+      "src": "atlas/animations/grandparent.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Each grandparent brought a homemade dish to our picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "friendly",
+      "src": "atlas/animations/friendly.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our new neighbour is friendly and always waves hello.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

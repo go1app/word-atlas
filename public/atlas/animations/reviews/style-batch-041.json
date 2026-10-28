@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "around",
+    "dailyExample": "We sat around the fire and watched the stars.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Four seated figures form a ring around a gently flickering campfire beneath twinkling stars.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "by",
+    "dailyExample": "This wooden bowl was made by my grandfather.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grey-haired grandfather carves a wooden bowl, with visible wood grain and shavings.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "smell",
+    "dailyExample": "The smell of fresh bread filled our kitchen.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Warm bread aroma curls toward a child with closed eyes and a contented expression in the kitchen.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "grandparent",
+    "dailyExample": "Each grandparent brought a homemade dish to our picnic.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Four older relatives bring distinct homemade dishes to a picnic blanket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "friendly",
+    "dailyExample": "Our new neighbour is friendly and always waves hello.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Neighbour smiles and waves from a garden gate; raised forearm pivots from a fixed shoulder.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
