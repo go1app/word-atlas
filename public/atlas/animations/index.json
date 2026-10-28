@@ -3230,6 +3230,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "before",
+      "src": "atlas/animations/before.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please put your shoes by the door before dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "wonderful",
+      "src": "atlas/animations/wonderful.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We had a wonderful picnic beside the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "notebook",
+      "src": "atlas/animations/notebook.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She keeps a small notebook beside her bed.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "white",
+      "src": "atlas/animations/white.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She wore a white cotton shirt to the picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "large",
+      "src": "atlas/animations/large.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A large dog was sleeping beside the kitchen door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

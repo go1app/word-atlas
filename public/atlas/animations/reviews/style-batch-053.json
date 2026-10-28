@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "before",
+    "dailyExample": "Please put your shoes by the door before dinner.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Shoes settle beside the entrance before a covered dinner is served, with an order arrow linking the scenes.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "wonderful",
+    "dailyExample": "We had a wonderful picnic beside the lake.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Smiling family shares a peaceful lakeside picnic with gentle water and butterfly movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "notebook",
+    "dailyExample": "She keeps a small notebook beside her bed.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small bound notebook is placed on the bedside table beside a bed and lamp.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "white",
+    "dailyExample": "She wore a white cotton shirt to the picnic.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "White collared cotton shirt remains visually distinct against the picnic setting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "large",
+    "dailyExample": "A large dog was sleeping beside the kitchen door.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Large dog breathes softly while sleeping beside the kitchen doorway, scaled prominently against its surroundings.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

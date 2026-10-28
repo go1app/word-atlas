@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 271,
-  "pending": 7027,
+  "uploaded": 276,
+  "pending": 7022,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "before",
-    "wonderful",
-    "notebook",
-    "white",
-    "large"
+    "hour",
+    "married",
+    "full",
+    "europe",
+    "happen"
   ],
   "words": [
     {
@@ -3454,27 +3454,67 @@
     {
       "wordId": "before",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please put your shoes by the door before dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/before.svg",
+      "blobSha": "686d41bd8a4930930f0689e9a507bc16d8ee9691",
+      "visualReview": "Shoes settle beside the entrance before a covered dinner is served, with an order arrow linking the scenes.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wonderful",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We had a wonderful picnic beside the lake.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wonderful.svg",
+      "blobSha": "bf6600565b9e0dd2247b732825a46a5783376a73",
+      "visualReview": "Smiling family shares a peaceful lakeside picnic with gentle water and butterfly movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "notebook",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She keeps a small notebook beside her bed.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/notebook.svg",
+      "blobSha": "0d0afe4c5943e0df340334cbe90f8dbc8bacad30",
+      "visualReview": "Small bound notebook is placed on the bedside table beside a bed and lamp.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "white",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She wore a white cotton shirt to the picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/white.svg",
+      "blobSha": "10d94e6dfbe9d97017e86d9191be10fd01db9efa",
+      "visualReview": "White collared cotton shirt remains visually distinct against the picnic setting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "large",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A large dog was sleeping beside the kitchen door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/large.svg",
+      "blobSha": "54e3b042945dde89e5cf6dd6d6ca90abe754c96a",
+      "visualReview": "Large dog breathes softly while sleeping beside the kitchen doorway, scaled prominently against its surroundings.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hour",
