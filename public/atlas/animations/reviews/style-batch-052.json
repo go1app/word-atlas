@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "tired",
+    "dailyExample": "I felt too tired to cook after the walk.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Walker rests with slumped hands in a supported chair, bag nearby and unused stove at the side.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "spain",
+    "dailyExample": "We travelled around Spain by train last summer.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Summer train passes terracotta-roofed houses and olive groves, with a muted Spanish flag cue.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "play",
+    "dailyExample": "The children played with wooden blocks on the floor.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two children sit on the floor and add a wooden block to their shared tower.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "different",
+    "dailyExample": "These gloves look similar, but their sizes are different.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two same-colour gloves align along a baseline while their unequal sizes are highlighted.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pool",
+    "dailyExample": "We spent the afternoon swimming in the outdoor pool.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Swimmers move across an outdoor pool under afternoon sun with gentle ripples.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

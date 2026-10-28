@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 266,
-  "pending": 7032,
+  "uploaded": 271,
+  "pending": 7027,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "tired",
-    "spain",
-    "play",
-    "different",
-    "pool"
+    "before",
+    "wonderful",
+    "notebook",
+    "white",
+    "large"
   ],
   "words": [
     {
@@ -3389,27 +3389,67 @@
     {
       "wordId": "tired",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I felt too tired to cook after the walk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tired.svg",
+      "blobSha": "c6f5bd9716604d596d1562813dc62ae8d525274d",
+      "visualReview": "Walker rests with slumped hands in a supported chair, bag nearby and unused stove at the side.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "spain",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We travelled around Spain by train last summer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/spain.svg",
+      "blobSha": "bc1d48ad9dcd5562d4646061e17d8225ba97575f",
+      "visualReview": "Summer train passes terracotta-roofed houses and olive groves, with a muted Spanish flag cue.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "play",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The children played with wooden blocks on the floor.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/play.svg",
+      "blobSha": "f6e40b14d2308ce54ee8b0d631a3f8df4bc8a7b4",
+      "visualReview": "Two children sit on the floor and add a wooden block to their shared tower.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "different",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "These gloves look similar, but their sizes are different.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/different.svg",
+      "blobSha": "1fa3bf28fd466bbf6bb0a13caa22bb2433ee0baa",
+      "visualReview": "Two same-colour gloves align along a baseline while their unequal sizes are highlighted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pool",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent the afternoon swimming in the outdoor pool.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pool.svg",
+      "blobSha": "b2c13148edd589d883d0dbdac0c09e653f2ca7c3",
+      "visualReview": "Swimmers move across an outdoor pool under afternoon sun with gentle ripples.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "before",

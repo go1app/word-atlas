@@ -3170,6 +3170,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "tired",
+      "src": "atlas/animations/tired.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I felt too tired to cook after the walk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "spain",
+      "src": "atlas/animations/spain.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We travelled around Spain by train last summer.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "play",
+      "src": "atlas/animations/play.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The children played with wooden blocks on the floor.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "different",
+      "src": "atlas/animations/different.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These gloves look similar, but their sizes are different.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pool",
+      "src": "atlas/animations/pool.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We spent the afternoon swimming in the outdoor pool.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
