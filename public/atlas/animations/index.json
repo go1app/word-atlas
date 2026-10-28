@@ -1670,6 +1670,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pig",
+      "src": "atlas/animations/pig.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A pink pig was sleeping beside the wooden fence.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "our",
+      "src": "atlas/animations/our.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our kitchen smells wonderful when Dad bakes fresh bread.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "football",
+      "src": "atlas/animations/football.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We play football in the park every Saturday morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "station",
+      "src": "atlas/animations/station.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We hurried to the station with our heavy suitcases.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "tomorrow",
+      "src": "atlas/animations/tomorrow.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We are meeting at the swimming pool tomorrow morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

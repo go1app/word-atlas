@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 141,
-  "pending": 7157,
+  "uploaded": 146,
+  "pending": 7152,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "pig",
-    "our",
-    "football",
-    "station",
-    "tomorrow"
+    "fourth",
+    "today",
+    "plane",
+    "job",
+    "supermarket"
   ],
   "words": [
     {
@@ -1764,27 +1764,67 @@
     {
       "wordId": "pig",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A pink pig was sleeping beside the wooden fence.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pig.svg",
+      "blobSha": "c4250248e0796b1007679e449d2e7ebd7c25f0a1",
+      "visualReview": "Pink pig sleeps beside a wooden farm fence with tiny breathing motion and curled tail.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "our",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our kitchen smells wonderful when Dad bakes fresh bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/our.svg",
+      "blobSha": "3cd56d1cf3d875cf22d79835eda202934b458fef",
+      "visualReview": "Father presents fresh bread to family in their kitchen while warm steam rises.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "football",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We play football in the park every Saturday morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/football.svg",
+      "blobSha": "494d28fbffc6353b12796491dc88e2b534a03f4e",
+      "visualReview": "Two players kick a ball across a marked park pitch; sixth weekday dot cues Saturday.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "station",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We hurried to the station with our heavy suitcases.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/station.svg",
+      "blobSha": "32846cdc000ac80b5cd3cae7082fcaf88b8b9efb",
+      "visualReview": "Travellers move together toward a station clock and entrance while large wheeled cases remain attached to their hands.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tomorrow",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We are meeting at the swimming pool tomorrow morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tomorrow.svg",
+      "blobSha": "a517d7543664667faad63fed166621033fc9da17",
+      "visualReview": "Arrow leads from a dim current calendar page to a sunny next page over a pool meeting scene.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fourth",

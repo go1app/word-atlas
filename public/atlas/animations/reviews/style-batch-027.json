@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "pig",
+    "dailyExample": "A pink pig was sleeping beside the wooden fence.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pink pig sleeps beside a wooden farm fence with tiny breathing motion and curled tail.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "our",
+    "dailyExample": "Our kitchen smells wonderful when Dad bakes fresh bread.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Father presents fresh bread to family in their kitchen while warm steam rises.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "football",
+    "dailyExample": "We play football in the park every Saturday morning.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two players kick a ball across a marked park pitch; sixth weekday dot cues Saturday.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "station",
+    "dailyExample": "We hurried to the station with our heavy suitcases.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Travellers move together toward a station clock and entrance while large wheeled cases remain attached to their hands.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tomorrow",
+    "dailyExample": "We are meeting at the swimming pool tomorrow morning.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Arrow leads from a dim current calendar page to a sunny next page over a pool meeting scene.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
