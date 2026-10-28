@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 96,
-  "pending": 7202,
+  "uploaded": 101,
+  "pending": 7197,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "listen",
-    "poor",
-    "gym",
-    "reading",
-    "guitar"
+    "toothpaste",
+    "sun",
+    "france",
+    "angry",
+    "aeroplane"
   ],
   "words": [
     {
@@ -1179,27 +1179,67 @@
     {
       "wordId": "listen",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I listen to music while cooking dinner every evening.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/listen.svg",
+      "blobSha": "1f01efd2d0bb1e49fe13a747000ead6a111ef790",
+      "visualReview": "Headphones and musical notes accompany a person stirring a pot in an evening kitchen.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "poor",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The poor family could barely afford fresh vegetables.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/poor.svg",
+      "blobSha": "89daea41de5a60d54b91807bffb1e1cdee861dc7",
+      "visualReview": "Family counts two coins beside a vegetable basket with a higher four-coin tag, showing limited buying power.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "gym",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I usually go to the gym before work.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/gym.svg",
+      "blobSha": "66ebb7e9e9f516bc8700b235853b04ae5f174afb",
+      "visualReview": "Exerciser curls a dumbbell with a connected morphing forearm; work bag and morning clock support before-work context.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "reading",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Reading before bed helps me relax after a busy day.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/reading.svg",
+      "blobSha": "e80ec406bd241739b10d80744a76710c07430e36",
+      "visualReview": "Seated reader holds an open book near a warm lamp with night visible outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "guitar",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister plays the guitar beside the window every evening.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/guitar.svg",
+      "blobSha": "2643ebf9f6fcba2db30cfc19edce17a5a98e36eb",
+      "visualReview": "Six-string guitar includes sound hole, bridge and tuning pegs; sister strums beside the evening window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "toothpaste",

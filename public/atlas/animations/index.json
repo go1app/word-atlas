@@ -1130,6 +1130,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "listen",
+      "src": "atlas/animations/listen.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I listen to music while cooking dinner every evening.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "poor",
+      "src": "atlas/animations/poor.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The poor family could barely afford fresh vegetables.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "gym",
+      "src": "atlas/animations/gym.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I usually go to the gym before work.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "reading",
+      "src": "atlas/animations/reading.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Reading before bed helps me relax after a busy day.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "guitar",
+      "src": "atlas/animations/guitar.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My sister plays the guitar beside the window every evening.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

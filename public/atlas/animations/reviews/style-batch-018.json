@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "listen",
+    "dailyExample": "I listen to music while cooking dinner every evening.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Headphones and musical notes accompany a person stirring a pot in an evening kitchen.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "poor",
+    "dailyExample": "The poor family could barely afford fresh vegetables.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Family counts two coins beside a vegetable basket with a higher four-coin tag, showing limited buying power.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "gym",
+    "dailyExample": "I usually go to the gym before work.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exerciser curls a dumbbell with a connected morphing forearm; work bag and morning clock support before-work context.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "reading",
+    "dailyExample": "Reading before bed helps me relax after a busy day.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seated reader holds an open book near a warm lamp with night visible outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "guitar",
+    "dailyExample": "My sister plays the guitar beside the window every evening.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Six-string guitar includes sound hole, bridge and tuning pegs; sister strums beside the evening window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
