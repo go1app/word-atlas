@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "afraid",
+    "dailyExample": "The puppy was afraid of the noisy vacuum cleaner.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Puppy retreats beside the sofa and trembles slightly while a noisy vacuum moves closer.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "start",
+    "dailyExample": "We started cooking dinner as soon as we got home.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Coat and grocery bag by the entrance establish arriving home; two figures begin cutting and stirring dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hospital",
+    "dailyExample": "She works as a nurse at the local hospital.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Nurse holds a clipboard beside a patient bed in a bright ward with a medical cross.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "life",
+    "dailyExample": "Life feels quieter since we moved to the countryside.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Peaceful countryside home includes reading on the porch, trees, birds and moving boxes to suggest a quieter life after moving.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "centre",
+    "dailyExample": "We placed a vase in the centre of the table.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Vase is lowered onto the centre mat of a round table before the hand withdraws; reset is faded.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

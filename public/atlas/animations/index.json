@@ -1550,6 +1550,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "afraid",
+      "src": "atlas/animations/afraid.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The puppy was afraid of the noisy vacuum cleaner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "start",
+      "src": "atlas/animations/start.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We started cooking dinner as soon as we got home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hospital",
+      "src": "atlas/animations/hospital.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She works as a nurse at the local hospital.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "life",
+      "src": "atlas/animations/life.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Life feels quieter since we moved to the countryside.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "centre",
+      "src": "atlas/animations/centre.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We placed a vase in the centre of the table.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

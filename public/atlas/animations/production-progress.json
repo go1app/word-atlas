@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 131,
-  "pending": 7167,
+  "uploaded": 136,
+  "pending": 7162,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "afraid",
-    "start",
-    "hospital",
-    "life",
-    "centre"
+    "magazine",
+    "practise",
+    "city",
+    "boring",
+    "finish"
   ],
   "words": [
     {
@@ -1634,27 +1634,67 @@
     {
       "wordId": "afraid",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The puppy was afraid of the noisy vacuum cleaner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/afraid.svg",
+      "blobSha": "15b44dc81a72e3f094f574e4a6d941bfd55876ee",
+      "visualReview": "Puppy retreats beside the sofa and trembles slightly while a noisy vacuum moves closer.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "start",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We started cooking dinner as soon as we got home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/start.svg",
+      "blobSha": "67696b4455c48e97241893c380bb3f7acb8b2edc",
+      "visualReview": "Coat and grocery bag by the entrance establish arriving home; two figures begin cutting and stirring dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hospital",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She works as a nurse at the local hospital.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hospital.svg",
+      "blobSha": "4510b7e03ca7f305d303092308c08a1669f309cd",
+      "visualReview": "Nurse holds a clipboard beside a patient bed in a bright ward with a medical cross.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "life",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Life feels quieter since we moved to the countryside.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/life.svg",
+      "blobSha": "7750cb7398283390d7b4ac457fa965dcdeaf999c",
+      "visualReview": "Peaceful countryside home includes reading on the porch, trees, birds and moving boxes to suggest a quieter life after moving.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "centre",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We placed a vase in the centre of the table.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/centre.svg",
+      "blobSha": "9a46da3282f5b554d69789f113348413bd6b4c4b",
+      "visualReview": "Vase is lowered onto the centre mat of a round table before the hand withdraws; reset is faded.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "magazine",
