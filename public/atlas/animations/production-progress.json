@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 16,
-  "pending": 7282,
+  "uploaded": 21,
+  "pending": 7277,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "use",
-    "minute",
-    "even",
-    "o-clock",
-    "australian"
+    "cut",
+    "remember",
+    "wake",
+    "juice",
+    "really"
   ],
   "words": [
     {
@@ -139,27 +139,67 @@
     {
       "wordId": "use",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Can I use your scissors to open this package?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/use.svg",
+      "blobSha": "e20dec6340e95336c4ccf6269d6d1e620f9a11ea",
+      "visualReview": "Scissors move along the taped seam of the package, supported by a hand.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "minute",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Wait a minute while I find my keys.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/minute.svg",
+      "blobSha": "c807092d0a9ba322aa8243edf14d7c0cdf93ac77",
+      "visualReview": "Bag is lifted to reveal keys; lifting forearm was repositioned to keep the hand connected to its owner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "even",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Everyone joined the dance, even our shy uncle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/even.svg",
+      "blobSha": "7b45f7cba1294f95e60c38f2366e1685be0fb9f9",
+      "visualReview": "A hesitant uncle moves into the family dance; duplicate down-facing arms removed before adding raised arms.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "o-clock",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please meet me outside the library at three o'clock.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/o-clock.svg",
+      "blobSha": "22b1e89f53194bbfa7f5dfdb564d31eb15c98f8e",
+      "visualReview": "Two people meet outside a library; fixed clock hands indicate three o’clock.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "australian",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spotted several Australian animals at the wildlife park.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/australian.svg",
+      "blobSha": "43089de9146fb36535e7fbefeb2d03764755df12",
+      "visualReview": "A kangaroo and koala establish wildlife-park context; observer holds binoculars and extra arm lines removed.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cut",

@@ -1,0 +1,67 @@
+[
+  {
+    "wordId": "use",
+    "dailyExample": "Can I use your scissors to open this package?",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Scissors move along the taped seam of the package, supported by a hand.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "minute",
+    "dailyExample": "Wait a minute while I find my keys.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Bag is lifted to reveal keys; lifting forearm was repositioned to keep the hand connected to its owner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "even",
+    "dailyExample": "Everyone joined the dance, even our shy uncle.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "A hesitant uncle moves into the family dance; duplicate down-facing arms removed before adding raised arms.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "o-clock",
+    "dailyExample": "Please meet me outside the library at three o'clock.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Two people meet outside a library; fixed clock hands indicate three o’clock.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "australian",
+    "dailyExample": "We spotted several Australian animals at the wildlife park.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "A kangaroo and koala establish wildlife-park context; observer holds binoculars and extra arm lines removed.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -170,6 +170,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "use",
+      "src": "atlas/animations/use.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Can I use your scissors to open this package?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "minute",
+      "src": "atlas/animations/minute.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Wait a minute while I find my keys.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "even",
+      "src": "atlas/animations/even.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Everyone joined the dance, even our shy uncle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "o-clock",
+      "src": "atlas/animations/o-clock.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please meet me outside the library at three o'clock.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "australian",
+      "src": "atlas/animations/australian.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We spotted several Australian animals at the wildlife park.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
