@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 206,
-  "pending": 7092,
+  "uploaded": 211,
+  "pending": 7087,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "my",
-    "later",
-    "soon",
-    "umbrella",
-    "after"
+    "around",
+    "by",
+    "smell",
+    "grandparent",
+    "friendly"
   ],
   "words": [
     {
@@ -2609,27 +2609,67 @@
     {
       "wordId": "my",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I left my umbrella beside the front door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/my.svg",
+      "blobSha": "82e735a190c52eafdffde3858db0b4be3ff7d823",
+      "visualReview": "Hand leaves a closed personal umbrella beside the front door and withdraws.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "later",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I'll wash the dishes later, after we finish eating.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/later.svg",
+      "blobSha": "ea13fe55743e8db09fceeb300ef9044579688ce6",
+      "visualReview": "Meal remains at left while a later washing phase appears at the sink on the right, linked by a time-order arrow.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "soon",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Dinner will be ready soon, so wash your hands.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/soon.svg",
+      "blobSha": "e765799208f33dca2e5df8577d8b53d64f3ff65e",
+      "visualReview": "Hands wash beneath the running tap while dinner steams on the nearby stove.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "umbrella",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We shared an umbrella on the walk home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/umbrella.svg",
+      "blobSha": "ad0f2ac6594a4009b20d903a48ebc23308e5c009",
+      "visualReview": "Two people walk together beneath one umbrella toward home in light rain.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "after",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually take a short walk after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/after.svg",
+      "blobSha": "b56ffde74d1123d9407953640adb4db986d88077",
+      "visualReview": "Pair walks outside after a meal visible through the warmly lit dining-room window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "around",

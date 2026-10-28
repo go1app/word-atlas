@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "my",
+    "dailyExample": "I left my umbrella beside the front door.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand leaves a closed personal umbrella beside the front door and withdraws.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "later",
+    "dailyExample": "I'll wash the dishes later, after we finish eating.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Meal remains at left while a later washing phase appears at the sink on the right, linked by a time-order arrow.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "soon",
+    "dailyExample": "Dinner will be ready soon, so wash your hands.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hands wash beneath the running tap while dinner steams on the nearby stove.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "umbrella",
+    "dailyExample": "We shared an umbrella on the walk home.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people walk together beneath one umbrella toward home in light rain.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "after",
+    "dailyExample": "We usually take a short walk after dinner.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pair walks outside after a meal visible through the warmly lit dining-room window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
