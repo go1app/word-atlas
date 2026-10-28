@@ -2992,7 +2992,7 @@
       "dailyExample": "Please tell me what happened at school today.",
       "sourceVerified": true,
       "assetPath": "public/atlas/animations/tell.svg",
-      "blobSha": "474691ffbd35d71e777d74263d582dc90c3e816e",
+      "blobSha": "410ea14b779a4cea0d05832800aad18842353eae",
       "visualReview": "Child gestures while parent listens; a picture bubble recalls school and play without written dialogue.",
       "browserPlaybackVerified": false
     },
