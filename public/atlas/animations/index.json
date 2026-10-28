@@ -830,6 +830,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "postcard",
+      "src": "atlas/animations/postcard.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She sent me a postcard from a seaside village.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "head",
+      "src": "atlas/animations/head.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She shook her head when I offered more soup.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "yesterday",
+      "src": "atlas/animations/yesterday.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I left my umbrella on the bus yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "waitress",
+      "src": "atlas/animations/waitress.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The waitress brought us warm bread and fresh soup.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "something",
+      "src": "atlas/animations/something.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There is something soft inside this little box.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

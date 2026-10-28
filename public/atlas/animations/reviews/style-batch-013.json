@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "postcard",
+    "dailyExample": "She sent me a postcard from a seaside village.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A seaside village illustration fades to the reverse showing a stamp and message marks; hands hold the card.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "head",
+    "dailyExample": "She shook her head when I offered more soup.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Head rotates about the neck in a repeated no gesture while another hand offers soup.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "yesterday",
+    "dailyExample": "I left my umbrella on the bus yesterday.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Passenger exits a bus but umbrella stays on the seat; a small backward calendar cue supports the past-time example.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "waitress",
+    "dailyExample": "The waitress brought us warm bread and fresh soup.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Aproned waitress approaches a diner with bread and steaming soup supported by one tray.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "something",
+    "dailyExample": "There is something soft inside this little box.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A hand presses a soft folded fabric inside an open small box; object identity is left ambiguous.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

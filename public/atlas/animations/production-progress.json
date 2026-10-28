@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 71,
-  "pending": 7227,
+  "uploaded": 76,
+  "pending": 7222,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "postcard",
-    "head",
-    "yesterday",
-    "waitress",
-    "something"
+    "pet",
+    "stop",
+    "holiday",
+    "english",
+    "front"
   ],
   "words": [
     {
@@ -854,27 +854,67 @@
     {
       "wordId": "postcard",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She sent me a postcard from a seaside village.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/postcard.svg",
+      "blobSha": "d8db5719a43261b61e2a383f50792e3027373bab",
+      "visualReview": "A seaside village illustration fades to the reverse showing a stamp and message marks; hands hold the card.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "head",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She shook her head when I offered more soup.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/head.svg",
+      "blobSha": "c9a17674e7c077bc55c0bc99346d451db3767c90",
+      "visualReview": "Head rotates about the neck in a repeated no gesture while another hand offers soup.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "yesterday",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I left my umbrella on the bus yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/yesterday.svg",
+      "blobSha": "b660d891f56fc1e4d217563e62d00f781b86861e",
+      "visualReview": "Passenger exits a bus but umbrella stays on the seat; a small backward calendar cue supports the past-time example.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "waitress",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The waitress brought us warm bread and fresh soup.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/waitress.svg",
+      "blobSha": "31053c9b8961fa0580bb74830365d2f6303b733d",
+      "visualReview": "Aproned waitress approaches a diner with bread and steaming soup supported by one tray.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "something",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "There is something soft inside this little box.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/something.svg",
+      "blobSha": "0441cc7a9c252e6b87333bfbf80ce5fbceb63384",
+      "visualReview": "A hand presses a soft folded fabric inside an open small box; object identity is left ambiguous.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pet",
