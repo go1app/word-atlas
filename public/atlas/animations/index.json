@@ -230,6 +230,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cut",
+      "src": "atlas/animations/cut.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She cut the apple into slices for her brother.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "remember",
+      "src": "atlas/animations/remember.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I still remember the smell of my grandmother's kitchen.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "wake",
+      "src": "atlas/animations/wake.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please wake me before you leave for work.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "juice",
+      "src": "atlas/animations/juice.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She squeezed fresh orange juice into a glass.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "really",
+      "src": "atlas/animations/really.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This soup is really hot, so let it cool.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

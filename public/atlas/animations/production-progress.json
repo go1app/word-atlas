@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 21,
-  "pending": 7277,
+  "uploaded": 26,
+  "pending": 7272,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "cut",
-    "remember",
-    "wake",
-    "juice",
-    "really"
+    "japanese",
+    "river",
+    "horse",
+    "lunch",
+    "tall"
   ],
   "words": [
     {
@@ -204,27 +204,67 @@
     {
       "wordId": "cut",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She cut the apple into slices for her brother.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cut.svg",
+      "blobSha": "244a84ea38200073dfd79368ea2b0a5664abf9b5",
+      "visualReview": "Knife descends to the board; flesh slice separates after contact. Both hands remain connected to the objects.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "remember",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I still remember the smell of my grandmother's kitchen.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/remember.svg",
+      "blobSha": "d5e8e4fbe36f7372c60f52d8cae5cf2ff3a4839e",
+      "visualReview": "Aroma from bread evokes a memory of grandmother cooking; memory vignette fades in rather than replacing the real scene.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wake",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please wake me before you leave for work.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wake.svg",
+      "blobSha": "59fb21162ca4aa906253eb562a4ef83309ddbe2b",
+      "visualReview": "A visitor ready for work gently taps beside the sleeper, whose closed and open eyes alternate.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "juice",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She squeezed fresh orange juice into a glass.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/juice.svg",
+      "blobSha": "13c729c781c1a5594f22419135b5731fdef151b2",
+      "visualReview": "An orange half is squeezed over a glass; juice thread and drops appear during compression.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "really",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This soup is really hot, so let it cool.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/really.svg",
+      "blobSha": "004e431ccc42d93c7d46637a6d1f4cea8d9dcc69",
+      "visualReview": "Hot soup initially produces more steam; spoon withdraws while it cools. The waiting interval illustrates the daily sentence.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "japanese",
@@ -36649,5 +36689,5 @@
   ],
   "currentStyle": "abandon-reference-flat-storybook",
   "styleReferenceApprovedByUser": true,
-  "executionState": "resumed_by_user_2026-10-28"
+  "executionState": "continuous_user_authorized"
 }

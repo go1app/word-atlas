@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "cut",
+    "dailyExample": "She cut the apple into slices for her brother.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Knife descends to the board; flesh slice separates after contact. Both hands remain connected to the objects.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "remember",
+    "dailyExample": "I still remember the smell of my grandmother's kitchen.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Aroma from bread evokes a memory of grandmother cooking; memory vignette fades in rather than replacing the real scene.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "wake",
+    "dailyExample": "Please wake me before you leave for work.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A visitor ready for work gently taps beside the sleeper, whose closed and open eyes alternate.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "juice",
+    "dailyExample": "She squeezed fresh orange juice into a glass.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "An orange half is squeezed over a glass; juice thread and drops appear during compression.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "really",
+    "dailyExample": "This soup is really hot, so let it cool.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hot soup initially produces more steam; spoon withdraws while it cools. The waiting interval illustrates the daily sentence.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
