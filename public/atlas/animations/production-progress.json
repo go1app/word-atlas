@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 186,
-  "pending": 7112,
+  "uploaded": 191,
+  "pending": 7107,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "map",
-    "move",
-    "send",
-    "sixty",
-    "list"
+    "meet",
+    "stay",
+    "food",
+    "music",
+    "fridge"
   ],
   "words": [
     {
@@ -2349,27 +2349,67 @@
     {
       "wordId": "map",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spread the map across the table before leaving.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/map.svg",
+      "blobSha": "c2f441e15f80f045090297e4e9f393c49f7a654f",
+      "visualReview": "Folded map widens across the table while a suitcase waits by the doorway; paths, river and compass remain graphic.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "move",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you move this chair closer to the window?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/move.svg",
+      "blobSha": "895a29e1f22748354ff0e1903f43c453320f09ee",
+      "visualReview": "Person and chair move together toward the left-hand sunlit window; supporting hands stay attached.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "send",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please send me a photo of your new puppy.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/send.svg",
+      "blobSha": "015bbc0982cf947554ec54341359746025f262cc",
+      "visualReview": "A puppy photo travels from one phone to another and appears on the recipient screen.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sixty",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My grandfather turned sixty and celebrated with a picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sixty.svg",
+      "blobSha": "589c798c06acc1d7b92827133f19e0c6062609f2",
+      "visualReview": "Grandfather celebrates at a picnic; six groups of ten dots encode the age without written word or numeral.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "list",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I made a shopping list before leaving home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/list.svg",
+      "blobSha": "f87ad6ea8b58970e3cc76992ce0c3684acdf6c1d",
+      "visualReview": "Food pictograms and successive check marks form a shopping list as a pen advances down the page.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "meet",

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "map",
+    "dailyExample": "We spread the map across the table before leaving.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Folded map widens across the table while a suitcase waits by the doorway; paths, river and compass remain graphic.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "move",
+    "dailyExample": "Could you move this chair closer to the window?",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person and chair move together toward the left-hand sunlit window; supporting hands stay attached.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "send",
+    "dailyExample": "Please send me a photo of your new puppy.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A puppy photo travels from one phone to another and appears on the recipient screen.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sixty",
+    "dailyExample": "My grandfather turned sixty and celebrated with a picnic.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grandfather celebrates at a picnic; six groups of ten dots encode the age without written word or numeral.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "list",
+    "dailyExample": "I made a shopping list before leaving home.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Food pictograms and successive check marks form a shopping list as a pen advances down the page.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
