@@ -4010,6 +4010,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "wash",
+      "src": "atlas/animations/wash.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please wash your hands before you help prepare dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sofa",
+      "src": "atlas/animations/sofa.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We curled up on the sofa after dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "interesting",
+      "src": "atlas/animations/interesting.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We found an interesting little museum near the station.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "rice",
+      "src": "atlas/animations/rice.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We had rice with steamed fish for dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "area",
+      "src": "atlas/animations/area.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There is a quiet picnic area beside the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 336,
-  "pending": 6962,
+  "uploaded": 341,
+  "pending": 6957,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "wash",
-    "sofa",
-    "interesting",
-    "rice",
-    "area"
+    "clean",
+    "business",
+    "walking",
+    "name",
+    "airport"
   ],
   "words": [
     {
@@ -4299,27 +4299,67 @@
     {
       "wordId": "wash",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please wash your hands before you help prepare dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wash.svg",
+      "blobSha": "c476b2853bbac8acddb0566698ca3edcdc0c1b43",
+      "visualReview": "Two hands rub with soap beneath running tap water above a kitchen sink.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sofa",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We curled up on the sofa after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sofa.svg",
+      "blobSha": "f3d60094404d86e861ee0e7ac860b012f9b5b397",
+      "visualReview": "Two people sit curled up on supported sofa cushions with bent knees and an empty dinner plate nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "interesting",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We found an interesting little museum near the station.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/interesting.svg",
+      "blobSha": "58da019d460548930c9521b75c7a517c278a36b9",
+      "visualReview": "Small museum beside a station contains a fossil skeleton display; visitors pause outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "rice",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We had rice with steamed fish for dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/rice.svg",
+      "blobSha": "5431f64eb520e6814e5fc97ac5e1980780f2eb3b",
+      "visualReview": "Dinner table has two rice bowls and a central steamed fish with rising steam.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "area",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "There is a quiet picnic area beside the lake.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/area.svg",
+      "blobSha": "90ceb26f125e9844c190ff974b8bb068abe3d285",
+      "visualReview": "Quiet lake picnic spot has a table, bench, basket and fruit beneath a tree with gently moving birds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "clean",

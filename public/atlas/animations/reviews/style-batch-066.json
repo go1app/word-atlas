@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "wash",
+    "dailyExample": "Please wash your hands before you help prepare dinner.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two hands rub with soap beneath running tap water above a kitchen sink.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sofa",
+    "dailyExample": "We curled up on the sofa after dinner.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people sit curled up on supported sofa cushions with bent knees and an empty dinner plate nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "interesting",
+    "dailyExample": "We found an interesting little museum near the station.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small museum beside a station contains a fossil skeleton display; visitors pause outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "rice",
+    "dailyExample": "We had rice with steamed fish for dinner.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Dinner table has two rice bowls and a central steamed fish with rising steam.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "area",
+    "dailyExample": "There is a quiet picnic area beside the lake.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Quiet lake picnic spot has a table, bench, basket and fruit beneath a tree with gently moving birds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
