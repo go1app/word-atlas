@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 306,
-  "pending": 6992,
+  "uploaded": 311,
+  "pending": 6987,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "hill",
-    "late",
-    "age",
-    "cake",
-    "photograph"
+    "sound",
+    "nationality",
+    "ruler",
+    "open",
+    "singer"
   ],
   "words": [
     {
@@ -3909,27 +3909,67 @@
     {
       "wordId": "hill",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We climbed the hill and watched the sunset.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hill.svg",
+      "blobSha": "e6ae6d3ac85a0de63b7d2d7959b1a55ede4b97a6",
+      "visualReview": "Two walkers climb a curving hill path and pause beneath a low sunset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "late",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I was late because my bicycle had a flat tyre.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/late.svg",
+      "blobSha": "66ceda22636a2d5e455356a0ae569af14f9ba7a1",
+      "visualReview": "Rider is delayed by a visibly flattened tyre beneath the destination clock.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "age",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My grandmother learned to swim at the age of seventy.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/age.svg",
+      "blobSha": "88d63a6680c9af549d8e3b8512b4fba0082909bd",
+      "visualReview": "Silver-haired grandmother learns with a float board while seven rows of ten dots encode seventy without answer text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cake",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We shared a slice of lemon cake after lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cake.svg",
+      "blobSha": "bb862b52bc91e68d178169edc0e326ce443b195b",
+      "visualReview": "One lemon cake slice has visible lemon garnish, layered crumb and two forks for sharing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "photograph",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This photograph shows my grandparents standing beside their first house.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/photograph.svg",
+      "blobSha": "24198badfb4f358c04d2964e17d93e68f52a45aa",
+      "visualReview": "Gently held old print depicts a couple beside their early cottage in a muted archival palette.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sound",

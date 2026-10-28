@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "hill",
+    "dailyExample": "We climbed the hill and watched the sunset.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two walkers climb a curving hill path and pause beneath a low sunset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "late",
+    "dailyExample": "I was late because my bicycle had a flat tyre.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rider is delayed by a visibly flattened tyre beneath the destination clock.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "age",
+    "dailyExample": "My grandmother learned to swim at the age of seventy.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Silver-haired grandmother learns with a float board while seven rows of ten dots encode seventy without answer text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cake",
+    "dailyExample": "We shared a slice of lemon cake after lunch.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One lemon cake slice has visible lemon garnish, layered crumb and two forks for sharing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "photograph",
+    "dailyExample": "This photograph shows my grandparents standing beside their first house.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Gently held old print depicts a couple beside their early cottage in a muted archival palette.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

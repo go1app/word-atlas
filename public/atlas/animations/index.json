@@ -3650,6 +3650,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hill",
+      "src": "atlas/animations/hill.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We climbed the hill and watched the sunset.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "late",
+      "src": "atlas/animations/late.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I was late because my bicycle had a flat tyre.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "age",
+      "src": "atlas/animations/age.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My grandmother learned to swim at the age of seventy.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cake",
+      "src": "atlas/animations/cake.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We shared a slice of lemon cake after lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "photograph",
+      "src": "atlas/animations/photograph.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This photograph shows my grandparents standing beside their first house.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
