@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "basketball",
+    "dailyExample": "We play basketball at the park after school.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Ball follows a clear arc into a park hoop while a student holds a shooting pose after school.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tiger",
+    "dailyExample": "The tiger rested in the shade beside a pool.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Striped tiger rests with closed eyes and gentle breathing in tree shade beside a pool.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "christmas",
+    "dailyExample": "Our family usually shares a special meal at Christmas.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Family shares a special meal beside a decorated Christmas tree with subtle lights.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "desk",
+    "dailyExample": "I keep my pencils in the top desk drawer.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Top drawer opens to reveal coloured pencils while a hand follows the handle.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tell",
+    "dailyExample": "Please tell me what happened at school today.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child gestures while parent listens; a picture bubble recalls school and play without written dialogue.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

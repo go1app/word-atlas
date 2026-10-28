@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 231,
-  "pending": 7067,
+  "uploaded": 236,
+  "pending": 7062,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "basketball",
-    "tiger",
-    "christmas",
-    "desk",
-    "tell"
+    "course",
+    "beach",
+    "below",
+    "wife",
+    "there"
   ],
   "words": [
     {
@@ -2934,27 +2934,67 @@
     {
       "wordId": "basketball",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We play basketball at the park after school.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/basketball.svg",
+      "blobSha": "3636437abea9e69f81008e448c37e0838194579a",
+      "visualReview": "Ball follows a clear arc into a park hoop while a student holds a shooting pose after school.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tiger",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The tiger rested in the shade beside a pool.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tiger.svg",
+      "blobSha": "274f0641e3c9dce34da79d69b29abbcc110127a8",
+      "visualReview": "Striped tiger rests with closed eyes and gentle breathing in tree shade beside a pool.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "christmas",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our family usually shares a special meal at Christmas.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/christmas.svg",
+      "blobSha": "66f3e9e19db9bef50bc2fda8059eafbc558195be",
+      "visualReview": "Family shares a special meal beside a decorated Christmas tree with subtle lights.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "desk",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I keep my pencils in the top desk drawer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/desk.svg",
+      "blobSha": "56977a2df0dc57dc9dc2bd4ac003528d33064613",
+      "visualReview": "Top drawer opens to reveal coloured pencils while a hand follows the handle.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tell",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please tell me what happened at school today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tell.svg",
+      "blobSha": "474691ffbd35d71e777d74263d582dc90c3e816e",
+      "visualReview": "Child gestures while parent listens; a picture bubble recalls school and play without written dialogue.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "course",
