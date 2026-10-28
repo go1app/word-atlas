@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 326,
-  "pending": 6972,
+  "uploaded": 331,
+  "pending": 6967,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "member",
-    "fish",
-    "daughter",
-    "sheep",
-    "school"
+    "always",
+    "usually",
+    "history",
+    "friday",
+    "feet"
   ],
   "words": [
     {
@@ -4169,27 +4169,67 @@
     {
       "wordId": "member",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Each club member brought a dish to share.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/member.svg",
+      "blobSha": "d2a5281466038b53e11f33c077d2d76a6e638e1c",
+      "visualReview": "Three club members each hold a different shared dish above a communal table.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fish",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched small fish swimming under the wooden bridge.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fish.svg",
+      "blobSha": "83015571127b0464ed4bad3fabf6007c10068e3f",
+      "visualReview": "Small fish swim beneath a timber bridge while children look down from the rail.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "daughter",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Their daughter made pancakes for the whole family.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/daughter.svg",
+      "blobSha": "fb01dd60c4058f1758af35c0b854229639c7b3db",
+      "visualReview": "Daughter cooks a pancake at the stove while family members wait beside served pancake plates.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sheep",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Several sheep were resting under a tree near the farm.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sheep.svg",
+      "blobSha": "2315d350d36ad61420e2502f2335d47df0616f2e",
+      "visualReview": "Several sheep rest with folded legs and closed eyes under a broad tree beside farm buildings.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "school",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We walk to school together along the river.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/school.svg",
+      "blobSha": "d3fdbacfa536223af58c5398df20d012db04c162",
+      "visualReview": "Children carrying school bags move subtly along a riverside path toward the school building.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "always",

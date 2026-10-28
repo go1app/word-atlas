@@ -3890,6 +3890,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "member",
+      "src": "atlas/animations/member.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Each club member brought a dish to share.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fish",
+      "src": "atlas/animations/fish.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched small fish swimming under the wooden bridge.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "daughter",
+      "src": "atlas/animations/daughter.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Their daughter made pancakes for the whole family.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sheep",
+      "src": "atlas/animations/sheep.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Several sheep were resting under a tree near the farm.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "school",
+      "src": "atlas/animations/school.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We walk to school together along the river.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

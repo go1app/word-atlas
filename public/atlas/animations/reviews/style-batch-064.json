@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "member",
+    "dailyExample": "Each club member brought a dish to share.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three club members each hold a different shared dish above a communal table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fish",
+    "dailyExample": "We watched small fish swimming under the wooden bridge.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small fish swim beneath a timber bridge while children look down from the rail.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "daughter",
+    "dailyExample": "Their daughter made pancakes for the whole family.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Daughter cooks a pancake at the stove while family members wait beside served pancake plates.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sheep",
+    "dailyExample": "Several sheep were resting under a tree near the farm.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Several sheep rest with folded legs and closed eyes under a broad tree beside farm buildings.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "school",
+    "dailyExample": "We walk to school together along the river.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Children carrying school bags move subtly along a riverside path toward the school building.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
