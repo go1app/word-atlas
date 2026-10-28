@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "sometimes",
+    "dailyExample": "I sometimes take the longer route home through the park.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Forked routes show a longer path through trees and a bench toward home; traveller follows the park side.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "newspaper",
+    "dailyExample": "My grandfather reads the newspaper while eating breakfast.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grey-haired grandfather holds a large columned newspaper with breakfast bread and cup on the table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fine",
+    "dailyExample": "I feel fine now, so let's go for a walk.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person leaves an armchair and blanket to walk toward a sunlit open doorway, with an upbeat gesture.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "boat",
+    "dailyExample": "We hired a small boat and explored the lake.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people ride a small wooden rowboat across a calm lake near a rental-style dock; oar moves above the water.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "card",
+    "dailyExample": "I tapped my card to pay for the groceries.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand and payment card tap a terminal beside groceries; contactless waves and a check mark appear at contact.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

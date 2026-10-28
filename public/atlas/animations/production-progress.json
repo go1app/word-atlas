@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 126,
-  "pending": 7172,
+  "uploaded": 131,
+  "pending": 7167,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sometimes",
-    "newspaper",
-    "fine",
-    "boat",
-    "card"
+    "afraid",
+    "start",
+    "hospital",
+    "life",
+    "centre"
   ],
   "words": [
     {
@@ -1569,27 +1569,67 @@
     {
       "wordId": "sometimes",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I sometimes take the longer route home through the park.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sometimes.svg",
+      "blobSha": "e5df03e9c2261100b61b880f820dbfd094bf6f76",
+      "visualReview": "Forked routes show a longer path through trees and a bench toward home; traveller follows the park side.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "newspaper",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My grandfather reads the newspaper while eating breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/newspaper.svg",
+      "blobSha": "cb9015678ed34f105a74a2028d4ba6b98e08b183",
+      "visualReview": "Grey-haired grandfather holds a large columned newspaper with breakfast bread and cup on the table.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fine",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I feel fine now, so let's go for a walk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fine.svg",
+      "blobSha": "8150cb514543f45ce0cbf725cb3a2c055639573a",
+      "visualReview": "Person leaves an armchair and blanket to walk toward a sunlit open doorway, with an upbeat gesture.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "boat",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We hired a small boat and explored the lake.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/boat.svg",
+      "blobSha": "4f03348162f7de7da17fa455beb72e71f087fe7f",
+      "visualReview": "Two people ride a small wooden rowboat across a calm lake near a rental-style dock; oar moves above the water.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "card",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I tapped my card to pay for the groceries.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/card.svg",
+      "blobSha": "4835756d0e8aa70c6d121cfa86c3cea818501a81",
+      "visualReview": "Hand and payment card tap a terminal beside groceries; contactless waves and a check mark appear at contact.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "afraid",

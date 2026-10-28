@@ -1490,6 +1490,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sometimes",
+      "src": "atlas/animations/sometimes.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I sometimes take the longer route home through the park.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "newspaper",
+      "src": "atlas/animations/newspaper.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My grandfather reads the newspaper while eating breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fine",
+      "src": "atlas/animations/fine.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I feel fine now, so let's go for a walk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "boat",
+      "src": "atlas/animations/boat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We hired a small boat and explored the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "card",
+      "src": "atlas/animations/card.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I tapped my card to pay for the groceries.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
