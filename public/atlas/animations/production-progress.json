@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 176,
-  "pending": 7122,
+  "uploaded": 181,
+  "pending": 7117,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "grammar",
-    "that",
-    "ticket",
-    "third",
-    "maths"
+    "second",
+    "floor",
+    "farm",
+    "low",
+    "painting"
   ],
   "words": [
     {
@@ -2219,27 +2219,67 @@
     {
       "wordId": "grammar",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our teacher explains grammar using examples from everyday conversations.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/grammar.svg",
+      "blobSha": "825daea212a4366b8cf180dbe5835070fc20140e",
+      "visualReview": "Teacher links three visual sentence-part cards to a conversation bubble in an everyday-language lesson.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "that",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you pass me that bowl beside the window?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/that.svg",
+      "blobSha": "f12d23624c895303979a798cb52223f36cef7510",
+      "visualReview": "A pointing hand singles out the bowl beside the window before another hand passes it along the table.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "ticket",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I bought a return ticket from the station machine.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/ticket.svg",
+      "blobSha": "ec1db2cba3d2c2ee2e2d5f5b4fc36a849dff351f",
+      "visualReview": "Station machine shows outbound and return arrows; a ticket emerges after a button is pressed.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "third",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our flat is on the third floor, beside the lift.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/third.svg",
+      "blobSha": "7241076b6092c6180566edf42647a6c47402a78f",
+      "visualReview": "Three apartment floors are shown with the third highlighted and an adjacent lift arriving there.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "maths",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We used coloured blocks to practise maths after lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/maths.svg",
+      "blobSha": "6a991113d62296fe244a349391c86ce547014ab1",
+      "visualReview": "Children practise a visual two-plus-one exercise with coloured cubes after lunch; result group fades in.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "second",

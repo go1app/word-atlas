@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "grammar",
+    "dailyExample": "Our teacher explains grammar using examples from everyday conversations.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Teacher links three visual sentence-part cards to a conversation bubble in an everyday-language lesson.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "that",
+    "dailyExample": "Could you pass me that bowl beside the window?",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A pointing hand singles out the bowl beside the window before another hand passes it along the table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "ticket",
+    "dailyExample": "I bought a return ticket from the station machine.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Station machine shows outbound and return arrows; a ticket emerges after a button is pressed.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "third",
+    "dailyExample": "Our flat is on the third floor, beside the lift.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three apartment floors are shown with the third highlighted and an adjacent lift arriving there.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "maths",
+    "dailyExample": "We used coloured blocks to practise maths after lunch.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Children practise a visual two-plus-one exercise with coloured cubes after lunch; result group fades in.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
