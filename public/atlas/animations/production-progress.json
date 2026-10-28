@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 316,
-  "pending": 6982,
+  "uploaded": 321,
+  "pending": 6977,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "true",
-    "television",
-    "back",
-    "gray",
-    "anyone"
+    "beautiful",
+    "tooth",
+    "relax",
+    "summer",
+    "group"
   ],
   "words": [
     {
@@ -4039,27 +4039,67 @@
     {
       "wordId": "true",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Is it TRUE that your cat can open doors?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/true.svg",
+      "blobSha": "c138565f9cd8f7d5886685ad16bb66b193523fe9",
+      "visualReview": "Cat paw stays at the moving door lever as the door swings inward, demonstrating the surprising claim.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "television",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched a wildlife programme on television after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/television.svg",
+      "blobSha": "6e023e751ce14539f876e1a8cfa9c19fa5dda14f",
+      "visualReview": "Wildlife programme contains a deer moving in a television frame, with two viewers and an empty dinner plate.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "back",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My back feels stiff after sitting all morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/back.svg",
+      "blobSha": "eded339b663f96267b96bb8fbf023226dfa67155",
+      "visualReview": "Desk and chair establish prolonged sitting; standing figure holds the lower back with subtle discomfort arcs.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "gray",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My grandfather wears a gray coat every winter.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/gray.svg",
+      "blobSha": "dc0bfc02033754cca67db5fffdf0b55977ef8518",
+      "visualReview": "Grandfather wears a gray coat, scarf and spectacles in a gently snowing winter park.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "anyone",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Anyone can join our weekend walk by the river.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/anyone.svg",
+      "blobSha": "2cb74e6f24831ad0296501422ead2f0691c42bca",
+      "visualReview": "Adults and children walk together along a river; light body movement supports an inclusive weekend outing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "beautiful",

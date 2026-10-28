@@ -3770,6 +3770,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "true",
+      "src": "atlas/animations/true.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Is it TRUE that your cat can open doors?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "television",
+      "src": "atlas/animations/television.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched a wildlife programme on television after dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "back",
+      "src": "atlas/animations/back.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My back feels stiff after sitting all morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "gray",
+      "src": "atlas/animations/gray.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My grandfather wears a gray coat every winter.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "anyone",
+      "src": "atlas/animations/anyone.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Anyone can join our weekend walk by the river.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

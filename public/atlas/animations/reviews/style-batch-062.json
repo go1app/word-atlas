@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "true",
+    "dailyExample": "Is it TRUE that your cat can open doors?",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cat paw stays at the moving door lever as the door swings inward, demonstrating the surprising claim.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "television",
+    "dailyExample": "We watched a wildlife programme on television after dinner.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Wildlife programme contains a deer moving in a television frame, with two viewers and an empty dinner plate.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "back",
+    "dailyExample": "My back feels stiff after sitting all morning.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Desk and chair establish prolonged sitting; standing figure holds the lower back with subtle discomfort arcs.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "gray",
+    "dailyExample": "My grandfather wears a gray coat every winter.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grandfather wears a gray coat, scarf and spectacles in a gently snowing winter park.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "anyone",
+    "dailyExample": "Anyone can join our weekend walk by the river.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Adults and children walk together along a river; light body movement supports an inclusive weekend outing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
