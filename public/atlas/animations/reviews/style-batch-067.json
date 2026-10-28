@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "clean",
+    "dailyExample": "There are clean towels on the shelf beside you.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Neatly folded fresh towels sit on a shelf beside a person reaching toward them, with a gentle cleanliness glint.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "business",
+    "dailyExample": "Business is usually slow at the café on Mondays.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A mostly empty café has one customer and a waiting barista; first weekday dot is highlighted on a seven-day card.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "walking",
+    "dailyExample": "Walking to the shops takes about ten minutes.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person with a shopping bag walks along a short path toward a shop, beside a small clock.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "name",
+    "dailyExample": "What name did you choose for your new kitten?",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "New kitten wears a collar while a person presents a blank name tag without visible words.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "airport",
+    "dailyExample": "We arrived at the airport before the sun rose.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Travelers with wheeled cases arrive at a terminal before dawn; plane, runway lights and stars establish setting and time.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

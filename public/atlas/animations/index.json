@@ -4070,6 +4070,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "clean",
+      "src": "atlas/animations/clean.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There are clean towels on the shelf beside you.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "business",
+      "src": "atlas/animations/business.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Business is usually slow at the café on Mondays.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "walking",
+      "src": "atlas/animations/walking.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Walking to the shops takes about ten minutes.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "name",
+      "src": "atlas/animations/name.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "What name did you choose for your new kitten?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "airport",
+      "src": "atlas/animations/airport.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We arrived at the airport before the sun rose.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

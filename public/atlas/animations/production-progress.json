@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 341,
-  "pending": 6957,
+  "uploaded": 346,
+  "pending": 6952,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "clean",
-    "business",
-    "walking",
-    "name",
-    "airport"
+    "often",
+    "dollar",
+    "it",
+    "baby",
+    "rabbit"
   ],
   "words": [
     {
@@ -4364,27 +4364,67 @@
     {
       "wordId": "clean",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "There are clean towels on the shelf beside you.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/clean.svg",
+      "blobSha": "367b65a43cc9539b1cafc75fb9f67314544304f7",
+      "visualReview": "Neatly folded fresh towels sit on a shelf beside a person reaching toward them, with a gentle cleanliness glint.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "business",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Business is usually slow at the café on Mondays.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/business.svg",
+      "blobSha": "6b7a6081bf94d44f3f6e2549c0a3e5873465a07a",
+      "visualReview": "A mostly empty café has one customer and a waiting barista; first weekday dot is highlighted on a seven-day card.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "walking",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Walking to the shops takes about ten minutes.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/walking.svg",
+      "blobSha": "ef6821449d0ed8509831a0ef9a427b27b5b2f5ec",
+      "visualReview": "Person with a shopping bag walks along a short path toward a shop, beside a small clock.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "name",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "What name did you choose for your new kitten?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/name.svg",
+      "blobSha": "8d66e01622627d42bc920e3f5ce3eff64bdb2c3b",
+      "visualReview": "New kitten wears a collar while a person presents a blank name tag without visible words.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "airport",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We arrived at the airport before the sun rose.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/airport.svg",
+      "blobSha": "1b4c8bfa2f569b14ee6aca1ae21f691b378c10d8",
+      "visualReview": "Travelers with wheeled cases arrive at a terminal before dawn; plane, runway lights and stars establish setting and time.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "often",
