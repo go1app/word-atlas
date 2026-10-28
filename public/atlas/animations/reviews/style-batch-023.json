@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "rest",
+    "dailyExample": "Let's have a rest under that shady tree.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Traveller rests beneath a spreading shady tree with hat and bag nearby; only pale breeze accents move.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "aunt",
+    "dailyExample": "My aunt taught me how to bake bread.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Older relative and child knead bread dough side by side with a small oven in view.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "watch",
+    "dailyExample": "We watched the ducks swimming across the quiet pond.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two observers stand still on the bank while three ducks and their ripples cross the quiet pond.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "exciting",
+    "dailyExample": "The final minutes of the match were incredibly exciting.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Ball moves into the goal as spectators lift their arms; late clock and score dots support a match climax.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "africa",
+    "dailyExample": "My cousin returned from Africa with beautiful handmade baskets.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Returning traveller presents handwoven baskets with detailed weave and a simplified African-continent map on the wall.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

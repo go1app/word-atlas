@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 121,
-  "pending": 7177,
+  "uploaded": 126,
+  "pending": 7172,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "rest",
-    "aunt",
-    "watch",
-    "exciting",
-    "africa"
+    "sometimes",
+    "newspaper",
+    "fine",
+    "boat",
+    "card"
   ],
   "words": [
     {
@@ -1504,27 +1504,67 @@
     {
       "wordId": "rest",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Let's have a rest under that shady tree.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/rest.svg",
+      "blobSha": "5537f6d40db430ec38de577a9da10238edaa067a",
+      "visualReview": "Traveller rests beneath a spreading shady tree with hat and bag nearby; only pale breeze accents move.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "aunt",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My aunt taught me how to bake bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/aunt.svg",
+      "blobSha": "d59f84cfd0867885c8c8f084c82c697a167f1602",
+      "visualReview": "Older relative and child knead bread dough side by side with a small oven in view.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "watch",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched the ducks swimming across the quiet pond.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/watch.svg",
+      "blobSha": "21903a8e96b457ab73d95b63f7e61ba91ed9bed6",
+      "visualReview": "Two observers stand still on the bank while three ducks and their ripples cross the quiet pond.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "exciting",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The final minutes of the match were incredibly exciting.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/exciting.svg",
+      "blobSha": "4b3a8e5df7b01628f7b11d2f2e3a91fa9976a866",
+      "visualReview": "Ball moves into the goal as spectators lift their arms; late clock and score dots support a match climax.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "africa",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin returned from Africa with beautiful handmade baskets.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/africa.svg",
+      "blobSha": "f027caae9863ac369cc569c6fc0dc5c98be808a9",
+      "visualReview": "Returning traveller presents handwoven baskets with detailed weave and a simplified African-continent map on the wall.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sometimes",
