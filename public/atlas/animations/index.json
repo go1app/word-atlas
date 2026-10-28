@@ -1610,6 +1610,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "magazine",
+      "src": "atlas/animations/magazine.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She bought a gardening magazine at the station.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "practise",
+      "src": "atlas/animations/practise.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I practise the violin quietly after dinner each evening.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "city",
+      "src": "atlas/animations/city.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We explored the city on foot all afternoon.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "boring",
+      "src": "atlas/animations/boring.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The film was so boring that I fell asleep.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "finish",
+      "src": "atlas/animations/finish.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I'll finish washing the dishes before we go.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "magazine",
+    "dailyExample": "She bought a gardening magazine at the station.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Gardening magazine with a flower cover is handed over a station kiosk counter beside a coin and clock.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "practise",
+    "dailyExample": "I practise the violin quietly after dinner each evening.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bow moves across a small violin under the chin in an evening room; dinner cup and plate remain nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "city",
+    "dailyExample": "We explored the city on foot all afternoon.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two visitors holding a map walk along a varied city street beside a central fountain.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "boring",
+    "dailyExample": "The film was so boring that I fell asleep.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cinema viewer closes eyes and nods forward while the film remains visually repetitive.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "finish",
+    "dailyExample": "I'll finish washing the dishes before we go.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Last rinsed plate and supporting hand move together from the sink to the clean stack as remaining bubbles disappear.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 136,
-  "pending": 7162,
+  "uploaded": 141,
+  "pending": 7157,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "magazine",
-    "practise",
-    "city",
-    "boring",
-    "finish"
+    "pig",
+    "our",
+    "football",
+    "station",
+    "tomorrow"
   ],
   "words": [
     {
@@ -1699,27 +1699,67 @@
     {
       "wordId": "magazine",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She bought a gardening magazine at the station.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/magazine.svg",
+      "blobSha": "1b16bafa34180e673c6c00608ab867af5b1fc246",
+      "visualReview": "Gardening magazine with a flower cover is handed over a station kiosk counter beside a coin and clock.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "practise",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I practise the violin quietly after dinner each evening.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/practise.svg",
+      "blobSha": "1773121e823efce75b24fe8429b6451ef77026c3",
+      "visualReview": "Bow moves across a small violin under the chin in an evening room; dinner cup and plate remain nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "city",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We explored the city on foot all afternoon.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/city.svg",
+      "blobSha": "b86e04d2685dcd1fe3d8eb334da873856a626698",
+      "visualReview": "Two visitors holding a map walk along a varied city street beside a central fountain.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "boring",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The film was so boring that I fell asleep.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/boring.svg",
+      "blobSha": "602c33e3bd520b4fa524dd89fda839509d57073c",
+      "visualReview": "Cinema viewer closes eyes and nods forward while the film remains visually repetitive.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "finish",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I'll finish washing the dishes before we go.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/finish.svg",
+      "blobSha": "e438f829e53d6891077699198cc401234d4ac24d",
+      "visualReview": "Last rinsed plate and supporting hand move together from the sink to the clean stack as remaining bubbles disappear.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pig",
