@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 46,
-  "pending": 7252,
+  "uploaded": 51,
+  "pending": 7247,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "hat",
-    "worker",
-    "chips",
-    "keep",
-    "left"
+    "put",
+    "sunday",
+    "rainy",
+    "hotel",
+    "skirt"
   ],
   "words": [
     {
@@ -529,27 +529,67 @@
     {
       "wordId": "hat",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I grabbed my hat before stepping into the sunshine.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hat.svg",
+      "blobSha": "2b807b49480309b40984f055b0546e3dac06fa18",
+      "visualReview": "Hand and broad-brimmed hat lift together from the hallway table toward the sunshine; no extra hat is already on a character’s head.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "worker",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A worker in orange overalls repaired the broken fence.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/worker.svg",
+      "blobSha": "043e1127fa5fa677f05b64e3d6cb4a6d825c3e88",
+      "visualReview": "Orange workwear, hammer and repair board identify the worker; hammer moves about a fixed elbow near the nail.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "chips",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "These chips are crispy outside and soft in the middle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/chips.svg",
+      "blobSha": "432871b7efa1beb009088cf97a92b282eb849725",
+      "visualReview": "Golden crust and pale inner centre are visible in the held chip, with a plate of chips below; both hands support it.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "keep",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "You can keep the umbrella until the rain stops.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/keep.svg",
+      "blobSha": "aeac3edb906a887a4d8aa4e456c340a72241d20d",
+      "visualReview": "Borrower continues holding the umbrella while the other neighbour gestures and rain slowly decreases.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "left",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I carry my shopping bag in my left hand.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/left.svg",
+      "blobSha": "18567c6043bab5125b24f0b35cfafdcb80967182",
+      "visualReview": "Front-facing shopper carries the bag with the anatomical left arm, on viewer right; bag and supporting arm sway together.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "put",

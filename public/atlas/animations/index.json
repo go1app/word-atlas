@@ -530,6 +530,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hat",
+      "src": "atlas/animations/hat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I grabbed my hat before stepping into the sunshine.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "worker",
+      "src": "atlas/animations/worker.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A worker in orange overalls repaired the broken fence.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "chips",
+      "src": "atlas/animations/chips.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These chips are crispy outside and soft in the middle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "keep",
+      "src": "atlas/animations/keep.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "You can keep the umbrella until the rain stops.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "left",
+      "src": "atlas/animations/left.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I carry my shopping bag in my left hand.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "hat",
+    "dailyExample": "I grabbed my hat before stepping into the sunshine.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand and broad-brimmed hat lift together from the hallway table toward the sunshine; no extra hat is already on a character’s head.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "worker",
+    "dailyExample": "A worker in orange overalls repaired the broken fence.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Orange workwear, hammer and repair board identify the worker; hammer moves about a fixed elbow near the nail.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "chips",
+    "dailyExample": "These chips are crispy outside and soft in the middle.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Golden crust and pale inner centre are visible in the held chip, with a plate of chips below; both hands support it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "keep",
+    "dailyExample": "You can keep the umbrella until the rain stops.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Borrower continues holding the umbrella while the other neighbour gestures and rain slowly decreases.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "left",
+    "dailyExample": "I carry my shopping bag in my left hand.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Front-facing shopper carries the bag with the anatomical left arm, on viewer right; bag and supporting arm sway together.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
