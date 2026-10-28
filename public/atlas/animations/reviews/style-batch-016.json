@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "fire",
+    "dailyExample": "We warmed our hands by the fire after dinner.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people hold hands toward a contained hearth with gently varying flame layers; small bread plate cues after dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sister",
+    "dailyExample": "My younger sister always borrows my favourite blue jumper.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Older and younger siblings share a blue jumper, with hand endpoints moving alongside the fabric.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "winter",
+    "dailyExample": "We wear thick coats when winter brings cold winds.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Thick long coats and scarves stand out against drifting snow and pale mountain winds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "doctor",
+    "dailyExample": "The doctor listened carefully as I described my symptoms.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seated doctor listens to gesturing patient with a clipboard and stethoscope; a clinic cross establishes context.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pizza",
+    "dailyExample": "We shared a mushroom pizza after the film.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two hands pull separate mushroom pizza slices outward; ticket shapes nearby cue the preceding film.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

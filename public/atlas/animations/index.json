@@ -1010,6 +1010,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fire",
+      "src": "atlas/animations/fire.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We warmed our hands by the fire after dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sister",
+      "src": "atlas/animations/sister.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My younger sister always borrows my favourite blue jumper.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "winter",
+      "src": "atlas/animations/winter.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We wear thick coats when winter brings cold winds.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "doctor",
+      "src": "atlas/animations/doctor.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The doctor listened carefully as I described my symptoms.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pizza",
+      "src": "atlas/animations/pizza.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We shared a mushroom pizza after the film.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

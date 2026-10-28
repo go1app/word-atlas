@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 86,
-  "pending": 7212,
+  "uploaded": 91,
+  "pending": 7207,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "fire",
-    "sister",
-    "winter",
-    "doctor",
-    "pizza"
+    "pair",
+    "student",
+    "yourself",
+    "price",
+    "last"
   ],
   "words": [
     {
@@ -1049,27 +1049,67 @@
     {
       "wordId": "fire",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We warmed our hands by the fire after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fire.svg",
+      "blobSha": "54ec857f8381f5078f300ed7f71e8d940723e4dc",
+      "visualReview": "Two people hold hands toward a contained hearth with gently varying flame layers; small bread plate cues after dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sister",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My younger sister always borrows my favourite blue jumper.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sister.svg",
+      "blobSha": "5559191fd6f2f3a478c4804435c940832a1bc0a7",
+      "visualReview": "Older and younger siblings share a blue jumper, with hand endpoints moving alongside the fabric.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "winter",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We wear thick coats when winter brings cold winds.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/winter.svg",
+      "blobSha": "5b7eaf954b76259f2b9062c02c79fb6b3a2465f2",
+      "visualReview": "Thick long coats and scarves stand out against drifting snow and pale mountain winds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "doctor",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The doctor listened carefully as I described my symptoms.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/doctor.svg",
+      "blobSha": "91a098c5110996d182434c1c2b414add51de3a79",
+      "visualReview": "Seated doctor listens to gesturing patient with a clipboard and stethoscope; a clinic cross establishes context.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pizza",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We shared a mushroom pizza after the film.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pizza.svg",
+      "blobSha": "bb685f4ccb747a105e7a0c90210a0a966c62d98f",
+      "visualReview": "Two hands pull separate mushroom pizza slices outward; ticket shapes nearby cue the preceding film.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pair",
