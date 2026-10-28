@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "glass",
+    "dailyExample": "The ball hit the window and shattered the glass.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Ball contacts the right window pane before crack and falling-shard layers appear; reset is faded.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "policeman",
+    "dailyExample": "A policeman helped us cross the busy road.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Uniformed officer holds traffic while two pedestrians travel over the zebra crossing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "or",
+    "dailyExample": "Would you like rice or noodles with your vegetables?",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rice and noodle bowls both include vegetables; a moving hand and alternating underlines present two choices.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "once",
+    "dailyExample": "I water this little cactus once every two weeks.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A cactus receives one watering interval; calendar marks are two weeks apart without revealing answer text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sock",
+    "dailyExample": "One blue sock was hiding under the bed.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One blue sock is revealed under the bed by a soft flashlight beam.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

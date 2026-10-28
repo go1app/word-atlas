@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 61,
-  "pending": 7237,
+  "uploaded": 66,
+  "pending": 7232,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "glass",
-    "policeman",
-    "or",
-    "once",
-    "sock"
+    "letter",
+    "bad",
+    "writing",
+    "upstairs",
+    "nose"
   ],
   "words": [
     {
@@ -724,27 +724,67 @@
     {
       "wordId": "glass",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The ball hit the window and shattered the glass.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/glass.svg",
+      "blobSha": "fa29d1eed6fa438f61ce1589406d757bacd5a524",
+      "visualReview": "Ball contacts the right window pane before crack and falling-shard layers appear; reset is faded.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "policeman",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A policeman helped us cross the busy road.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/policeman.svg",
+      "blobSha": "dc00d6128e235634f1cd273f30ef4e84ca401d11",
+      "visualReview": "Uniformed officer holds traffic while two pedestrians travel over the zebra crossing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "or",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Would you like rice or noodles with your vegetables?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/or.svg",
+      "blobSha": "7354c02a0520b6aebe6ce00cd31052acc18192de",
+      "visualReview": "Rice and noodle bowls both include vegetables; a moving hand and alternating underlines present two choices.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "once",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I water this little cactus once every two weeks.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/once.svg",
+      "blobSha": "a06dba145e10a6dbb36a48d9e6259225ba6eaeac",
+      "visualReview": "A cactus receives one watering interval; calendar marks are two weeks apart without revealing answer text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sock",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "One blue sock was hiding under the bed.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sock.svg",
+      "blobSha": "1b17cdbea9083da155eaf0f39f96cbe5a8a69bea",
+      "visualReview": "One blue sock is revealed under the bed by a soft flashlight beam.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "letter",

@@ -710,6 +710,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "glass",
+      "src": "atlas/animations/glass.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The ball hit the window and shattered the glass.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "policeman",
+      "src": "atlas/animations/policeman.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A policeman helped us cross the busy road.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "or",
+      "src": "atlas/animations/or.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Would you like rice or noodles with your vegetables?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "once",
+      "src": "atlas/animations/once.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I water this little cactus once every two weeks.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sock",
+      "src": "atlas/animations/sock.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "One blue sock was hiding under the bed.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
