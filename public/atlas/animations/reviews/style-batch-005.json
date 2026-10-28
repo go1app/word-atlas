@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "also",
+    "dailyExample": "My sister plays tennis and also enjoys swimming.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "The same sister appears playing tennis and swimming; racket movement and pool motion provide two distinct activities.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "coat",
+    "dailyExample": "Hang your wet coat by the kitchen door.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Coat is rooted to a hanger beside a kitchen door, with drops falling to the mat; not an unsupported floating garment.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "elephant",
+    "dailyExample": "The elephant sprayed water over its back with its trunk.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Curled trunk ends at the spray origin; water arches toward the elephant’s back. Four legs support the body.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fast",
+    "dailyExample": "We caught a fast train and arrived before lunch.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Train moves rapidly into the station and stops before leaving; clock is placed before noon and visitors wait on the platform.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "from",
+    "dailyExample": "This postcard came from my cousin in the mountains.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A mountain house and a matching mountain postcard show origin and destination; the envelope route fades before resetting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

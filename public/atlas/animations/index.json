@@ -350,6 +350,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "also",
+      "src": "atlas/animations/also.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My sister plays tennis and also enjoys swimming.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "coat",
+      "src": "atlas/animations/coat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Hang your wet coat by the kitchen door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "elephant",
+      "src": "atlas/animations/elephant.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The elephant sprayed water over its back with its trunk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fast",
+      "src": "atlas/animations/fast.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We caught a fast train and arrived before lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "from",
+      "src": "atlas/animations/from.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This postcard came from my cousin in the mountains.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

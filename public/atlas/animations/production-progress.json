@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 31,
-  "pending": 7267,
+  "uploaded": 36,
+  "pending": 7262,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "also",
-    "coat",
-    "elephant",
-    "fast",
-    "from"
+    "quickly",
+    "activity",
+    "town",
+    "without",
+    "picture"
   ],
   "words": [
     {
@@ -334,27 +334,67 @@
     {
       "wordId": "also",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister plays tennis and also enjoys swimming.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/also.svg",
+      "blobSha": "2752f23a825b847da399567184c1aad6789365e9",
+      "visualReview": "The same sister appears playing tennis and swimming; racket movement and pool motion provide two distinct activities.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "coat",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Hang your wet coat by the kitchen door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/coat.svg",
+      "blobSha": "30f682eca714fc2c443bdb2a7b651e6c92ead77f",
+      "visualReview": "Coat is rooted to a hanger beside a kitchen door, with drops falling to the mat; not an unsupported floating garment.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "elephant",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The elephant sprayed water over its back with its trunk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/elephant.svg",
+      "blobSha": "72948e9986c185b07fe744a24f54bab033ad1514",
+      "visualReview": "Curled trunk ends at the spray origin; water arches toward the elephant’s back. Four legs support the body.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fast",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We caught a fast train and arrived before lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fast.svg",
+      "blobSha": "f9160126d36932f8b7b8ff7bb5cdcb7af14163f2",
+      "visualReview": "Train moves rapidly into the station and stops before leaving; clock is placed before noon and visitors wait on the platform.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "from",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This postcard came from my cousin in the mountains.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/from.svg",
+      "blobSha": "7a109d441945e9cd517bb25bd8b117b03784e2c9",
+      "visualReview": "A mountain house and a matching mountain postcard show origin and destination; the envelope route fades before resetting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "quickly",
