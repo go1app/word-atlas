@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 241,
-  "pending": 7057,
+  "uploaded": 246,
+  "pending": 7052,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "drive",
-    "face",
-    "teacher",
-    "road",
-    "hot"
+    "blue",
+    "tonight",
+    "internet",
+    "taxi",
+    "february"
   ],
   "words": [
     {
@@ -3064,27 +3064,67 @@
     {
       "wordId": "drive",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Can you drive me to the station after breakfast?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/drive.svg",
+      "blobSha": "51aa97226ca5cd7e34702a31e274e685d94789e6",
+      "visualReview": "Two occupants drive toward a station with a morning clock, keeping the travel destination clear.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "face",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He washed his face before sitting down for breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/face.svg",
+      "blobSha": "55fe5e57bdc877fdd84bc191ed7fbd619116d5c2",
+      "visualReview": "Hands lift water toward a face over a morning basin, with connected arm morphs and water drops.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "teacher",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our teacher brought a plant into class today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/teacher.svg",
+      "blobSha": "8c768d5469e61c7e57698689423f18a23fedb215",
+      "visualReview": "Teacher carries a potted plant into a classroom while pupils watch from their desks.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "road",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Look both ways before you cross the road.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/road.svg",
+      "blobSha": "3569ec95dd6ecf741592e79ba0d4059c0f42b104",
+      "visualReview": "Child at the curb looks left and right with moving pupils and alternating direction arrows before crossing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hot",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Be careful; the soup is still very hot.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hot.svg",
+      "blobSha": "f258a73b3b9a3ea220c2c2fcf95eabfdd3b800d4",
+      "visualReview": "Strong steam rises from soup as an approaching hand hesitates and withdraws.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "blue",

@@ -2870,6 +2870,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "drive",
+      "src": "atlas/animations/drive.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Can you drive me to the station after breakfast?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "face",
+      "src": "atlas/animations/face.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "He washed his face before sitting down for breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "teacher",
+      "src": "atlas/animations/teacher.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our teacher brought a plant into class today.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "road",
+      "src": "atlas/animations/road.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Look both ways before you cross the road.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hot",
+      "src": "atlas/animations/hot.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Be careful; the soup is still very hot.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

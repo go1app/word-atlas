@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "drive",
+    "dailyExample": "Can you drive me to the station after breakfast?",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two occupants drive toward a station with a morning clock, keeping the travel destination clear.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "face",
+    "dailyExample": "He washed his face before sitting down for breakfast.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hands lift water toward a face over a morning basin, with connected arm morphs and water drops.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "teacher",
+    "dailyExample": "Our teacher brought a plant into class today.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Teacher carries a potted plant into a classroom while pupils watch from their desks.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "road",
+    "dailyExample": "Look both ways before you cross the road.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child at the curb looks left and right with moving pupils and alternating direction arrows before crossing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hot",
+    "dailyExample": "Be careful; the soup is still very hot.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Strong steam rises from soup as an approaching hand hesitates and withdraws.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
