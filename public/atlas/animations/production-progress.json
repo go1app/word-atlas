@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 236,
-  "pending": 7062,
+  "uploaded": 241,
+  "pending": 7057,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "course",
-    "beach",
-    "below",
-    "wife",
-    "there"
+    "drive",
+    "face",
+    "teacher",
+    "road",
+    "hot"
   ],
   "words": [
     {
@@ -2999,27 +2999,67 @@
     {
       "wordId": "course",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I joined a cooking course at the community centre.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/course.svg",
+      "blobSha": "c9b6e682dff8bc981a3db769aa514d8a517aa26f",
+      "visualReview": "Cooking instructor demonstrates a pot while learners follow at separate stations in a community classroom.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "beach",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We collected smooth stones on the beach after breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/beach.svg",
+      "blobSha": "a4cadcbfe81ad1c11867b05e9bc00d7535011f8c",
+      "visualReview": "Hand picks up a smooth stone at the shore; collecting basket and breakfast flask remain nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "below",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our cat sleeps on the shelf below the window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/below.svg",
+      "blobSha": "adfab115656b68007a9e73433ea7ba569bc5a7dc",
+      "visualReview": "Cat breathes gently on a wall shelf clearly positioned below a broad window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wife",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "His wife packed sandwiches for their afternoon walk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wife.svg",
+      "blobSha": "3078c1b5301b8cb633ee8f949da9568203cf7e18",
+      "visualReview": "Sandwiches are packed into a basket with afternoon clock and walking kit by the door.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "there",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Leave your muddy boots there, beside the back door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/there.svg",
+      "blobSha": "734c5899e414e6d9de2822bb810f24394a42e19c",
+      "visualReview": "Pointing hand indicates the mat beside a back door before muddy boots settle there.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "drive",

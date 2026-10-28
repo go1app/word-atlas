@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "course",
+    "dailyExample": "I joined a cooking course at the community centre.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cooking instructor demonstrates a pot while learners follow at separate stations in a community classroom.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "beach",
+    "dailyExample": "We collected smooth stones on the beach after breakfast.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand picks up a smooth stone at the shore; collecting basket and breakfast flask remain nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "below",
+    "dailyExample": "Our cat sleeps on the shelf below the window.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cat breathes gently on a wall shelf clearly positioned below a broad window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "wife",
+    "dailyExample": "His wife packed sandwiches for their afternoon walk.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sandwiches are packed into a basket with afternoon clock and walking kit by the door.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "there",
+    "dailyExample": "Leave your muddy boots there, beside the back door.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pointing hand indicates the mat beside a back door before muddy boots settle there.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

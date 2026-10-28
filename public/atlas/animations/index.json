@@ -2810,6 +2810,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "course",
+      "src": "atlas/animations/course.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I joined a cooking course at the community centre.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "beach",
+      "src": "atlas/animations/beach.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We collected smooth stones on the beach after breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "below",
+      "src": "atlas/animations/below.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our cat sleeps on the shelf below the window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "wife",
+      "src": "atlas/animations/wife.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "His wife packed sandwiches for their afternoon walk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "there",
+      "src": "atlas/animations/there.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Leave your muddy boots there, beside the back door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
