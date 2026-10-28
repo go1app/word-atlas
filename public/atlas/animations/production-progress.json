@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 216,
-  "pending": 7082,
+  "uploaded": 221,
+  "pending": 7077,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "wide",
-    "fly",
-    "cold",
-    "children",
-    "trousers"
+    "farmer",
+    "coffee",
+    "shoe",
+    "bike",
+    "little"
   ],
   "words": [
     {
@@ -2739,27 +2739,67 @@
     {
       "wordId": "wide",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The sofa will not fit through this wide doorway.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wide.svg",
+      "blobSha": "f4ba6ce53c65c7d29998e9864b86fd38216e5d91",
+      "visualReview": "Sofa remains visibly wider than a broad doorway; two movers make a short unsuccessful attempt through it.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fly",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Small birds fly over our garden every morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fly.svg",
+      "blobSha": "2281bb8a6647658c6846c13fd41e7fac7078f920",
+      "visualReview": "Small birds flap recognizably shaped wings across a morning garden.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cold",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My hands were cold, so I put on gloves.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cold.svg",
+      "blobSha": "3d0ecd30a448ee63de1e4e59eb1a2143fb979539",
+      "visualReview": "Bare hands become covered by warm gloves in a snowy winter scene.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "children",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The children built a sandcastle together on the beach.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/children.svg",
+      "blobSha": "cf0cf145a86a252538531df5ef927421bdb32364",
+      "visualReview": "Two children shape a beach sandcastle together with bucket and shovel nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "trousers",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "These trousers are too long, so I need them shortened.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/trousers.svg",
+      "blobSha": "5ad57e00617d7700352e2d34a0e3bc3f3806d2dc",
+      "visualReview": "Overlong trousers show a higher pinned hem, shortening arrow and gently moving tailor scissors.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "farmer",

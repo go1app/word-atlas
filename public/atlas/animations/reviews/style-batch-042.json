@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "wide",
+    "dailyExample": "The sofa will not fit through this wide doorway.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sofa remains visibly wider than a broad doorway; two movers make a short unsuccessful attempt through it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fly",
+    "dailyExample": "Small birds fly over our garden every morning.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small birds flap recognizably shaped wings across a morning garden.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cold",
+    "dailyExample": "My hands were cold, so I put on gloves.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bare hands become covered by warm gloves in a snowy winter scene.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "children",
+    "dailyExample": "The children built a sandcastle together on the beach.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two children shape a beach sandcastle together with bucket and shovel nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "trousers",
+    "dailyExample": "These trousers are too long, so I need them shortened.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Overlong trousers show a higher pinned hem, shortening arrow and gently moving tailor scissors.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

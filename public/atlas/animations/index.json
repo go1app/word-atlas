@@ -2570,6 +2570,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "wide",
+      "src": "atlas/animations/wide.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The sofa will not fit through this wide doorway.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fly",
+      "src": "atlas/animations/fly.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Small birds fly over our garden every morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cold",
+      "src": "atlas/animations/cold.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My hands were cold, so I put on gloves.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "children",
+      "src": "atlas/animations/children.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The children built a sandcastle together on the beach.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "trousers",
+      "src": "atlas/animations/trousers.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These trousers are too long, so I need them shortened.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
