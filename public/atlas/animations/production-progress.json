@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 51,
-  "pending": 7247,
+  "uploaded": 56,
+  "pending": 7242,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "put",
-    "sunday",
-    "rainy",
-    "hotel",
-    "skirt"
+    "side",
+    "pretty",
+    "arrive",
+    "london",
+    "too"
   ],
   "words": [
     {
@@ -594,27 +594,67 @@
     {
       "wordId": "put",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please put your wet umbrella beside the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/put.svg",
+      "blobSha": "6e2ba1d7215a3c9ccaf1a2bcaf09cab9cdbc1a83",
+      "visualReview": "Umbrella is lowered into a stand before the hand withdraws; water drips remain beside the door.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sunday",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually cook a big lunch together on Sunday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sunday.svg",
+      "blobSha": "2a1c7d064deadad359bca90a13a9e1fbd008afa5",
+      "visualReview": "Several family members prepare soup and bread, with the seventh calendar column highlighted rather than using a text answer.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "rainy",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We stayed indoors and baked bread on that rainy afternoon.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/rainy.svg",
+      "blobSha": "4409d6e333b8d6c4f4b1051636574094e8d8189f",
+      "visualReview": "Rain is clipped outside the window while bread bakes in the warm oven inside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hotel",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our hotel room overlooks a quiet sandy beach.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hotel.svg",
+      "blobSha": "df687ba9db4d974b2c65adab988c49d1e27529be",
+      "visualReview": "Sea and sandy beach are visible through a large room window; luggage, bed and towels establish the hotel context.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "skirt",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Her blue skirt swayed as she walked upstairs.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/skirt.svg",
+      "blobSha": "e23ab9955ec03b55cb744977e0f61587af101517",
+      "visualReview": "A blue skirt sways from the waist as its wearer moves upward along the stairs; reset occurs after fading out.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "side",

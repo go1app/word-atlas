@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "put",
+    "dailyExample": "Please put your wet umbrella beside the door.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Umbrella is lowered into a stand before the hand withdraws; water drips remain beside the door.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sunday",
+    "dailyExample": "We usually cook a big lunch together on Sunday.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Several family members prepare soup and bread, with the seventh calendar column highlighted rather than using a text answer.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "rainy",
+    "dailyExample": "We stayed indoors and baked bread on that rainy afternoon.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rain is clipped outside the window while bread bakes in the warm oven inside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hotel",
+    "dailyExample": "Our hotel room overlooks a quiet sandy beach.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sea and sandy beach are visible through a large room window; luggage, bed and towels establish the hotel context.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "skirt",
+    "dailyExample": "Her blue skirt swayed as she walked upstairs.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A blue skirt sways from the waist as its wearer moves upward along the stairs; reset occurs after fading out.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
