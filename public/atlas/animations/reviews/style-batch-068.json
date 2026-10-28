@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "often",
+    "dailyExample": "We often walk by the river after dinner.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two companions take an evening walk on a riverside path beside a lit lamp.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dollar",
+    "dailyExample": "I paid one dollar for this small notebook.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A single dollar coin is offered beside a small lined notebook on a shop counter.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "it",
+    "dailyExample": "I found your scarf and put it by the door.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Found scarf lowers onto the bench by the front door while the placing hand withdraws.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "baby",
+    "dailyExample": "The baby fell asleep while her father sang softly.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Father sings softly beside a cradle as baby eyes close, without any visible word or musical text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "rabbit",
+    "dailyExample": "A white rabbit hopped across the grass towards us.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "White rabbit hops and slightly approaches across grass, with a grounded shadow and a nearby observer.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 346,
-  "pending": 6952,
+  "uploaded": 351,
+  "pending": 6947,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "often",
-    "dollar",
-    "it",
-    "baby",
-    "rabbit"
+    "water",
+    "half",
+    "knife",
+    "thanks",
+    "dangerous"
   ],
   "words": [
     {
@@ -4429,27 +4429,67 @@
     {
       "wordId": "often",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We often walk by the river after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/often.svg",
+      "blobSha": "0d7d67134450467c83c58f6e7c8387c56859f5b3",
+      "visualReview": "Two companions take an evening walk on a riverside path beside a lit lamp.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dollar",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I paid one dollar for this small notebook.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dollar.svg",
+      "blobSha": "84351e4f54608861a1e3be16fd816983ff524a33",
+      "visualReview": "A single dollar coin is offered beside a small lined notebook on a shop counter.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "it",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I found your scarf and put it by the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/it.svg",
+      "blobSha": "d689ed532039253e44b953495a804c159bf1e194",
+      "visualReview": "Found scarf lowers onto the bench by the front door while the placing hand withdraws.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "baby",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The baby fell asleep while her father sang softly.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/baby.svg",
+      "blobSha": "30a6ad2690d17070136ed448a4c3f9ddca178c51",
+      "visualReview": "Father sings softly beside a cradle as baby eyes close, without any visible word or musical text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "rabbit",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A white rabbit hopped across the grass towards us.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/rabbit.svg",
+      "blobSha": "d8418c26b74926ae91b5891bfb60ab6cf8c065e5",
+      "visualReview": "White rabbit hops and slightly approaches across grass, with a grounded shadow and a nearby observer.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "water",
