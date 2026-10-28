@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 261,
-  "pending": 7037,
+  "uploaded": 266,
+  "pending": 7032,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "museum",
-    "shop",
-    "weekend",
-    "sweater",
-    "mother"
+    "tired",
+    "spain",
+    "play",
+    "different",
+    "pool"
   ],
   "words": [
     {
@@ -3324,27 +3324,67 @@
     {
       "wordId": "museum",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We saw a huge dinosaur skeleton at the museum.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/museum.svg",
+      "blobSha": "c34838b84818eb80db16bc4251881c904f1078aa",
+      "visualReview": "Huge long-neck dinosaur skeleton on a museum mount dwarfs two visitors; bones, ribs, skull and supports are vector drawn.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "shop",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The little shop near our house sells fresh bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/shop.svg",
+      "blobSha": "8329007f689a6a6033bb783c2e6e9312b7995c19",
+      "visualReview": "Fresh bread is displayed in a little shop near a family house with visitors on the connecting path.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "weekend",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually visit the farmers' market at the weekend.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/weekend.svg",
+      "blobSha": "98cae6bd9a66038ac2602ac3c8c06f50b51329b6",
+      "visualReview": "Visitors carry a bag past produce stalls; the last two weekday dots are highlighted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sweater",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I pulled on a warm sweater before going outside.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sweater.svg",
+      "blobSha": "442ea873055c8f838c60d47b26bc64e4853f2854",
+      "visualReview": "Warm jumper moves over the head and settles on the body before a cold outside doorway.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "mother",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My mother taught me how to ride a bicycle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/mother.svg",
+      "blobSha": "5694162f5b52a291326512cc21b65a8d03e26cd4",
+      "visualReview": "Mother supports the rear of a child bicycle while both move together along a park path.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tired",
