@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 291,
-  "pending": 7007,
+  "uploaded": 296,
+  "pending": 7002,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sandwich",
-    "slow",
-    "make",
-    "every",
-    "quiet"
+    "add",
+    "fact",
+    "nice",
+    "flower",
+    "cloudy"
   ],
   "words": [
     {
@@ -3714,27 +3714,67 @@
     {
       "wordId": "sandwich",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I packed a cheese sandwich and an apple for lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sandwich.svg",
+      "blobSha": "82389fe95eb4a40fd897b10c0b302b723bfe448b",
+      "visualReview": "Cheese layers are visible in a sandwich packed with an apple for lunch.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "slow",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We took a slow walk along the river.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/slow.svg",
+      "blobSha": "c79b6cd4e36d48643202965d2d5ebaf4de80473f",
+      "visualReview": "Pair moves only a short distance with a gentle walking gait beside calm river ripples.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "make",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We made a small table from leftover pieces of wood.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/make.svg",
+      "blobSha": "b0bec5cf707446c9d1093aec3001cadcd9728fa1",
+      "visualReview": "Small wooden table, offcuts and a tapping hammer show furniture being made from spare wood.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "every",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Every child brought a favourite toy to the picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/every.svg",
+      "blobSha": "f8aee57d82d9271428aabd35355960cb40c2f5e5",
+      "visualReview": "Each of four children holds a distinct favourite toy at a picnic.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "quiet",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The house was quiet after the children fell asleep.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/quiet.svg",
+      "blobSha": "b09f77e71971839104c4fa64f4e16ba2d8c65d1a",
+      "visualReview": "Children sleep upstairs in a still night house while toys and furniture rest below.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "add",

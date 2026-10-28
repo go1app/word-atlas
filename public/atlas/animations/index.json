@@ -3470,6 +3470,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sandwich",
+      "src": "atlas/animations/sandwich.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I packed a cheese sandwich and an apple for lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "slow",
+      "src": "atlas/animations/slow.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We took a slow walk along the river.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "make",
+      "src": "atlas/animations/make.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We made a small table from leftover pieces of wood.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "every",
+      "src": "atlas/animations/every.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Every child brought a favourite toy to the picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "quiet",
+      "src": "atlas/animations/quiet.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The house was quiet after the children fell asleep.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

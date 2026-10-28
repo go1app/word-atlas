@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "sandwich",
+    "dailyExample": "I packed a cheese sandwich and an apple for lunch.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cheese layers are visible in a sandwich packed with an apple for lunch.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "slow",
+    "dailyExample": "We took a slow walk along the river.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pair moves only a short distance with a gentle walking gait beside calm river ripples.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "make",
+    "dailyExample": "We made a small table from leftover pieces of wood.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small wooden table, offcuts and a tapping hammer show furniture being made from spare wood.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "every",
+    "dailyExample": "Every child brought a favourite toy to the picnic.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Each of four children holds a distinct favourite toy at a picnic.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "quiet",
+    "dailyExample": "The house was quiet after the children fell asleep.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Children sleep upstairs in a still night house while toys and furniture rest below.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
