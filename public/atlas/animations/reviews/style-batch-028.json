@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "fourth",
+    "dailyExample": "Our apartment is on the fourth floor, beside the lift.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Four apartment levels are visible from bottom upward; lift arrives at the highlighted fourth-level apartment.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "today",
+    "dailyExample": "Let's eat outside today while the weather is warm.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Warm sunshine and an outdoor family meal appear beneath a calendar with the current day highlighted.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "plane",
+    "dailyExample": "Our plane landed just before the rain began.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Airliner descends to the runway and rain opacity increases only after landing; wheels touch the runway surface.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "job",
+    "dailyExample": "My sister found a job at the local library.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Library worker stamps and hands over a book behind the counter; shelves and workstation establish her job.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "supermarket",
+    "dailyExample": "We stopped at the supermarket to buy milk and rice.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Shopper pushes a cart containing milk and rice past shelves of matching groceries.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
