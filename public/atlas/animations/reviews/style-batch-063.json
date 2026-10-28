@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "beautiful",
+    "dailyExample": "The garden looks beautiful after the spring rain.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Spring garden after rain with swaying flowers, a leaf droplet and a reflected puddle.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tooth",
+    "dailyExample": "The dentist checked each tooth with a small mirror.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Dentist examines an open mouth using a small mirror; mirror handle joins the hand.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "relax",
+    "dailyExample": "I like to relax with music after dinner.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seated listener closes eyes with headphones after dinner; bent knees and chair establish rest.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "summer",
+    "dailyExample": "We often eat outside during the long summer evenings.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Outdoor evening meal has a low sun, long shadows and a strand of garden lights.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "group",
+    "dailyExample": "A group of cyclists stopped outside the village bakery.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three cyclists stop beside supported bicycles outside a bakery window with bread and subtle steam.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

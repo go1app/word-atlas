@@ -3830,6 +3830,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "beautiful",
+      "src": "atlas/animations/beautiful.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The garden looks beautiful after the spring rain.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "tooth",
+      "src": "atlas/animations/tooth.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The dentist checked each tooth with a small mirror.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "relax",
+      "src": "atlas/animations/relax.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I like to relax with music after dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "summer",
+      "src": "atlas/animations/summer.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We often eat outside during the long summer evenings.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "group",
+      "src": "atlas/animations/group.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A group of cyclists stopped outside the village bakery.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

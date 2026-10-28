@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 321,
-  "pending": 6977,
+  "uploaded": 326,
+  "pending": 6972,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "beautiful",
-    "tooth",
-    "relax",
-    "summer",
-    "group"
+    "member",
+    "fish",
+    "daughter",
+    "sheep",
+    "school"
   ],
   "words": [
     {
@@ -4104,27 +4104,67 @@
     {
       "wordId": "beautiful",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The garden looks beautiful after the spring rain.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/beautiful.svg",
+      "blobSha": "0c20ff92bf25b7e14097da2748346bb3d6c908ce",
+      "visualReview": "Spring garden after rain with swaying flowers, a leaf droplet and a reflected puddle.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tooth",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The dentist checked each tooth with a small mirror.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tooth.svg",
+      "blobSha": "d1e602bd0b869d6a807d25b46102fba02138f5e3",
+      "visualReview": "Dentist examines an open mouth using a small mirror; mirror handle joins the hand.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "relax",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I like to relax with music after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/relax.svg",
+      "blobSha": "c4b1190cefba40a34b7b4b3934d1379aca7de6dc",
+      "visualReview": "Seated listener closes eyes with headphones after dinner; bent knees and chair establish rest.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "summer",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We often eat outside during the long summer evenings.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/summer.svg",
+      "blobSha": "f8aef1b4b87426f5e4c790c2df03f81167e73e7d",
+      "visualReview": "Outdoor evening meal has a low sun, long shadows and a strand of garden lights.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "group",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A group of cyclists stopped outside the village bakery.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/group.svg",
+      "blobSha": "cdb3846ca812601c3fee43024a05bca3ab34d8c4",
+      "visualReview": "Three cyclists stop beside supported bicycles outside a bakery window with bread and subtle steam.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "member",
