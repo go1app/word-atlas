@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 11,
-  "pending": 7287,
+  "uploaded": 16,
+  "pending": 7282,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "thursday",
-    "body",
-    "month",
-    "let",
-    "born"
+    "use",
+    "minute",
+    "even",
+    "o-clock",
+    "australian"
   ],
   "words": [
     {
@@ -30,7 +30,15 @@
     {
       "wordId": "thursday",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually meet for lunch at home on Thursday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/thursday.svg",
+      "blobSha": "7fe330477e97d371dec3425a343d4f931d62acba",
+      "visualReview": "Home lunch scene and recurring fourth-weekday calendar cue; utensils remain joined to hands.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bedroom",
@@ -68,22 +76,54 @@
     {
       "wordId": "body",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My whole body aches after yesterday's long walk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/body.svg",
+      "blobSha": "e12139ce60c223039079ffb8ac49e3bcdc978463",
+      "visualReview": "Walker rests with aching shoulder and knee; backpack, poles and trail map establish the preceding walk.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "month",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I put aside a little money every month.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/month.svg",
+      "blobSha": "733467d3e98da8c5f89e970cb518795ab9e7da4f",
+      "visualReview": "Savings jar and month calendar; coin drops into jar. Reset corrected to occur while coin is hidden, avoiding visible upward travel.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "let",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please let me know when you arrive home safely.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/let.svg",
+      "blobSha": "410c95e0aa069e6c920c050b92ffa65b7cff3eff",
+      "visualReview": "Safe arrival at home followed by a confirmation message; no text answer in the drawing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "born",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My little sister was born on a snowy morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/born.svg",
+      "blobSha": "75aa91382060818c8fbc24d83da4eca6dc0b36a7",
+      "visualReview": "Snow at the morning window and newborn in mother’s arms; rocking movement keeps hands and swaddle connected.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "paint",
@@ -36566,5 +36606,8 @@
       "chunk": 72,
       "status": "pending"
     }
-  ]
+  ],
+  "currentStyle": "abandon-reference-flat-storybook",
+  "styleReferenceApprovedByUser": true,
+  "executionState": "resumed_by_user_2026-10-28"
 }

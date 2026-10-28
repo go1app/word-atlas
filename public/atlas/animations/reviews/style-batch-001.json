@@ -1,0 +1,67 @@
+[
+  {
+    "wordId": "thursday",
+    "dailyExample": "We usually meet for lunch at home on Thursday.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Home lunch scene and recurring fourth-weekday calendar cue; utensils remain joined to hands.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "body",
+    "dailyExample": "My whole body aches after yesterday's long walk.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Walker rests with aching shoulder and knee; backpack, poles and trail map establish the preceding walk.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "month",
+    "dailyExample": "I put aside a little money every month.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Savings jar and month calendar; coin drops into jar. Reset corrected to occur while coin is hidden, avoiding visible upward travel.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "let",
+    "dailyExample": "Please let me know when you arrive home safely.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Safe arrival at home followed by a confirmation message; no text answer in the drawing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "born",
+    "dailyExample": "My little sister was born on a snowy morning.",
+    "styleReference": "Early abandon snow-car SVG; muted flat storybook, simple shapes and light texture.",
+    "offlineFramesReviewed": [
+      0,
+      5,
+      10
+    ],
+    "specificReview": "Snow at the morning window and newborn in mother’s arms; rocking movement keeps hands and swaddle connected.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

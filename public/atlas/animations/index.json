@@ -110,6 +110,66 @@
       "posterTimeSeconds": 5,
       "attribution": "Word Atlas contributors — CC BY 4.0",
       "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "wordId": "thursday",
+      "src": "atlas/animations/thursday.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We usually meet for lunch at home on Thursday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "body",
+      "src": "atlas/animations/body.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My whole body aches after yesterday's long walk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "month",
+      "src": "atlas/animations/month.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I put aside a little money every month.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "let",
+      "src": "atlas/animations/let.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please let me know when you arrive home safely.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "born",
+      "src": "atlas/animations/born.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My little sister was born on a snowy morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
