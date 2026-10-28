@@ -3710,6 +3710,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sound",
+      "src": "atlas/animations/sound.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The sound of rain woke me before sunrise.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "nationality",
+      "src": "atlas/animations/nationality.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The application form asks for my nationality and address.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "ruler",
+      "src": "atlas/animations/ruler.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Use a ruler to draw a straight line here.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "open",
+      "src": "atlas/animations/open.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Leave the window open so fresh air can come in.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "singer",
+      "src": "atlas/animations/singer.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The singer smiled as the audience began to clap.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

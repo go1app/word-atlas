@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "sound",
+    "dailyExample": "The sound of rain woke me before sunrise.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rain at a dark window sends visible sound arcs toward a sleeper whose eyes open before dawn.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "nationality",
+    "dailyExample": "The application form asks for my nationality and address.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Application form uses globe and house pictograms for nationality and address, beside a passport without real personal details.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "ruler",
+    "dailyExample": "Use a ruler to draw a straight line here.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pencil tip advances with a revealed straight line along the ruler edge.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "open",
+    "dailyExample": "Leave the window open so fresh air can come in.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Casement remains visibly open while fresh-air curves and curtain movement enter the room.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "singer",
+    "dailyExample": "The singer smiled as the audience began to clap.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Singer smiles as audience hands begin a repeated clapping motion.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

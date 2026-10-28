@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 311,
-  "pending": 6987,
+  "uploaded": 316,
+  "pending": 6982,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sound",
-    "nationality",
-    "ruler",
-    "open",
-    "singer"
+    "true",
+    "television",
+    "back",
+    "gray",
+    "anyone"
   ],
   "words": [
     {
@@ -3974,27 +3974,67 @@
     {
       "wordId": "sound",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The sound of rain woke me before sunrise.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sound.svg",
+      "blobSha": "9ecdd106a04334cf09201f6af9bef6906cd1a256",
+      "visualReview": "Rain at a dark window sends visible sound arcs toward a sleeper whose eyes open before dawn.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "nationality",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The application form asks for my nationality and address.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/nationality.svg",
+      "blobSha": "c558c8bc76f4464db46436e21d141f83dd29461a",
+      "visualReview": "Application form uses globe and house pictograms for nationality and address, beside a passport without real personal details.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "ruler",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Use a ruler to draw a straight line here.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/ruler.svg",
+      "blobSha": "1b6ec8152b2dfffbb51240309d929630626627cf",
+      "visualReview": "Pencil tip advances with a revealed straight line along the ruler edge.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "open",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Leave the window open so fresh air can come in.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/open.svg",
+      "blobSha": "3b102af5e72a1366cc668cd347a6350620d23380",
+      "visualReview": "Casement remains visibly open while fresh-air curves and curtain movement enter the room.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "singer",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The singer smiled as the audience began to clap.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/singer.svg",
+      "blobSha": "e05b7be6ea46d18f5e40bc61aa956a51d6a4989c",
+      "visualReview": "Singer smiles as audience hands begin a repeated clapping motion.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "true",
