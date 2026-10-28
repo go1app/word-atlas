@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "correct",
+    "dailyExample": "You were correct about the keys being under the sofa.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Keys are revealed beneath the sofa by a flashlight before a confirmation check appears.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "animal",
+    "dailyExample": "My sister loves watching animals at the local farm.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Girl watches a cow and hens at a local farm with fence and barn.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "thirsty",
+    "dailyExample": "I felt thirsty after walking home in the sun.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sunlit doorway and a sweat drop accompany reaching for a glass of water after arriving home.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pen",
+    "dailyExample": "Could you lend me a pen for this form?",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A pen is handed toward a waiting hand over a blank form with checkboxes and writing lines.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "leave",
+    "dailyExample": "We need to leave before the traffic gets worse.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Car moves away from the house before a denser row of background traffic appears.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

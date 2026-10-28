@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 156,
-  "pending": 7142,
+  "uploaded": 161,
+  "pending": 7137,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "correct",
-    "animal",
-    "thirsty",
-    "pen",
-    "leave"
+    "window",
+    "ride",
+    "leg",
+    "tomato",
+    "try"
   ],
   "words": [
     {
@@ -1959,27 +1959,67 @@
     {
       "wordId": "correct",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "You were correct about the keys being under the sofa.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/correct.svg",
+      "blobSha": "855963a02dbebf41cc0ba611d7df89d79bc04ec3",
+      "visualReview": "Keys are revealed beneath the sofa by a flashlight before a confirmation check appears.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "animal",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister loves watching animals at the local farm.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/animal.svg",
+      "blobSha": "e11551694df4012d24a0e8a33b2b0f9b28b10acc",
+      "visualReview": "Girl watches a cow and hens at a local farm with fence and barn.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "thirsty",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I felt thirsty after walking home in the sun.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/thirsty.svg",
+      "blobSha": "af3da62c5bb946b7bda49fd633c34918ee27d83c",
+      "visualReview": "Sunlit doorway and a sweat drop accompany reaching for a glass of water after arriving home.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pen",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you lend me a pen for this form?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pen.svg",
+      "blobSha": "81716d1ab69bd22cdd277c3135c0e9fbab5726a6",
+      "visualReview": "A pen is handed toward a waiting hand over a blank form with checkboxes and writing lines.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "leave",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We need to leave before the traffic gets worse.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/leave.svg",
+      "blobSha": "0cf23ab8ad14bbe2324d7714c246ffc8fd5abdc5",
+      "visualReview": "Car moves away from the house before a denser row of background traffic appears.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "window",

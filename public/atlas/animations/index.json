@@ -1850,6 +1850,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "correct",
+      "src": "atlas/animations/correct.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "You were correct about the keys being under the sofa.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "animal",
+      "src": "atlas/animations/animal.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My sister loves watching animals at the local farm.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "thirsty",
+      "src": "atlas/animations/thirsty.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I felt thirsty after walking home in the sun.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pen",
+      "src": "atlas/animations/pen.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could you lend me a pen for this form?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "leave",
+      "src": "atlas/animations/leave.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We need to leave before the traffic gets worse.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
