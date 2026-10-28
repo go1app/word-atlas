@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 201,
-  "pending": 7097,
+  "uploaded": 206,
+  "pending": 7092,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "news",
-    "word",
-    "dark",
-    "see",
-    "potato"
+    "my",
+    "later",
+    "soon",
+    "umbrella",
+    "after"
   ],
   "words": [
     {
@@ -2544,27 +2544,67 @@
     {
       "wordId": "news",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She called her sister to share the good news.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/news.svg",
+      "blobSha": "dc4539649dfcc14f055cc2a6cbdea2ad0fc6aa89",
+      "visualReview": "Two sisters on a phone call share warm expressions and celebratory heart accents.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "word",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I looked up the unfamiliar word in a dictionary.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/word.svg",
+      "blobSha": "a69a56519a245fe1becde5b5efd6763abe58cc7b",
+      "visualReview": "Magnifying glass searches short dictionary entries in a tabbed reference book without exposing the target word.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dark",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The hallway was too dark to find my shoes.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dark.svg",
+      "blobSha": "08464311d4e23db079c0e7abfcef71b7dc793c6b",
+      "visualReview": "Muted dark hallway makes the shoes hard to distinguish while the person searches the wrong area.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "see",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I can see a rainbow above the trees.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/see.svg",
+      "blobSha": "7e240c79a6532623e505c4ef5b5a750d4b2d18ed",
+      "visualReview": "Soft rainbow appears above the tree line as a child points toward it.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "potato",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I baked a potato and filled it with cheese.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/potato.svg",
+      "blobSha": "5d39d22d0320f067ab78e42a8dd0b6370db708e2",
+      "visualReview": "A split baked potato receives grated cheese from a spoon while steam rises.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "my",

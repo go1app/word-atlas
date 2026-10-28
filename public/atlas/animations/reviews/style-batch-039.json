@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "news",
+    "dailyExample": "She called her sister to share the good news.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two sisters on a phone call share warm expressions and celebratory heart accents.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "word",
+    "dailyExample": "I looked up the unfamiliar word in a dictionary.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Magnifying glass searches short dictionary entries in a tabbed reference book without exposing the target word.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dark",
+    "dailyExample": "The hallway was too dark to find my shoes.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Muted dark hallway makes the shoes hard to distinguish while the person searches the wrong area.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "see",
+    "dailyExample": "I can see a rainbow above the trees.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Soft rainbow appears above the tree line as a child points toward it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "potato",
+    "dailyExample": "I baked a potato and filled it with cheese.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A split baked potato receives grated cheese from a spoon while steam rises.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

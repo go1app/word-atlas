@@ -2390,6 +2390,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "news",
+      "src": "atlas/animations/news.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She called her sister to share the good news.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "word",
+      "src": "atlas/animations/word.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I looked up the unfamiliar word in a dictionary.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "dark",
+      "src": "atlas/animations/dark.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The hallway was too dark to find my shoes.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "see",
+      "src": "atlas/animations/see.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I can see a rainbow above the trees.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "potato",
+      "src": "atlas/animations/potato.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I baked a potato and filled it with cheese.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
