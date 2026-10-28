@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "water",
+    "dailyExample": "Please water the plants before we leave today.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Watering can pours small animated streams toward potted plant; bag waits beside exit.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "half",
+    "dailyExample": "I saved half of my sandwich for later.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two equal triangular sandwich portions are separated, with one saved in a reusable container.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "knife",
+    "dailyExample": "Use a sharp knife to slice the bread.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A held kitchen knife lowers into the bread on a chopping board beside an already cut slice.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "thanks",
+    "dailyExample": "Thanks for helping me carry these heavy bags upstairs.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One person carries two heavy bags upstairs while another gestures gratefully with hand near chest.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dangerous",
+    "dailyExample": "That broken step is dangerous, so please avoid it.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cracked stair with a missing corner and pictorial warning is avoided by a person on the intact higher step.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

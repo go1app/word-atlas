@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 351,
-  "pending": 6947,
+  "uploaded": 356,
+  "pending": 6942,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "water",
-    "half",
-    "knife",
-    "thanks",
-    "dangerous"
+    "message",
+    "sea",
+    "bread",
+    "between",
+    "far"
   ],
   "words": [
     {
@@ -4494,27 +4494,67 @@
     {
       "wordId": "water",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please water the plants before we leave today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/water.svg",
+      "blobSha": "5ebf7a12c5d5c173d53d6998ae16cc05b9a0e3cf",
+      "visualReview": "Watering can pours small animated streams toward potted plant; bag waits beside exit.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "half",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I saved half of my sandwich for later.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/half.svg",
+      "blobSha": "7323c16785be85365b739f57c95ce820f7e3431c",
+      "visualReview": "Two equal triangular sandwich portions are separated, with one saved in a reusable container.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "knife",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Use a sharp knife to slice the bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/knife.svg",
+      "blobSha": "509fec0c0c9784090c2edd34d703112fc573358c",
+      "visualReview": "A held kitchen knife lowers into the bread on a chopping board beside an already cut slice.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "thanks",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Thanks for helping me carry these heavy bags upstairs.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/thanks.svg",
+      "blobSha": "9ff33afa3eafa7ae3235d96e308ab15348b210d1",
+      "visualReview": "One person carries two heavy bags upstairs while another gestures gratefully with hand near chest.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dangerous",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "That broken step is dangerous, so please avoid it.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dangerous.svg",
+      "blobSha": "b043b7d0da9447175e2a525b843ac028b050a89a",
+      "visualReview": "Cracked stair with a missing corner and pictorial warning is avoided by a person on the intact higher step.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "message",

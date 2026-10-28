@@ -4190,6 +4190,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "water",
+      "src": "atlas/animations/water.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please water the plants before we leave today.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "half",
+      "src": "atlas/animations/half.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I saved half of my sandwich for later.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "knife",
+      "src": "atlas/animations/knife.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Use a sharp knife to slice the bread.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "thanks",
+      "src": "atlas/animations/thanks.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Thanks for helping me carry these heavy bags upstairs.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "dangerous",
+      "src": "atlas/animations/dangerous.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "That broken step is dangerous, so please avoid it.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
