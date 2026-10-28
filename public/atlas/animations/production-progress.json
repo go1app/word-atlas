@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 246,
-  "pending": 7052,
+  "uploaded": 251,
+  "pending": 7047,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "blue",
-    "tonight",
-    "internet",
-    "taxi",
-    "february"
+    "lose",
+    "your",
+    "star",
+    "actor",
+    "art"
   ],
   "words": [
     {
@@ -3129,27 +3129,67 @@
     {
       "wordId": "blue",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He wore a blue jacket to the picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/blue.svg",
+      "blobSha": "ed0417ffae27f7322a0624622e45bc24dfcde702",
+      "visualReview": "Blue jacket remains visually prominent as its wearer brings a basket toward a picnic.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tonight",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We are making vegetable soup for dinner tonight.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tonight.svg",
+      "blobSha": "683c4331f965adce4efc6d1f057bce829774e81b",
+      "visualReview": "Two people prepare vegetable soup in a moonlit kitchen with rising steam.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "internet",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The internet stopped working halfway through our video call.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/internet.svg",
+      "blobSha": "d2c3b2bf2e3b1a4006753ef6ce744eb273e17822",
+      "visualReview": "Video caller disappears midway and a crossed connection icon replaces the active image.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "taxi",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We took a taxi home with our heavy bags.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/taxi.svg",
+      "blobSha": "8d9eac0a171cef6825182344e12b2b02563c5e59",
+      "visualReview": "Yellow checker-marked taxi carries two occupants and strapped luggage toward home.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "february",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister starts her new job in February.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/february.svg",
+      "blobSha": "552b7f3d8acab454c68a2060f511eca8e9a0994d",
+      "visualReview": "Second of twelve month dots is highlighted beside a wintry window and a woman arriving at a new office desk.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "lose",

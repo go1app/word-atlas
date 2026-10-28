@@ -2930,6 +2930,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "blue",
+      "src": "atlas/animations/blue.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "He wore a blue jacket to the picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "tonight",
+      "src": "atlas/animations/tonight.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We are making vegetable soup for dinner tonight.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "internet",
+      "src": "atlas/animations/internet.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The internet stopped working halfway through our video call.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "taxi",
+      "src": "atlas/animations/taxi.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We took a taxi home with our heavy bags.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "february",
+      "src": "atlas/animations/february.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My sister starts her new job in February.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

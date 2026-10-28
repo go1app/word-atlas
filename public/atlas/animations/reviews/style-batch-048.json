@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "blue",
+    "dailyExample": "He wore a blue jacket to the picnic.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Blue jacket remains visually prominent as its wearer brings a basket toward a picnic.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tonight",
+    "dailyExample": "We are making vegetable soup for dinner tonight.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people prepare vegetable soup in a moonlit kitchen with rising steam.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "internet",
+    "dailyExample": "The internet stopped working halfway through our video call.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Video caller disappears midway and a crossed connection icon replaces the active image.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "taxi",
+    "dailyExample": "We took a taxi home with our heavy bags.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Yellow checker-marked taxi carries two occupants and strapped luggage toward home.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "february",
+    "dailyExample": "My sister starts her new job in February.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Second of twelve month dots is highlighted beside a wintry window and a woman arriving at a new office desk.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
