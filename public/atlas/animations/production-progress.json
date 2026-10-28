@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 41,
-  "pending": 7257,
+  "uploaded": 46,
+  "pending": 7252,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "child",
-    "kind",
-    "nothing",
-    "tuesday",
-    "why"
+    "hat",
+    "worker",
+    "chips",
+    "keep",
+    "left"
   ],
   "words": [
     {
@@ -464,27 +464,67 @@
     {
       "wordId": "child",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The child carefully carried a bowl of water outside.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/child.svg",
+      "blobSha": "cd4b2fe06cd56d285bf9505ac14829d69ff71b03",
+      "visualReview": "Child and held bowl travel together from the room toward the garden. Hands and bowl stay aligned, water remains level.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "kind",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our kind neighbour brought us soup when we were ill.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/kind.svg",
+      "blobSha": "de84aca43d35b476676cd210c760749910209410",
+      "visualReview": "Neighbour carries a steaming bowl to the bedside; the bowl and supporting arms move as one group.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "nothing",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I opened the fridge, but there was nothing inside.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/nothing.svg",
+      "blobSha": "5d0689dd86af535d73e3e7617249d3cced50a26e",
+      "visualReview": "Opening fridge door reveals only empty shelves; hand releases before the door swings further.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tuesday",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually have dinner together on Tuesday evenings.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tuesday.svg",
+      "blobSha": "3bae004a5a40bc8b0474a9cafc003f4867fff74d",
+      "visualReview": "Dinner at dusk with a small table light and the second weekday column highlighted. Meal scene matches the original evening example.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "why",
       "chunk": 0,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Why are your shoes still wet this morning?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/why.svg",
+      "blobSha": "30c32701780214e1f32de86ecc481e59ee795f65",
+      "visualReview": "A morning scene shows two wet shoes and two people questioning the cause; a drawn punctuation cue supports asking why without text answers.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hat",

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "child",
+    "dailyExample": "The child carefully carried a bowl of water outside.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child and held bowl travel together from the room toward the garden. Hands and bowl stay aligned, water remains level.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "kind",
+    "dailyExample": "Our kind neighbour brought us soup when we were ill.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Neighbour carries a steaming bowl to the bedside; the bowl and supporting arms move as one group.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "nothing",
+    "dailyExample": "I opened the fridge, but there was nothing inside.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Opening fridge door reveals only empty shelves; hand releases before the door swings further.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tuesday",
+    "dailyExample": "We usually have dinner together on Tuesday evenings.",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Dinner at dusk with a small table light and the second weekday column highlighted. Meal scene matches the original evening example.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "why",
+    "dailyExample": "Why are your shoes still wet this morning?",
+    "sourceChunk": 0,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A morning scene shows two wet shoes and two people questioning the cause; a drawn punctuation cue supports asking why without text answers.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
