@@ -3050,6 +3050,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "break",
+      "src": "atlas/animations/break.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Be careful not to break that glass bowl.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "egg",
+      "src": "atlas/animations/egg.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She cracked an egg into the hot frying pan.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bookshop",
+      "src": "atlas/animations/bookshop.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We found a tiny bookshop beside the railway station.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "year",
+      "src": "atlas/animations/year.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We moved into this flat almost a year ago.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "free",
+      "src": "atlas/animations/free.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The café offers free biscuits with every hot drink.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

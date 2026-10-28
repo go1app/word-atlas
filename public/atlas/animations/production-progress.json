@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 256,
-  "pending": 7042,
+  "uploaded": 261,
+  "pending": 7037,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "break",
-    "egg",
-    "bookshop",
-    "year",
-    "free"
+    "museum",
+    "shop",
+    "weekend",
+    "sweater",
+    "mother"
   ],
   "words": [
     {
@@ -3259,27 +3259,67 @@
     {
       "wordId": "break",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Be careful not to break that glass bowl.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/break.svg",
+      "blobSha": "4d7d5db2a389bcc1bed88664b353aaa3ac25a4ea",
+      "visualReview": "Glass bowl tips briefly and is supported intact by two hands, emphasizing caution rather than showing it broken.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "egg",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She cracked an egg into the hot frying pan.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/egg.svg",
+      "blobSha": "ea20ed5d1268b97abbe1e294b54ce861d7b6d0bc",
+      "visualReview": "Shell halves separate and an egg drops into the pan before the cooked white and yolk appear. Additional 3.5-second review confirmed only the falling egg is shown before the pan egg appears.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bookshop",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We found a tiny bookshop beside the railway station.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bookshop.svg",
+      "blobSha": "6393dc35f6f2ef1f4a93d17341d2c30c1cdfd986",
+      "visualReview": "Small shop with book displays stands immediately beside the station clock and entrance.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "year",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We moved into this flat almost a year ago.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/year.svg",
+      "blobSha": "539af1030660eb892e3361001ebd0b8e0c149066",
+      "visualReview": "Settled-in flat includes a plant and moving box beside a nearly complete ring of twelve monthly dots.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "free",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The café offers free biscuits with every hot drink.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/free.svg",
+      "blobSha": "89f1626e053bd389685c26272231de2abe58777c",
+      "visualReview": "Café hand adds biscuits beside a hot drink with no additional payment shown.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "museum",

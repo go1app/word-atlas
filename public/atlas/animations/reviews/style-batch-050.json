@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "break",
+    "dailyExample": "Be careful not to break that glass bowl.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Glass bowl tips briefly and is supported intact by two hands, emphasizing caution rather than showing it broken.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "egg",
+    "dailyExample": "She cracked an egg into the hot frying pan.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Shell halves separate and an egg drops into the pan before the cooked white and yolk appear. Additional 3.5-second review confirmed only the falling egg is shown before the pan egg appears.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bookshop",
+    "dailyExample": "We found a tiny bookshop beside the railway station.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small shop with book displays stands immediately beside the station clock and entrance.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "year",
+    "dailyExample": "We moved into this flat almost a year ago.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Settled-in flat includes a plant and moving box beside a nearly complete ring of twelve monthly dots.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "free",
+    "dailyExample": "The café offers free biscuits with every hot drink.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Café hand adds biscuits beside a hot drink with no additional payment shown.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
