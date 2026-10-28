@@ -2630,6 +2630,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "farmer",
+      "src": "atlas/animations/farmer.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The farmer feeds her chickens before the sun rises.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "coffee",
+      "src": "atlas/animations/coffee.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I drink coffee with milk before leaving for work.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "shoe",
+      "src": "atlas/animations/shoe.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There was a small stone inside my shoe.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bike",
+      "src": "atlas/animations/bike.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I locked my bike outside the corner shop.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "little",
+      "src": "atlas/animations/little.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A little bird landed on our kitchen windowsill.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

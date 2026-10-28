@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "farmer",
+    "dailyExample": "The farmer feeds her chickens before the sun rises.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Farmer scatters grain to chickens in muted pre-dawn light beside a barn.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "coffee",
+    "dailyExample": "I drink coffee with milk before leaving for work.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Milk pours into coffee beside a work briefcase in a morning kitchen.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "shoe",
+    "dailyExample": "There was a small stone inside my shoe.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small stone is visible in an open shoe beneath a moving magnifier.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bike",
+    "dailyExample": "I locked my bike outside the corner shop.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand closes a lock connecting a bicycle to a post outside a corner shop.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "little",
+    "dailyExample": "A little bird landed on our kitchen windowsill.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Tiny bird descends to a kitchen windowsill and folds its wing after landing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

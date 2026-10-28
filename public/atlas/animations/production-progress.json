@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 221,
-  "pending": 7077,
+  "uploaded": 226,
+  "pending": 7072,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "farmer",
-    "coffee",
-    "shoe",
-    "bike",
-    "little"
+    "sweet",
+    "morning",
+    "outside",
+    "pasta",
+    "black"
   ],
   "words": [
     {
@@ -2804,27 +2804,67 @@
     {
       "wordId": "farmer",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The farmer feeds her chickens before the sun rises.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/farmer.svg",
+      "blobSha": "ebe385d10b163ee9cef03a8b861ed8b4702d9d69",
+      "visualReview": "Farmer scatters grain to chickens in muted pre-dawn light beside a barn.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "coffee",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I drink coffee with milk before leaving for work.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/coffee.svg",
+      "blobSha": "64967d9ed93a9351003103a2af742d24c1f223ec",
+      "visualReview": "Milk pours into coffee beside a work briefcase in a morning kitchen.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "shoe",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "There was a small stone inside my shoe.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/shoe.svg",
+      "blobSha": "af45dc0a101d78bde6ff7afa42076a00341db264",
+      "visualReview": "Small stone is visible in an open shoe beneath a moving magnifier.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bike",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I locked my bike outside the corner shop.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bike.svg",
+      "blobSha": "b04e08cc3bd76ee88fdf9d258db565b93ccb79d3",
+      "visualReview": "Hand closes a lock connecting a bicycle to a post outside a corner shop.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "little",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A little bird landed on our kitchen windowsill.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/little.svg",
+      "blobSha": "8568a1c8c6d52551ab63500865e4325ea1d3e463",
+      "visualReview": "Tiny bird descends to a kitchen windowsill and folds its wing after landing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sweet",
