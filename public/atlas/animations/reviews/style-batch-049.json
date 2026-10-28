@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "lose",
+    "dailyExample": "I always lose my keys inside this enormous bag.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Keys disappear beneath the lining of a large bag while a hand searches across the opening.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "your",
+    "dailyExample": "Please leave your shoes by the door before entering.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A clean pair of shoes is left on the entrance mat beside the door.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "star",
+    "dailyExample": "We watched the stars from our tent beside the lake.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Family watches twinkling stars from a tent directly beside a quiet lake.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "actor",
+    "dailyExample": "The actor wore a silver crown on stage.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Performer wears a distinctly silver crown on a stage framed by curtains and an audience.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "art",
+    "dailyExample": "We spent the afternoon making art with coloured paper.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A coloured paper bird is placed onto a layered paper collage with scissors and glue nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

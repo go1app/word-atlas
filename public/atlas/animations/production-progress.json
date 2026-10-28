@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 251,
-  "pending": 7047,
+  "uploaded": 256,
+  "pending": 7042,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "lose",
-    "your",
-    "star",
-    "actor",
-    "art"
+    "break",
+    "egg",
+    "bookshop",
+    "year",
+    "free"
   ],
   "words": [
     {
@@ -3194,27 +3194,67 @@
     {
       "wordId": "lose",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I always lose my keys inside this enormous bag.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/lose.svg",
+      "blobSha": "763ebaf020b93d94ad6dd4cf96e78f811dd3d83a",
+      "visualReview": "Keys disappear beneath the lining of a large bag while a hand searches across the opening.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "your",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please leave your shoes by the door before entering.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/your.svg",
+      "blobSha": "d61574448dcc46bd1b4db77f8dab656d167f3be3",
+      "visualReview": "A clean pair of shoes is left on the entrance mat beside the door.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "star",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched the stars from our tent beside the lake.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/star.svg",
+      "blobSha": "5e709eae638ed02e33afaab31c8f565f93080e24",
+      "visualReview": "Family watches twinkling stars from a tent directly beside a quiet lake.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "actor",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The actor wore a silver crown on stage.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/actor.svg",
+      "blobSha": "f75f1f9cac9641d138f4c7d70029ad8b43f23909",
+      "visualReview": "Performer wears a distinctly silver crown on a stage framed by curtains and an audience.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "art",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent the afternoon making art with coloured paper.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/art.svg",
+      "blobSha": "4b5f3a40c5384c355c5287beb467825dcd1645ad",
+      "visualReview": "A coloured paper bird is placed onto a layered paper collage with scissors and glue nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "break",

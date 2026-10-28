@@ -2990,6 +2990,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "lose",
+      "src": "atlas/animations/lose.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I always lose my keys inside this enormous bag.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "your",
+      "src": "atlas/animations/your.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please leave your shoes by the door before entering.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "star",
+      "src": "atlas/animations/star.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched the stars from our tent beside the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "actor",
+      "src": "atlas/animations/actor.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The actor wore a silver crown on stage.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "art",
+      "src": "atlas/animations/art.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We spent the afternoon making art with coloured paper.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
