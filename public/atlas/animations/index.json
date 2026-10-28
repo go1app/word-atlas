@@ -2690,6 +2690,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sweet",
+      "src": "atlas/animations/sweet.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These strawberries are sweet enough to eat without sugar.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "morning",
+      "src": "atlas/animations/morning.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I open the curtains every morning and water my plants.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "outside",
+      "src": "atlas/animations/outside.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The children played outside while their parents prepared lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pasta",
+      "src": "atlas/animations/pasta.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We cooked pasta with fresh tomatoes and mushrooms.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "black",
+      "src": "atlas/animations/black.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She wore a black coat and bright yellow boots.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

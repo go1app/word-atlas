@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "sweet",
+    "dailyExample": "These strawberries are sweet enough to eat without sugar.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child tastes a ripe strawberry with a contented expression while sugar remains unused at the side.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "morning",
+    "dailyExample": "I open the curtains every morning and water my plants.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Curtains part to reveal the morning sun, then a watering can pours toward a windowsill plant.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "outside",
+    "dailyExample": "The children played outside while their parents prepared lunch.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Children play with a ball outdoors while two parents prepare lunch inside the visible kitchen.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pasta",
+    "dailyExample": "We cooked pasta with fresh tomatoes and mushrooms.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Tomatoes and mushrooms are identifiable among pasta strands as a wooden spoon stirs the pan.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "black",
+    "dailyExample": "She wore a black coat and bright yellow boots.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Black coat and bright yellow boots remain the visual focus as a woman walks past a house.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

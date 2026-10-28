@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 226,
-  "pending": 7072,
+  "uploaded": 231,
+  "pending": 7067,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sweet",
-    "morning",
-    "outside",
-    "pasta",
-    "black"
+    "basketball",
+    "tiger",
+    "christmas",
+    "desk",
+    "tell"
   ],
   "words": [
     {
@@ -2869,27 +2869,67 @@
     {
       "wordId": "sweet",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "These strawberries are sweet enough to eat without sugar.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sweet.svg",
+      "blobSha": "b604439a0636905a47762bd8f300083442912c90",
+      "visualReview": "Child tastes a ripe strawberry with a contented expression while sugar remains unused at the side.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "morning",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I open the curtains every morning and water my plants.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/morning.svg",
+      "blobSha": "0a38782fa7f563fd96d77ead2f0ea289faca1437",
+      "visualReview": "Curtains part to reveal the morning sun, then a watering can pours toward a windowsill plant.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "outside",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The children played outside while their parents prepared lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/outside.svg",
+      "blobSha": "b395c06b97d786c75a76ac20edbfaaba85cc9558",
+      "visualReview": "Children play with a ball outdoors while two parents prepare lunch inside the visible kitchen.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pasta",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We cooked pasta with fresh tomatoes and mushrooms.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pasta.svg",
+      "blobSha": "8f05ea728dad4cbab28652b6a54ca5474d23497e",
+      "visualReview": "Tomatoes and mushrooms are identifiable among pasta strands as a wooden spoon stirs the pan.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "black",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She wore a black coat and bright yellow boots.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/black.svg",
+      "blobSha": "16ca9ad8277d294fb6cdf5464d82320383b19b3f",
+      "visualReview": "Black coat and bright yellow boots remain the visual focus as a woman walks past a house.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "basketball",
