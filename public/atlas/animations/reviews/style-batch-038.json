@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "website",
+    "dailyExample": "I found the museum's opening hours on its website.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Museum web page on a laptop reveals an opening-time card with a clock, without visible answer text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "china",
+    "dailyExample": "My cousin returned from China with beautiful mountain photographs.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cousin returns with a framed mountain photograph showing misty peaks and traditional wall towers; luggage is nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "telephone",
+    "dailyExample": "The telephone rang just as I opened the door.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Door opens while a vintage telephone receiver vibrates and ringing accents appear.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "question",
+    "dailyExample": "I raised my hand to ask the teacher a question.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pupil raises a connected arm and a question bubble toward a listening teacher.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "village",
+    "dailyExample": "Our village has a bakery beside the old bridge.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A bakery with fresh bread stands beside an old stone bridge with a gently flowing stream.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

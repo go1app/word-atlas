@@ -2330,6 +2330,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "website",
+      "src": "atlas/animations/website.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I found the museum's opening hours on its website.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "china",
+      "src": "atlas/animations/china.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My cousin returned from China with beautiful mountain photographs.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "telephone",
+      "src": "atlas/animations/telephone.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The telephone rang just as I opened the door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "question",
+      "src": "atlas/animations/question.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I raised my hand to ask the teacher a question.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "village",
+      "src": "atlas/animations/village.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our village has a bakery beside the old bridge.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

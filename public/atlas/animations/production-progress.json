@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 196,
-  "pending": 7102,
+  "uploaded": 201,
+  "pending": 7097,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "website",
-    "china",
-    "telephone",
-    "question",
-    "village"
+    "news",
+    "word",
+    "dark",
+    "see",
+    "potato"
   ],
   "words": [
     {
@@ -2479,27 +2479,67 @@
     {
       "wordId": "website",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I found the museum's opening hours on its website.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/website.svg",
+      "blobSha": "e997a9edbd9a7ba280cda09224ecf75a556c3fba",
+      "visualReview": "Museum web page on a laptop reveals an opening-time card with a clock, without visible answer text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "china",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin returned from China with beautiful mountain photographs.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/china.svg",
+      "blobSha": "0a3542aa351c7b6077dfeb39478838e8bcee82fe",
+      "visualReview": "Cousin returns with a framed mountain photograph showing misty peaks and traditional wall towers; luggage is nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "telephone",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The telephone rang just as I opened the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/telephone.svg",
+      "blobSha": "9bb5e626435c7592eab8002525b954bac66be3ec",
+      "visualReview": "Door opens while a vintage telephone receiver vibrates and ringing accents appear.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "question",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I raised my hand to ask the teacher a question.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/question.svg",
+      "blobSha": "54b0bbdd81e72cc54bf8b91655cc58341af06af1",
+      "visualReview": "Pupil raises a connected arm and a question bubble toward a listening teacher.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "village",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our village has a bakery beside the old bridge.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/village.svg",
+      "blobSha": "460dcbab4e5fa950de304198f67025f100afec62",
+      "visualReview": "A bakery with fresh bread stands beside an old stone bridge with a gently flowing stream.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "news",
