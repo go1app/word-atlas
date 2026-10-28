@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 356,
-  "pending": 6942,
+  "uploaded": 361,
+  "pending": 6937,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "message",
-    "sea",
-    "bread",
-    "between",
-    "far"
+    "eighteen",
+    "time",
+    "company",
+    "bathroom",
+    "dance"
   ],
   "words": [
     {
@@ -4559,27 +4559,67 @@
     {
       "wordId": "message",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please leave a message if I miss your call.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/message.svg",
+      "blobSha": "7de9433e77db99b9d40956fe2baee4e3903c3302",
+      "visualReview": "Unanswered phone transitions to a voice-message waveform, with no text or digits.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sea",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The children watched small boats sailing across the sea.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sea.svg",
+      "blobSha": "b2e5f50d1f365acf412d160681bf606d3f30a126",
+      "visualReview": "Children watch three small sailing boats move gently across the sea.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bread",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Fresh bread was cooling beside the kitchen window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bread.svg",
+      "blobSha": "686dc8c56359ab2d2e2fae9413cacf95a5e5ca6e",
+      "visualReview": "Fresh loaf cools on a wire rack beside a kitchen window, with subtle rising steam.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "between",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The cat squeezed between the sofa and the wall.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/between.svg",
+      "blobSha": "d376ee3efe3658d389de3d99248b169eb7a00b3f",
+      "visualReview": "Cat squeezes through a narrow floor gap bounded by sofa arm and side wall.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "far",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We walked so far that our feet began to ache.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/far.svg",
+      "blobSha": "7d78073b229b3512becb284b223fb84c4b67c6d8",
+      "visualReview": "Winding trail establishes a long walk; resting person bends toward sore feet beside a bench.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "eighteen",

@@ -4250,6 +4250,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "message",
+      "src": "atlas/animations/message.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please leave a message if I miss your call.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sea",
+      "src": "atlas/animations/sea.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The children watched small boats sailing across the sea.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bread",
+      "src": "atlas/animations/bread.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Fresh bread was cooling beside the kitchen window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "between",
+      "src": "atlas/animations/between.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The cat squeezed between the sofa and the wall.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "far",
+      "src": "atlas/animations/far.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We walked so far that our feet began to ache.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

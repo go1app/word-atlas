@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "message",
+    "dailyExample": "Please leave a message if I miss your call.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Unanswered phone transitions to a voice-message waveform, with no text or digits.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sea",
+    "dailyExample": "The children watched small boats sailing across the sea.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Children watch three small sailing boats move gently across the sea.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bread",
+    "dailyExample": "Fresh bread was cooling beside the kitchen window.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh loaf cools on a wire rack beside a kitchen window, with subtle rising steam.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "between",
+    "dailyExample": "The cat squeezed between the sofa and the wall.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cat squeezes through a narrow floor gap bounded by sofa arm and side wall.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "far",
+    "dailyExample": "We walked so far that our feet began to ache.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Winding trail establishes a long walk; resting person bends toward sore feet beside a bench.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
