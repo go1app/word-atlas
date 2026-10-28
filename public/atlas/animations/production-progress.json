@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 296,
-  "pending": 7002,
+  "uploaded": 301,
+  "pending": 6997,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "add",
-    "fact",
-    "nice",
-    "flower",
-    "cloudy"
+    "important",
+    "house",
+    "lady",
+    "piano",
+    "market"
   ],
   "words": [
     {
@@ -3779,27 +3779,67 @@
     {
       "wordId": "add",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Add a little milk if the soup is too thick.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/add.svg",
+      "blobSha": "464096352ab32180df784aa735e49faffba3148f",
+      "visualReview": "A small amount of milk pours into visibly thick soup and forms a pale swirl.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fact",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We checked the facts before booking our train tickets.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fact.svg",
+      "blobSha": "ee690033ae83c67d2f40ac499deadfa8ec696e19",
+      "visualReview": "Train details and matching clocks are compared across two sources before a check and ticket appear.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "nice",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We had a nice picnic beside the lake.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/nice.svg",
+      "blobSha": "8548a3c2bd9b64349064879fb271aafae5dc2280",
+      "visualReview": "Two people sit comfortably on a picnic blanket beside gentle lake water.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "flower",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She placed fresh flowers in a vase by the window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/flower.svg",
+      "blobSha": "6de2603c70cd025652b364b985b441f1a0516c94",
+      "visualReview": "Fresh flowers are lowered into a vase beside a broad window before the hand withdraws.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cloudy",
       "chunk": 2,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "It was cloudy, so we left our sunglasses at home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cloudy.svg",
+      "blobSha": "96fd52907a7bdd1295580d23aba198dfd1cd5bd4",
+      "visualReview": "Sunglasses remain on an indoor table as people leave through a doorway into an overcast day.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "important",

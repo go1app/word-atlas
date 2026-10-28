@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "add",
+    "dailyExample": "Add a little milk if the soup is too thick.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A small amount of milk pours into visibly thick soup and forms a pale swirl.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fact",
+    "dailyExample": "We checked the facts before booking our train tickets.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Train details and matching clocks are compared across two sources before a check and ticket appear.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "nice",
+    "dailyExample": "We had a nice picnic beside the lake.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people sit comfortably on a picnic blanket beside gentle lake water.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "flower",
+    "dailyExample": "She placed fresh flowers in a vase by the window.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh flowers are lowered into a vase beside a broad window before the hand withdraws.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cloudy",
+    "dailyExample": "It was cloudy, so we left our sunglasses at home.",
+    "sourceChunk": 2,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sunglasses remain on an indoor table as people leave through a doorway into an overcast day.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

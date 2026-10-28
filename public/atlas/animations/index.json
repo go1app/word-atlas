@@ -3530,6 +3530,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "add",
+      "src": "atlas/animations/add.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Add a little milk if the soup is too thick.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fact",
+      "src": "atlas/animations/fact.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We checked the facts before booking our train tickets.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "nice",
+      "src": "atlas/animations/nice.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We had a nice picnic beside the lake.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "flower",
+      "src": "atlas/animations/flower.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She placed fresh flowers in a vase by the window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cloudy",
+      "src": "atlas/animations/cloudy.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "It was cloudy, so we left our sunglasses at home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
