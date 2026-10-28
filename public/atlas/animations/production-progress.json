@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 166,
-  "pending": 7132,
+  "uploaded": 171,
+  "pending": 7127,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "restaurant",
-    "bus",
-    "father",
-    "foot",
-    "airplane"
+    "french",
+    "him",
+    "p-m",
+    "beginning",
+    "dirty"
   ],
   "words": [
     {
@@ -2089,27 +2089,67 @@
     {
       "wordId": "restaurant",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We found a quiet restaurant beside the river.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/restaurant.svg",
+      "blobSha": "29d2143e10b9261ed2d2291bb318e7abc429d4ff",
+      "visualReview": "Quiet set tables and a bistro stand beside a flowing river as visitors approach.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bus",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We caught the last bus home after the concert.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bus.svg",
+      "blobSha": "f5ce738409bb7113dcdf6573d8030d2e18fadd13",
+      "visualReview": "Concertgoers with a programme walk from a music hall toward the open late bus at night.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "father",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Her father taught her to ride a bicycle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/father.svg",
+      "blobSha": "d442166a54d6aa57cd337651c3727f7752941393",
+      "visualReview": "Father keeps a supporting hand at the rear of a child bicycle while both move together on a park path.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "foot",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A tiny stone in my shoe hurt my foot.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/foot.svg",
+      "blobSha": "0b1e847acda4f8d0c04432a05d40e8dabb165acc",
+      "visualReview": "A shoe tips to release a small stone beside a bare foot with a subtle sore-point accent.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "airplane",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched the airplane disappear behind a white cloud.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/airplane.svg",
+      "blobSha": "956030f1517dfcb5ca99f91dc6ec2afc802a52ed",
+      "visualReview": "Plane crosses behind a foreground white cloud while two people below watch and point upward.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "french",

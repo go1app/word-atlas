@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "restaurant",
+    "dailyExample": "We found a quiet restaurant beside the river.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Quiet set tables and a bistro stand beside a flowing river as visitors approach.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bus",
+    "dailyExample": "We caught the last bus home after the concert.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Concertgoers with a programme walk from a music hall toward the open late bus at night.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "father",
+    "dailyExample": "Her father taught her to ride a bicycle.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Father keeps a supporting hand at the rear of a child bicycle while both move together on a park path.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "foot",
+    "dailyExample": "A tiny stone in my shoe hurt my foot.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A shoe tips to release a small stone beside a bare foot with a subtle sore-point accent.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "airplane",
+    "dailyExample": "We watched the airplane disappear behind a white cloud.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Plane crosses behind a foreground white cloud while two people below watch and point upward.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

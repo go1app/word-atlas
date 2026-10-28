@@ -1970,6 +1970,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "restaurant",
+      "src": "atlas/animations/restaurant.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We found a quiet restaurant beside the river.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bus",
+      "src": "atlas/animations/bus.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We caught the last bus home after the concert.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "father",
+      "src": "atlas/animations/father.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Her father taught her to ride a bicycle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "foot",
+      "src": "atlas/animations/foot.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A tiny stone in my shoe hurt my foot.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "airplane",
+      "src": "atlas/animations/airplane.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched the airplane disappear behind a white cloud.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
