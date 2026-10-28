@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 151,
-  "pending": 7147,
+  "uploaded": 156,
+  "pending": 7142,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "kitchen",
-    "when",
-    "north",
-    "sugar",
-    "husband"
+    "correct",
+    "animal",
+    "thirsty",
+    "pen",
+    "leave"
   ],
   "words": [
     {
@@ -1894,27 +1894,67 @@
     {
       "wordId": "kitchen",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The kitchen smells of fresh bread and roasted vegetables.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/kitchen.svg",
+      "blobSha": "b105c241259a7054e261c79df7bd922b2cc07deb",
+      "visualReview": "Fresh bread and a tray of roasted vegetables sit in a complete kitchen with gentle rising scent lines.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "when",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "When does the next bus leave for town?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/when.svg",
+      "blobSha": "9797831fb5fcac59e84f29241e6e97110525da2c",
+      "visualReview": "Traveller gestures toward a clock and asks the bus attendant with a question bubble beside the waiting bus.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "north",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The north of the island gets snow every winter.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/north.svg",
+      "blobSha": "8f22ef137b1a3dfc9da13bc428cd4af32de49365",
+      "visualReview": "Upper region of a vertically oriented island is snow-covered; an upward compass arrow reinforces north.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sugar",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She stirred a spoonful of sugar into her tea.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sugar.svg",
+      "blobSha": "635d98420ccbce76fc1f15fd9a9d0dcba3a01580",
+      "visualReview": "A spoonful of white sugar appears over tea, granules fall and a small swirl follows.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "husband",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Her husband brought her lunch during a busy shift.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/husband.svg",
+      "blobSha": "85d117d2e333878afd92f4ea31934e948910bae7",
+      "visualReview": "A man brings a handled lunchbox to a woman working at an office desk; the box moves with his supporting arm.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "correct",

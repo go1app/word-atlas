@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "kitchen",
+    "dailyExample": "The kitchen smells of fresh bread and roasted vegetables.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh bread and a tray of roasted vegetables sit in a complete kitchen with gentle rising scent lines.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "when",
+    "dailyExample": "When does the next bus leave for town?",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Traveller gestures toward a clock and asks the bus attendant with a question bubble beside the waiting bus.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "north",
+    "dailyExample": "The north of the island gets snow every winter.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Upper region of a vertically oriented island is snow-covered; an upward compass arrow reinforces north.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sugar",
+    "dailyExample": "She stirred a spoonful of sugar into her tea.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A spoonful of white sugar appears over tea, granules fall and a small swirl follows.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "husband",
+    "dailyExample": "Her husband brought her lunch during a busy shift.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A man brings a handled lunchbox to a woman working at an office desk; the box moves with his supporting arm.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
