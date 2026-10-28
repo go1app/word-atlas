@@ -1,1 +1,351 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc"><title id="title">晨光落在被子上</title><desc id="desc">My bedroom gets plenty of sunlight in the morning.</desc><metadata>{"wordId": "bedroom", "dailyExample": "My bedroom gets plenty of sunlight in the morning.", "source": "https://github.com/go1app/word-atlas/blob/main/README.md", "attribution": "Word Atlas contributors — CC BY 4.0", "license": "https://creativecommons.org/licenses/by/4.0/", "changes": "New original vector animation interpreting the daily example.", "durationSeconds": 10}</metadata><defs><linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e0d7c2"/><stop offset="1" stop-color="#f2e8d2"/></linearGradient><linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff6ce"/><stop offset="1" stop-color="#fff6ce"/></linearGradient><clipPath id="frame"><rect width="1000" height="650" rx="20"/></clipPath><filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".74" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".065"/></feComponentTransfer><feBlend in="SourceGraphic" mode="soft-light"/></filter><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter></defs><g clip-path="url(#frame)"><rect x="0" y="0" width="1000" height="650" rx="0" fill="url(#wall)" /><rect x="0" y="515" width="1000" height="135" rx="0" fill="#baa387" /><path d="M0 553H1000M0 596H1000M125 515L94 650M387 515L380 650M686 515L716 650" fill="none" stroke="#d5bea0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><rect x="605" y="61" width="281" height="319" rx="6" fill="#ece0bd" /><rect x="614" y="70" width="263" height="301" rx="3" fill="#bacfc5" /><path d="M745.5 69V372M613 214.12H878" fill="none" stroke="#e5d8b4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" /><path d="M629 83L694.92 83 629 268.35Z" fill="#fff6ce" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".25"/><circle cx="812" cy="129" r="35" fill="#fff0b5" /><path d="M625 302Q695 254 733 289T872 266V363H625Z" fill="#a9bd9f" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><g opacity=".2"><path d="M615 370L234 650H740L873 370Z" fill="#fff6cf" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><animate attributeName="opacity" values=".12;.42;.12" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><rect x="585" y="52" width="320" height="10" rx="4" fill="#9e8b68" /><g transform="translate(590 63)"><g><animateTransform attributeName="transform" type="skewX" values="0;2;0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/><path d="M0 0H57L72 312Q42 298 6 315Z" fill="#f2ecda" stroke="#d9ceb3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M12 8L18 300M31 8L39 300M47 8L59 302" fill="none" stroke="#ded6bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></g></g><g transform="translate(847 63)"><g><animateTransform attributeName="transform" type="skewX" values="0;2;0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/><path d="M0 0H57L72 312Q42 298 6 315Z" fill="#f2ecda" stroke="#d9ceb3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M12 8L18 300M31 8L39 300M47 8L59 302" fill="none" stroke="#ded6bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></g></g><rect x="147" y="330" width="392" height="211" rx="25" fill="#9b7a5d" /><path d="M164 412V357Q336 316 522 357V413" fill="none" stroke="#b38f6b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M156 434L536 432 650 581 75 581Z" fill="#f1e5c8" stroke="#b69e7b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M75 581H650V615H75Z" fill="#8f785b" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M158 436L537 435 631 564 88 564Z" fill="#bbc6ae" stroke="#8eaa9c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M89 564H631V591Q352 612 88 590Z" fill="#94ad9f" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M140 480L568 477M122 511L591 510M103 543L616 540M193 441L165 565M270 440L261 565M352 440L360 565M437 440L459 565M509 440L547 565" fill="none" stroke="#d9debf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M183 391Q220 375 276 386L290 430 169 431Z" fill="#f3ecd9" stroke="#d3c5a6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M340 383Q393 373 453 385L477 427 331 428Z" fill="#e6dec8" stroke="#cbbc9e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><rect x="39" y="445" width="89" height="84" rx="6" fill="#b89b70" /><rect x="50" y="461" width="66" height="28" rx="3" fill="#d0b78b" /><circle cx="82" cy="477" r="4" fill="#8b7e5c" /><path d="M65 444L67 397H100L104 444Z" fill="#7b8b78" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M57 397L68 363H99L111 397Z" fill="#e9d4a1" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><g transform="translate(897 494) scale(1.1)"><path d="M-27 0H27L20 42H-20Z" fill="#af7458" stroke="#7b6550" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /><path d="M0 0Q-10 -58 5 -92M1 -6Q-44 -31 -36 -59M3 -12Q38 -38 32 -69" fill="none" stroke="#627c64" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" /><path d="M-3 -52Q-31 -81 -29 -49Q-19 -28 -3 -34M4 -63Q15 -95 29 -78Q34 -62 4 -48M1 -25Q-21 -49 -27 -30Q-30 -11 1 -14" fill="#81916d" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></g><rect x="723" y="482" width="112" height="26" rx="5" fill="#c4ad82" /><path d="M735 507V592M822 507V592" fill="none" stroke="#9d8866" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" /><path d="M693 604Q788 580 879 605T843 635H720Z" fill="#d9c69e" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><g opacity=".2"><circle cx="590" cy="300" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="607" cy="339" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="624" cy="378" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="641" cy="417" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="658" cy="456" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="675" cy="300" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="692" cy="339" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="709" cy="378" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="726" cy="417" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="743" cy="456" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="760" cy="300" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="777" cy="339" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="794" cy="378" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="811" cy="417" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><g opacity=".2"><circle cx="828" cy="456" r="1.7" fill="#fff9d8" /><animateTransform attributeName="transform" type="translate" values="0 0;-8 20;0 0" keyTimes="0;.5;1" dur="10s" repeatCount="indefinite"/></g><rect width="1000" height="650" fill="#ddc8a0" opacity=".14" filter="url(#paper)" pointer-events="none"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+  <title id="title">晨光落在被子上 · 治愈光影版</title>
+  <desc id="desc">My bedroom gets plenty of sunlight in the morning.</desc>
+  {"wordId": "bedroom", "dailyExample": "My bedroom gets plenty of sunlight in the morning.", "style": "Cinematic Cozy Illustration", "durationSeconds": 12}
+
+  <defs>
+    <clipPath id="canvas"><rect width="1000" height="650" rx="22" /></clipPath>
+    <clipPath id="winClip"><rect x="580" y="45" width="320" height="350" rx="8" /></clipPath>
+    <!-- 专门用于将窗格阳光精准贴合在被子表面的剪裁路径 -->
+    <clipPath id="duvetClip">
+      <path d="M95 430 Q330 412 560 432 L680 585 Q360 615 55 580 Z" />
+    </clipPath>
+
+    <!-- 墙面：晨间微冷阴影向暖阳过渡 -->
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#cfc6b8" />
+      <stop offset="55%" stop-color="#e4dac8" />
+      <stop offset="100%" stop-color="#f5ebd6" />
+    </linearGradient>
+
+    <!-- 地板渐变 -->
+    <linearGradient id="floor" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0%" stop-color="#9c8265" />
+      <stop offset="60%" stop-color="#b89b7a" />
+      <stop offset="100%" stop-color="#8d7357" />
+    </linearGradient>
+
+    <!-- 窗外晨曦天空 -->
+    <linearGradient id="morningSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9ab8ba" />
+      <stop offset="55%" stop-color="#dfdfc9" />
+      <stop offset="100%" stop-color="#fce3b4" />
+    </linearGradient>
+
+    <!-- 被子本色（鼠尾草绿带明暗立体感） -->
+    <linearGradient id="duvetBase" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#9db09b" />
+      <stop offset="50%" stop-color="#b3c4b0" />
+      <stop offset="100%" stop-color="#839983" />
+    </linearGradient>
+
+    <!-- 丁达尔体积光渐变 -->
+    <linearGradient id="godRay" x1="0.8" y1="0" x2="0.2" y2="1">
+      <stop offset="0%" stop-color="#fff6d1" stop-opacity="0.65" />
+      <stop offset="50%" stop-color="#ffecb3" stop-opacity="0.30" />
+      <stop offset="100%" stop-color="#ffe08a" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- 阳光光斑色彩 -->
+    <linearGradient id="sunPatch" x1="0.5" y1="0" x2="0.2" y2="1">
+      <stop offset="0%" stop-color="#fff8d6" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#ffe7a0" stop-opacity="0.55" />
+    </linearGradient>
+
+    <!-- 柔和发光滤镜 -->
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" />
+    </filter>
+    <filter id="sunBloom" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="25" />
+    </filter>
+
+    <!-- 胶片颗粒感 -->
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" stitchTiles="stitch" />
+      <feColorMatrix type="saturate" values="0" />
+      <feComponentTransfer><feFuncA type="linear" slope="0.055" /></feComponentTransfer>
+      <feBlend in="SourceGraphic" mode="soft-light" />
+    </filter>
+  </defs>
+
+  <g clip-path="url(#canvas)">
+    <!-- ================= 1. 房间背景与木地板 ================= -->
+    <rect width="1000" height="650" fill="url(#wall)" />
+    
+    <!-- 墙面挂画（左侧平衡构图，增加温馨感） -->
+    <g transform="translate(260, 130)">
+      <rect x="3" y="5" width="90" height="115" rx="4" fill="#b5a895" opacity="0.5" />
+      <rect width="90" height="115" rx="4" fill="#8c6d51" stroke="#6e5239" stroke-width="2" />
+      <rect x="10" y="10" width="70" height="95" rx="2" fill="#f2ead7" />
+      <circle cx="55" cy="42" r="14" fill="#e8b882" opacity="0.8" />
+      <path d="M10 82 Q35 62 55 75 T80 68 V105 H10 Z" fill="#9caf9c" />
+      <path d="M10 92 Q45 78 80 88 V105 H10 Z" fill="#788c7a" />
+    </g>
+
+    <!-- 踢脚线与木地板 -->
+    <rect x="0" y="498" width="1000" height="14" fill="#cab89f" stroke="#b39f84" stroke-width="1.5" />
+    <rect x="0" y="512" width="1000" height="138" fill="url(#floor)" />
+    <path d="M0 545H1000 M0 585H1000 M0 628H1000 M140 512L95 650 M380 512L360 650 M640 512L665 650 M860 512L910 650" stroke="#8a7054" stroke-width="1.8" stroke-linecap="round" opacity="0.45" />
+
+    <!-- ================= 2. 落地大窗与窗外晨景 ================= -->
+    <!-- 窗框立体阴影 -->
+    <rect x="572" y="42" width="336" height="368" rx="10" fill="#b8a890" opacity="0.5" />
+    <rect x="570" y="36" width="340" height="368" rx="10" fill="#ede1c5" stroke="#cbb997" stroke-width="2" />
+
+    <g clip-path="url(#winClip)">
+      <rect x="580" y="45" width="320" height="350" fill="url(#morningSky)" />
+      
+      <!-- 朝阳与柔光光晕 -->
+      <circle cx="815" cy="125" r="75" fill="#fff6ce" opacity="0.5" filter="url(#sunBloom)" />
+      <circle cx="815" cy="125" r="38" fill="#fff5c0" />
+      <circle cx="815" cy="125" r="24" fill="#ffffff" opacity="0.7" />
+
+      <!-- 远山层叠与晨雾 -->
+      <path d="M580 285 Q650 240 730 268 T900 245 V395 H580 Z" fill="#b4c4b6" opacity="0.7" />
+      <path d="M580 315 Q680 265 765 298 T900 280 V395 H580 Z" fill="#96ad9a" />
+      <path d="M580 348 Q640 325 730 342 T900 330 V395 H580 Z" fill="#78917d" />
+
+      <!-- 窗外飞过的小鸟（缓慢掠过） -->
+      <g stroke="#697d6e" stroke-width="1.8" fill="none" stroke-linecap="round">
+        <path d="M850 165 Q856 159 862 165 Q868 159 874 165" />
+        <path d="M870 152 Q874 148 878 152 Q882 148 886 152" opacity="0.7" />
+        <animateTransform attributeName="transform" type="translate" values="30 10; -260 -35" dur="12s" repeatCount="indefinite" />
+      </g>
+
+      <!-- 窗外摇曳的树枝剪影 -->
+      <g transform="translate(580, 55)" fill="#627866" opacity="0.75">
+        <animateTransform attributeName="transform" type="rotate" values="0 580 55; 2.5 580 55; 0 580 55" dur="8s" repeatCount="indefinite" />
+        <path d="M0 0 Q60 25 110 15 Q75 45 20 35 Z" />
+        <ellipse cx="85" cy="35" rx="18" ry="8" transform="rotate(20 85 35)" />
+        <ellipse cx="50" cy="52" rx="15" ry="7" transform="rotate(35 50 52)" />
+        <ellipse cx="115" cy="22" rx="14" ry="6" transform="rotate(10 115 22)" />
+      </g>
+    </g>
+
+    <!-- 十字窗棂与厚窗台 -->
+    <rect x="580" y="45" width="320" height="350" rx="8" fill="none" stroke="#d4c3a1" stroke-width="3" />
+    <path d="M740 45V395 M580 220H900" stroke="#e8dab8" stroke-width="10" stroke-linecap="round" />
+    <path d="M740 45V395 M580 220H900" stroke="#cab894" stroke-width="1.5" />
+    <rect x="558" y="395" width="364" height="14" rx="5" fill="#e5d6b5" stroke="#bfa984" stroke-width="2" />
+
+    <!-- ================= 3. 室内家具底影 ================= -->
+    <ellipse cx="76" cy="535" rx="58" ry="9" fill="#6b563e" opacity="0.45" />
+    <path d="M45 585 H705 L685 632 H25 Z" fill="#5e4a34" opacity="0.5" />
+    <ellipse cx="820" cy="605" rx="125" ry="26" fill="#d9c7a3" stroke="#c2ae86" stroke-width="2" />
+    <path d="M710 605 Q820 588 930 605" fill="none" stroke="#cbb790" stroke-width="1.5" stroke-dasharray="6 6" />
+
+    <!-- ================= 4. 床铺与蓬松被褥（视觉核心） ================= -->
+    <!-- 原木床头板 -->
+    <path d="M125 325 Q335 295 545 325 L555 490 H115 Z" fill="#8f6d4f" stroke="#6e5136" stroke-width="2" stroke-linejoin="round" />
+    <path d="M142 420 V345 Q335 318 528 345 V420" fill="none" stroke="#ab8664" stroke-width="3" stroke-linecap="round" />
+
+    <!-- 床垫与床框 -->
+    <path d="M125 430 L550 428 L685 582 L50 582 Z" fill="#f4ebd4" stroke="#cbb999" stroke-width="2" />
+    <!-- 实木床尾框与床脚 -->
+    <path d="M48 580 H687 V612 A6 6 0 0 1 681 618 H54 A6 6 0 0 1 48 612 Z" fill="#826347" stroke="#634931" stroke-width="2" />
+    <rect x="68" y="618" width="22" height="16" rx="3" fill="#634931" />
+    <rect x="645" y="618" width="22" height="16" rx="3" fill="#634931" />
+
+    <!-- 蓬松双枕（带自然凹陷感） -->
+    <path d="M150 385 Q215 368 285 382 Q298 408 288 432 Q215 442 142 430 Q135 405 150 385 Z" fill="#f7f1e1" stroke="#d1c3a5" stroke-width="2" />
+    <path d="M175 412 Q215 422 255 410" fill="none" stroke="#dfd3b8" stroke-width="2" stroke-linecap="round" />
+    <path d="M345 380 Q415 364 488 380 Q502 405 492 430 Q415 440 338 428 Q330 402 345 380 Z" fill="#EFE7D3" stroke="#c7b899" stroke-width="2" />
+    <path d="M375 408 Q415 418 458 406" fill="none" stroke="#d6c8ab" stroke-width="2" stroke-linecap="round" />
+
+    <!-- 主被褥底层 -->
+    <path d="M95 430 Q330 412 560 432 L680 585 Q360 615 55 580 Z" fill="url(#duvetBase)" stroke="#7c917b" stroke-width="2" stroke-linejoin="round" />
+    
+    <!-- 被子垂坠厚边 -->
+    <path d="M55 580 Q360 615 680 585 L674 606 Q360 636 60 602 Z" fill="#7c917b" stroke="#667a65" stroke-width="2" stroke-linejoin="round" />
+
+    <!-- ★ 灵魂细节：投射在被子表面上的“柔和窗户格光斑” -->
+    <g clip-path="url(#duvetClip)">
+      <g filter="url(#softGlow)">
+        <!-- 左上窗格光斑 -->
+        <polygon points="310,435 445,432 415,502 255,505" fill="url(#sunPatch)" />
+        <!-- 右上窗格光斑 -->
+        <polygon points="462,431 595,435 585,500 432,502" fill="url(#sunPatch)" />
+        <!-- 左下窗格光斑（面积最大最暖） -->
+        <polygon points="242,516 405,514 365,605 170,605" fill="url(#sunPatch)" />
+        <!-- 右下窗格光斑 -->
+        <polygon points="424,514 590,512 575,605 385,605" fill="url(#sunPatch)" />
+        <animate attributeName="opacity" values="0.75; 1; 0.75" dur="10s" repeatCount="indefinite" />
+      </g>
+    </g>
+
+    <!-- 被子柔和弧形绗缝线与自然褶皱 -->
+    <path d="M115 475 Q345 458 588 475
+             M88 518 Q350 500 625 518
+             M68 558 Q355 542 655 558
+             M185 435 Q160 510 138 586
+             M285 428 Q272 510 258 595
+             M388 428 Q390 512 392 598
+             M490 432 Q510 512 528 594" fill="none" stroke="#d5e0ce" stroke-width="1.8" stroke-linecap="round" opacity="0.65" />
+
+    <!-- 被子顶部刚睡醒掀开一角的奶油色内衬翻折 -->
+    <path d="M115 432 Q240 418 360 426 Q470 434 565 432 L578 452 Q455 445 345 458 Q210 472 102 448 Z" fill="#f2ead7" stroke="#cfc2a9" stroke-width="2" stroke-linejoin="round" />
+
+    <!-- ================= 5. 晒太阳打盹的橘猫与床面故事 ================= -->
+    <!-- 蜷缩在右下暖阳光斑里的橘猫 -->
+    <g transform="translate(475, 528)">
+      <!-- 猫咪投影 -->
+      <ellipse cx="2" cy="14" rx="38" ry="16" fill="#6b7d6a" opacity="0.45" />
+      <!-- 随呼吸轻微起伏的身体 -->
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1; 1.03 1.05; 1 1" dur="4s" repeatCount="indefinite" />
+        <!-- 身体 -->
+        <path d="M-32 5 C-35 -18 25 -22 32 2 C36 16 15 24 -15 22 C-28 20 -31 12 -32 5 Z" fill="#e08a4e" stroke="#a85c28" stroke-width="1.8" />
+        <!-- 橘猫背上的虎斑纹 -->
+        <path d="M-8 -12 Q-4 -3 -8 4 M4 -13 Q8 -4 4 3 M15 -10 Q18 -2 15 4" fill="none" stroke="#b8642a" stroke-width="2.5" stroke-linecap="round" />
+        <!-- 猫头与耳朵 -->
+        <circle cx="-20" cy="4" r="14" fill="#e08a4e" stroke="#a85c28" stroke-width="1.8" />
+        <path d="M-30 -4 L-33 -15 L-21 -9 Z" fill="#e08a4e" stroke="#a85c28" stroke-width="1.5" stroke-linejoin="round" />
+        <path d="M-15 -7 L-11 -17 L-7 -6 Z" fill="#e08a4e" stroke="#a85c28" stroke-width="1.5" stroke-linejoin="round" />
+        <!-- 熟睡眯着的眼睛 -->
+        <path d="M-27 6 Q-23 9 -19 6 M-17 7 Q-13 10 -9 7" fill="none" stroke="#783e16" stroke-width="1.6" stroke-linecap="round" />
+      </g>
+      <!-- 慵懒摇晃的猫尾巴 -->
+      <path d="M28 10 Q48 12 52 2 Q54 -4 46 -4" fill="none" stroke="#e08a4e" stroke-width="7" stroke-linecap="round" />
+      <path d="M28 10 Q48 12 52 2 Q54 -4 46 -4" fill="none" stroke="#a85c28" stroke-width="1.8" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" values="0 28 10; 8 28 10; 0 28 10" dur="5s" repeatCount="indefinite" />
+      </path>
+    </g>
+
+    <!-- 被子左侧搭着的晨读敞开书本 -->
+    <g transform="translate(215, 515) rotate(-8)">
+      <path d="M-28 4 Q-14 -2 0 4 Q14 -2 28 4 L25 22 Q12 16 0 22 Q-12 16 -25 22 Z" fill="#8c584c" stroke="#5e372e" stroke-width="1.5" />
+      <path d="M-26 1 Q-13 -6 0 2 Q13 -6 26 1 L23 19 Q11 12 0 19 Q-11 12 -23 19 Z" fill="#fbf6e8" stroke="#cbbda0" stroke-width="1.5" />
+      <path d="M0 2 V19 M-18 6 H-5 M-17 11 H-6 M6 6 H18 M6 11 H16" stroke="#b8aa8f" stroke-width="1.2" stroke-linecap="round" />
+    </g>
+
+    <!-- ================= 6. 床头柜与冒热气的晨间咖啡 ================= -->
+    <rect x="32" y="442" width="88" height="90" rx="7" fill="#b39268" stroke="#856844" stroke-width="2" />
+    <rect x="43" y="454" width="66" height="30" rx="3" fill="#cca97e" stroke="#856844" stroke-width="1.5" />
+    <circle cx="76" cy="469" r="3.5" fill="#735838" />
+    <rect x="43" y="492" width="66" height="28" rx="3" fill="#c29f74" stroke="#856844" stroke-width="1.5" />
+    <circle cx="76" cy="506" r="3.5" fill="#735838" />
+
+    <!-- 复古百褶台灯 -->
+    <path d="M52 442 L56 402 H78 L82 442 Z" fill="#748772" stroke="#546352" stroke-width="1.8" />
+    <path d="M42 402 L53 368 H81 L92 402 Z" fill="#ecd6a3" stroke="#bfa671" stroke-width="1.8" stroke-linejoin="round" />
+
+    <!-- 冒着热气的咖啡杯 -->
+    <g transform="translate(98, 430)">
+      <ellipse cx="0" cy="11" rx="12" ry="3" fill="#d9cfc1" stroke="#9e9283" stroke-width="1.2" />
+      <path d="M-8 0 H8 V8 A6 6 0 0 1 2 11 H-2 A6 6 0 0 1 -8 8 Z" fill="#f5efe6" stroke="#9e9283" stroke-width="1.5" />
+      <path d="M8 2 C13 2 13 8 8 8" fill="none" stroke="#9e9283" stroke-width="1.5" />
+      <!-- 袅袅热气动画 -->
+      <path d="M-2 -4 Q-6 -12 0 -18 Q6 -24 1 -32" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" opacity="0.55">
+        <animate attributeName="stroke-dasharray" values="0,40; 20,20; 0,40" dur="5s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" values="0 2; 0 -8" dur="5s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0; 0.65; 0" dur="5s" repeatCount="indefinite" />
+      </path>
+      <path d="M3 -2 Q7 -10 2 -16 Q-3 -22 3 -28" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.4">
+        <animateTransform attributeName="transform" type="translate" values="0 4; 0 -6" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0; 0.5; 0" dur="6s" repeatCount="indefinite" />
+      </path>
+    </g>
+
+    <!-- ================= 7. 右侧藤编长凳、拖鞋与琴叶榕盆栽 ================= -->
+    <!-- 床边棉麻拖鞋 -->
+    <g transform="translate(585, 618)">
+      <ellipse cx="0" cy="0" rx="18" ry="8" transform="rotate(-15)" fill="#e3d5b8" stroke="#b5a484" stroke-width="1.5" />
+      <path d="M-8 -5 Q2 -9 10 -2" fill="none" stroke="#b5a484" stroke-width="1.5" />
+      <ellipse cx="32" cy="6" rx="18" ry="8" transform="rotate(8 32 6)" fill="#e3d5b8" stroke="#b5a484" stroke-width="1.5" />
+      <path d="M24 2 Q34 -2 42 5" fill="none" stroke="#b5a484" stroke-width="1.5" />
+    </g>
+
+    <!-- 原木长凳与叠放毛毯 -->
+    <path d="M745 505 L738 595 M845 505 L852 595" stroke="#8c7252" stroke-width="7" stroke-linecap="round" />
+    <rect x="725" y="485" width="140" height="22" rx="5" fill="#c4a97d" stroke="#947952" stroke-width="2" />
+    <path d="M750 472 Q790 468 825 474 L830 486 H745 Z" fill="#d99b78" stroke="#b07554" stroke-width="1.5" />
+
+    <!-- 赤陶盆绿植 -->
+    <g transform="translate(918, 495)">
+      <ellipse cx="0" cy="52" rx="32" ry="7" fill="#6b563e" opacity="0.45" />
+      <path d="M-28 0 H28 L21 50 H-21 Z" fill="#b87658" stroke="#854f37" stroke-width="2" stroke-linejoin="round" />
+      <rect x="-31" y="-5" width="62" height="8" rx="2" fill="#c78365" stroke="#854f37" stroke-width="1.8" />
+      <path d="M0 -5 Q-12 -65 6 -108 M2 -12 Q-42 -42 -36 -75 M2 -20 Q42 -48 35 -85" fill="none" stroke="#536e55" stroke-width="4" stroke-linecap="round" />
+      <path d="M6 -108 C-12 -125 -22 -95 4 -88 C25 -95 20 -125 6 -108 Z" fill="#789673" stroke="#536e55" stroke-width="1.5" />
+      <path d="M-36 -75 C-55 -88 -58 -55 -30 -52 C-15 -58 -18 -82 -36 -75 Z" fill="#86a67e" stroke="#536e55" stroke-width="1.5" />
+      <path d="M35 -85 C55 -98 58 -65 30 -62 C15 -68 18 -92 35 -85 Z" fill="#6d8c68" stroke="#536e55" stroke-width="1.5" />
+      <path d="M-8 -45 C-32 -55 -32 -28 -6 -28 Z" fill="#86a67e" stroke="#536e55" stroke-width="1.5" />
+    </g>
+
+    <!-- ================= 8. 丁达尔晨光体积光束 & 飘动白纱帘 ================= -->
+    <!-- 斜射入室的温暖体积光 -->
+    <g pointer-events="none">
+      <polygon points="580,45 900,45 895,395 690,650 130,650 580,395" fill="url(#godRay)">
+        <animate attributeName="opacity" values="0.7; 1; 0.7" dur="10s" repeatCount="indefinite" />
+      </polygon>
+      <!-- 第二层核心强光束 -->
+      <polygon points="640,45 860,45 590,650 220,650" fill="url(#godRay)" opacity="0.6" />
+    </g>
+
+    <!-- 窗帘木杆与随晨风鼓起的半透明白纱帘 -->
+    <rect x="550" y="24" width="380" height="10" rx="5" fill="#8c7253" stroke="#695339" stroke-width="1.5" />
+    <circle cx="550" cy="29" r="8" fill="#755d40" />
+    <circle cx="930" cy="29" r="8" fill="#755d40" />
+
+    <!-- 左侧白纱帘 -->
+    <g transform="translate(562, 34)" opacity="0.92">
+      <g>
+        <animateTransform attributeName="transform" type="skewX" values="0; 3.2; 0.5; 0" keyTimes="0; 0.45; 0.8; 1" dur="9s" repeatCount="indefinite" />
+        <path d="M0 0 H68 L88 375 Q48 358 5 378 Z" fill="#fbf7ec" stroke="#dcd0b8" stroke-width="1.8" />
+        <path d="M16 10 L24 365 M36 10 L50 362 M54 10 L72 366" stroke="#e6dcc6" stroke-width="1.8" stroke-linecap="round" />
+      </g>
+    </g>
+    <!-- 右侧白纱帘 -->
+    <g transform="translate(855, 34)" opacity="0.92">
+      <g>
+        <animateTransform attributeName="transform" type="skewX" values="0; 2.2; -0.8; 0" keyTimes="0; 0.5; 0.85; 1" dur="9s" repeatCount="indefinite" />
+        <path d="M0 0 H65 L58 378 Q20 358 -15 372 Z" fill="#fbf7ec" stroke="#dcd0b8" stroke-width="1.8" />
+        <path d="M15 10 L2 365 M34 10 L24 362 M50 10 L44 366" stroke="#e6dcc6" stroke-width="1.8" stroke-linecap="round" />
+      </g>
+    </g>
+
+    <!-- ================= 9. 阳光中闪烁游弋的微尘粒子 ================= -->
+    <g fill="#fffbe0">
+      <circle cx="720" cy="180" r="2.2" opacity="0.6">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -18 28; -4 52; 0 0" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.2; 0.8; 0.2" dur="6s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="640" cy="240" r="1.5" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -12 22; 5 38; 0 0" dur="10s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="785" cy="260" r="1.8" opacity="0.45">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -20 15; -8 35; 0 0" dur="11s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="580" cy="320" r="2.4" opacity="0.65">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -15 25; -25 10; 0 0" dur="9s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.3; 0.9; 0.3" dur="4.5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="690" cy="350" r="1.6" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -10 30; 0 0" dur="8s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="510" cy="390" r="2.0" opacity="0.7">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -16 20; -6 40; 0 0" dur="10.5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="615" cy="420" r="1.4" opacity="0.4">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -12 18; 0 0" dur="7.5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="440" cy="455" r="2.3" opacity="0.75">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -14 24; 4 36; 0 0" dur="11.5s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.2; 0.85; 0.2" dur="5.5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="535" cy="485" r="1.7" opacity="0.55">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -10 22; 0 0" dur="9.5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="355" cy="510" r="2.1" opacity="0.6">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -15 18; -5 32; 0 0" dur="10s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="465" cy="540" r="1.5" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -8 16; 0 0" dur="8.5s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <!-- ================= 10. 晨间暖金氛围滤镜与纸张肌理 ================= -->
+    <rect width="1000" height="650" fill="#deb878" opacity="0.10" filter="url(#grain)" pointer-events="none" />
+  </g>
+</svg>
