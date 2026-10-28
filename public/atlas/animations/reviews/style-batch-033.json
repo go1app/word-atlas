@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "french",
+    "dailyExample": "We bought fresh bread from a small French bakery.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh baguette is exchanged at a small bakery with a muted French tricolour flag.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "him",
+    "dailyExample": "My brother forgot his lunch, so I brought it to him.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sibling brings a handled forgotten lunchbox to a brother seated at a study desk.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "p-m",
+    "dailyExample": "The swimming pool closes at eight p.m. today.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Moonlit swimming pool gate closes below an analogue clock showing eight in the evening.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "beginning",
+    "dailyExample": "We missed the beginning of the film yesterday.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two late arrivals enter a cinema while the film is already playing and its progress marker is beyond the start.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dirty",
+    "dailyExample": "Please leave your dirty boots outside the kitchen door.",
+    "sourceChunk": 1,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Muddy boots and footprints remain outside an open kitchen door, contrasting with the clean interior.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

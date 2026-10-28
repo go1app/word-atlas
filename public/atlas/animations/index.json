@@ -2030,6 +2030,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "french",
+      "src": "atlas/animations/french.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We bought fresh bread from a small French bakery.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "him",
+      "src": "atlas/animations/him.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My brother forgot his lunch, so I brought it to him.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "p-m",
+      "src": "atlas/animations/p-m.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The swimming pool closes at eight p.m. today.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "beginning",
+      "src": "atlas/animations/beginning.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We missed the beginning of the film yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "dirty",
+      "src": "atlas/animations/dirty.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please leave your dirty boots outside the kitchen door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

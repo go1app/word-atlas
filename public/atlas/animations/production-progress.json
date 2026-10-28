@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 171,
-  "pending": 7127,
+  "uploaded": 176,
+  "pending": 7122,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "french",
-    "him",
-    "p-m",
-    "beginning",
-    "dirty"
+    "grammar",
+    "that",
+    "ticket",
+    "third",
+    "maths"
   ],
   "words": [
     {
@@ -2154,27 +2154,67 @@
     {
       "wordId": "french",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We bought fresh bread from a small French bakery.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/french.svg",
+      "blobSha": "913454b6c9e2f1a235a62365b2e73f59f1793974",
+      "visualReview": "Fresh baguette is exchanged at a small bakery with a muted French tricolour flag.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "him",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My brother forgot his lunch, so I brought it to him.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/him.svg",
+      "blobSha": "32079327b33459c8b7552539f45d83f9867b1fca",
+      "visualReview": "Sibling brings a handled forgotten lunchbox to a brother seated at a study desk.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "p-m",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The swimming pool closes at eight p.m. today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/p-m.svg",
+      "blobSha": "d41e38d31e0485ad78d4474aa664ca30ead3883a",
+      "visualReview": "Moonlit swimming pool gate closes below an analogue clock showing eight in the evening.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "beginning",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We missed the beginning of the film yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/beginning.svg",
+      "blobSha": "91299e866047181312da1bbf4ada969f3b270308",
+      "visualReview": "Two late arrivals enter a cinema while the film is already playing and its progress marker is beyond the start.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dirty",
       "chunk": 1,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please leave your dirty boots outside the kitchen door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dirty.svg",
+      "blobSha": "fa62f4ccbd5c3d74427124862db6d8db36759b96",
+      "visualReview": "Muddy boots and footprints remain outside an open kitchen door, contrasting with the clean interior.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "grammar",
