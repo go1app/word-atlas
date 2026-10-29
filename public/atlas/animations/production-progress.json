@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 560,
-  "pending": 6738,
+  "uploaded": 565,
+  "pending": 6733,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "swimming",
-    "grass",
-    "teach",
-    "switzerland",
-    "carry"
+    "hair",
+    "green",
+    "call",
+    "cheese",
+    "long"
   ],
   "words": [
     {
@@ -7211,27 +7211,67 @@
     {
       "wordId": "swimming",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We go swimming at the indoor pool every Saturday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/swimming.svg",
+      "blobSha": "0feae06949ff55d7f8e64f4bca41da03698b6709",
+      "visualReview": "Overhead indoor pool view shows two swimmers, lane ropes and sixth weekday dot for Saturday.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "grass",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spread a blanket on the grass beside the river.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/grass.svg",
+      "blobSha": "45ced8be85c6c0f968a7e7cfbaced1ab33ef18d6",
+      "visualReview": "Hands spread a blanket over green riverside grass, with a folded portion opening.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "teach",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My aunt taught me how to mend a shirt.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/teach.svg",
+      "blobSha": "8a2c2ca51952bdaf0ddb1a2674bad61f6f1e3334",
+      "visualReview": "Adult and smaller learner hands guide needle and thread through a patch on a shirt.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "switzerland",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We travelled through Switzerland by train during our holiday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/switzerland.svg",
+      "blobSha": "5e0c63bbfd1d4ec4e815ebbd10c7739cbf1ec04b",
+      "visualReview": "Holiday train view shows alpine peaks, lake and Swiss red-white cross flag.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "carry",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you carry this heavy bag upstairs for me?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/carry.svg",
+      "blobSha": "aafbc8747a4aba74a70d2c12358e82d8a38ef7b6",
+      "visualReview": "Person holds a heavy bag in both hands on a stair landing, feet grounded and elbows bent.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hair",

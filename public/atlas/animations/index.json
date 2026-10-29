@@ -6722,6 +6722,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "swimming",
+      "src": "atlas/animations/swimming.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We go swimming at the indoor pool every Saturday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "grass",
+      "src": "atlas/animations/grass.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We spread a blanket on the grass beside the river.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "teach",
+      "src": "atlas/animations/teach.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My aunt taught me how to mend a shirt.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "switzerland",
+      "src": "atlas/animations/switzerland.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We travelled through Switzerland by train during our holiday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "carry",
+      "src": "atlas/animations/carry.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could you carry this heavy bag upstairs for me?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

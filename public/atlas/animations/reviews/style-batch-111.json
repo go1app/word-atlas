@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "swimming",
+    "dailyExample": "We go swimming at the indoor pool every Saturday.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Overhead indoor pool view shows two swimmers, lane ropes and sixth weekday dot for Saturday.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "grass",
+    "dailyExample": "We spread a blanket on the grass beside the river.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hands spread a blanket over green riverside grass, with a folded portion opening.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "teach",
+    "dailyExample": "My aunt taught me how to mend a shirt.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Adult and smaller learner hands guide needle and thread through a patch on a shirt.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "switzerland",
+    "dailyExample": "We travelled through Switzerland by train during our holiday.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Holiday train view shows alpine peaks, lake and Swiss red-white cross flag.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "carry",
+    "dailyExample": "Could you carry this heavy bag upstairs for me?",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person holds a heavy bag in both hands on a stair landing, feet grounded and elbows bent.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
