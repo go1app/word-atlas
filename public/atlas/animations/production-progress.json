@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 401,
-  "pending": 6897,
+  "uploaded": 406,
+  "pending": 6892,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "cola",
-    "shower",
-    "tree",
-    "build",
-    "man"
+    "early",
+    "these",
+    "favourite",
+    "adult",
+    "clock"
   ],
   "words": [
     {
@@ -5144,27 +5144,67 @@
     {
       "wordId": "cola",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He poured cold cola into a glass with ice.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cola.svg",
+      "blobSha": "8da0cf858e5937dca432070966c378da8247278d",
+      "visualReview": "Cola pours into a glass containing ice while dark liquid rises and bubbles drift.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "shower",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I always take a warm shower after cycling home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/shower.svg",
+      "blobSha": "ed355f7a1c5a36fda7929f1cc37afe99aa7df7c6",
+      "visualReview": "Warm shower behind frosted screen, with cycling helmet and bicycle outside to establish the return ride.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tree",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A small bird built its nest in our tree.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tree.svg",
+      "blobSha": "6dc8dcb4469e3c52cd4ea1e4bc8f409d3ec2d44d",
+      "visualReview": "Bird carries a twig toward a woven nest in a garden tree and fades before returning to the start.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "build",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We built a small wooden shelter in the garden.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/build.svg",
+      "blobSha": "6194d80e5e2afb53f2f21bfea49715a515158242",
+      "visualReview": "Two builders support a horizontal beam in a small timber shelter frame in the garden.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "man",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A man in a blue coat held the door open.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/man.svg",
+      "blobSha": "3ed721d91018c9b72f50870fbce5acd0136809ae",
+      "visualReview": "Man in a blue coat holds a door open for a companion carrying a bag.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "early",

@@ -4790,6 +4790,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cola",
+      "src": "atlas/animations/cola.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "He poured cold cola into a glass with ice.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "shower",
+      "src": "atlas/animations/shower.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I always take a warm shower after cycling home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "tree",
+      "src": "atlas/animations/tree.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A small bird built its nest in our tree.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "build",
+      "src": "atlas/animations/build.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We built a small wooden shelter in the garden.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "man",
+      "src": "atlas/animations/man.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A man in a blue coat held the door open.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

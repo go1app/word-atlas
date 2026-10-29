@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "cola",
+    "dailyExample": "He poured cold cola into a glass with ice.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cola pours into a glass containing ice while dark liquid rises and bubbles drift.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "shower",
+    "dailyExample": "I always take a warm shower after cycling home.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Warm shower behind frosted screen, with cycling helmet and bicycle outside to establish the return ride.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tree",
+    "dailyExample": "A small bird built its nest in our tree.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bird carries a twig toward a woven nest in a garden tree and fades before returning to the start.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "build",
+    "dailyExample": "We built a small wooden shelter in the garden.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two builders support a horizontal beam in a small timber shelter frame in the garden.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "man",
+    "dailyExample": "A man in a blue coat held the door open.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Man in a blue coat holds a door open for a companion carrying a bag.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
