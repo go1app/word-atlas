@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 421,
-  "pending": 6877,
+  "uploaded": 426,
+  "pending": 6872,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "easy",
-    "thing",
-    "mouth",
-    "study",
-    "anything"
+    "player",
+    "forty",
+    "chocolate",
+    "size",
+    "small"
   ],
   "words": [
     {
@@ -5404,27 +5404,67 @@
     {
       "wordId": "easy",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This soup is easy to make with fresh vegetables.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/easy.svg",
+      "blobSha": "ae0184c1c7895fd680eb77705f540396c8909011",
+      "visualReview": "Simple one-pot vegetable soup with fresh chopped vegetables tipping from a bowl.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "thing",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you move that heavy thing off my chair?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/thing.svg",
+      "blobSha": "39eb91ea9395f39629539a17ab92dd0db5ce1d18",
+      "visualReview": "Two hands lift a heavy radio-like object off a chair, then return smoothly.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "mouth",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The dentist asked me to open my mouth wider.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/mouth.svg",
+      "blobSha": "cc7073297a6f2224ccf769054543dc50937323b4",
+      "visualReview": "Dental close-up shows the mouth opening wider beside a small examination mirror.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "study",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I study English on the bus every morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/study.svg",
+      "blobSha": "a34989e6a50aad37ff8109efb11090882b4e34ff",
+      "visualReview": "Morning bus passenger studies a pictorial language book while scenery passes outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "anything",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "You can choose anything from this basket of toys.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/anything.svg",
+      "blobSha": "80138414af4cb622a7b6b17ad4465de5249559de",
+      "visualReview": "Varied basket of toys is freely offered as a hand reaches for one of them.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "player",

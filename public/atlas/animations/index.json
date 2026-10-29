@@ -5030,6 +5030,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "easy",
+      "src": "atlas/animations/easy.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This soup is easy to make with fresh vegetables.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "thing",
+      "src": "atlas/animations/thing.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could you move that heavy thing off my chair?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "mouth",
+      "src": "atlas/animations/mouth.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The dentist asked me to open my mouth wider.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "study",
+      "src": "atlas/animations/study.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I study English on the bus every morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "anything",
+      "src": "atlas/animations/anything.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "You can choose anything from this basket of toys.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

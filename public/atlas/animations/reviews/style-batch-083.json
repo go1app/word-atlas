@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "easy",
+    "dailyExample": "This soup is easy to make with fresh vegetables.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Simple one-pot vegetable soup with fresh chopped vegetables tipping from a bowl.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "thing",
+    "dailyExample": "Could you move that heavy thing off my chair?",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two hands lift a heavy radio-like object off a chair, then return smoothly.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "mouth",
+    "dailyExample": "The dentist asked me to open my mouth wider.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Dental close-up shows the mouth opening wider beside a small examination mirror.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "study",
+    "dailyExample": "I study English on the bus every morning.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Morning bus passenger studies a pictorial language book while scenery passes outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "anything",
+    "dailyExample": "You can choose anything from this basket of toys.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Varied basket of toys is freely offered as a hand reaches for one of them.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
