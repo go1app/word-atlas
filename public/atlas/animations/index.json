@@ -6302,6 +6302,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "top",
+      "src": "atlas/animations/top.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She placed the star on top of the tree.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "purple",
+      "src": "atlas/animations/purple.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "He wore a purple scarf with his grey coat.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bottle",
+      "src": "atlas/animations/bottle.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She filled her water bottle before leaving the house.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "june",
+      "src": "atlas/animations/june.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My sister is getting married in June this year.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "turn",
+      "src": "atlas/animations/turn.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Turn the handle gently and pull the door towards you.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

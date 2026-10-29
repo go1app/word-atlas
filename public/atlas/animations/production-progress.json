@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 525,
-  "pending": 6773,
+  "uploaded": 530,
+  "pending": 6768,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "top",
-    "purple",
-    "bottle",
-    "june",
-    "turn"
+    "piece",
+    "pink",
+    "lesson",
+    "garden",
+    "geography"
   ],
   "words": [
     {
@@ -6756,27 +6756,67 @@
     {
       "wordId": "top",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She placed the star on top of the tree.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/top.svg",
+      "blobSha": "304439da860e70b78c828a95ebcb7c0e9466664e",
+      "visualReview": "Star and holding hand lower onto the tree top, then hand fades after placement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "purple",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He wore a purple scarf with his grey coat.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/purple.svg",
+      "blobSha": "0444e17e14174f46488f4a0570a1d181cd2a2a38",
+      "visualReview": "Muted purple scarf is prominent over gray coat, with woven stripes and short fringe.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bottle",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She filled her water bottle before leaving the house.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bottle.svg",
+      "blobSha": "31091e33347e58004f3f9852c58bd1cb487e624f",
+      "visualReview": "Bottle fills under a tap with rising water level before leaving through the nearby doorway.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "june",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister is getting married in June this year.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/june.svg",
+      "blobSha": "c6924307bf9ba532377158c6d1779ade92bd016f",
+      "visualReview": "Wedding couple stands beneath flowering arch with bouquet and sixth month dot.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "turn",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Turn the handle gently and pull the door towards you.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/turn.svg",
+      "blobSha": "371e028349fc5864e9f0e329898f39242a52d61b",
+      "visualReview": "Handle rotates before door swings inward, with hand following the moving handle throughout.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "piece",

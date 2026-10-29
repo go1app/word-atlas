@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "top",
+    "dailyExample": "She placed the star on top of the tree.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Star and holding hand lower onto the tree top, then hand fades after placement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "purple",
+    "dailyExample": "He wore a purple scarf with his grey coat.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Muted purple scarf is prominent over gray coat, with woven stripes and short fringe.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bottle",
+    "dailyExample": "She filled her water bottle before leaving the house.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bottle fills under a tap with rising water level before leaving through the nearby doorway.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "june",
+    "dailyExample": "My sister is getting married in June this year.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Wedding couple stands beneath flowering arch with bouquet and sixth month dot.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "turn",
+    "dailyExample": "Turn the handle gently and pull the door towards you.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Handle rotates before door swings inward, with hand following the moving handle throughout.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
