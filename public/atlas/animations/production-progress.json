@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 495,
-  "pending": 6802,
-  "needsRevision": 1,
+  "uploaded": 500,
+  "pending": 6798,
+  "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "into",
-    "bicycle",
-    "visit",
-    "everyone",
-    "wrong"
+    "wrong",
+    "problem",
+    "uncle",
+    "key",
+    "speak"
   ],
   "words": [
     {
@@ -6184,10 +6184,15 @@
     {
       "wordId": "spell",
       "chunk": 4,
-      "status": "needs_revision",
-      "stage": "semantic_revision",
-      "visualReview": "Draft shows conversation, but surname spelling is not unambiguous. Retained locally without uploading or counting complete.",
-      "browserPlaybackVerified": false
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "visualReview": "Visitor slowly presents L, E, E as separate letter tiles; clerk records LEE on a surname form. User-authorized scene lettering makes spelling explicit without showing target word. Replaces semantically unclear draft.",
+      "browserPlaybackVerified": false,
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you spell your surname slowly for me, please?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/spell.svg",
+      "blobSha": "5dad6769a4aff6c1282ff86085b3f9c4eadd7093"
     },
     {
       "wordId": "catch",
@@ -6374,22 +6379,54 @@
     {
       "wordId": "into",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The kitten jumped into the basket beside my chair.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/into.svg",
+      "blobSha": "f0283e15d7b043bc70fa125f3c40c83745038fb9",
+      "visualReview": "Kitten jumps up and down into a basket, whose front naturally occludes the body at landing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bicycle",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I locked my bicycle outside the small bakery.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bicycle.svg",
+      "blobSha": "bae8e57a5babd3e9713ed736c831d96a197bb10b",
+      "visualReview": "Bicycle frame is secured to a fixed post by a closed U-lock outside a bakery.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "visit",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We visited our neighbours and shared some homemade soup.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/visit.svg",
+      "blobSha": "2b594809c5fac161b8531e9d829cdbefef1d6a2f",
+      "visualReview": "Neighbors meet at an open door while sharing a covered pot of homemade soup.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "everyone",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Everyone brought a dish to share at the picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/everyone.svg",
+      "blobSha": "f2c27635ba0fc3d1f82ea2e2d3575fdf4166bfed",
+      "visualReview": "Each of three picnic contributors holds a distinct dish, representing everyone bringing food.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wrong",

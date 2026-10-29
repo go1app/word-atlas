@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "spell",
+    "dailyExample": "Could you spell your surname slowly for me, please?",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Visitor slowly presents L, E, E as separate letter tiles; clerk records LEE on a surname form. User-authorized scene lettering makes spelling explicit without showing target word. Replaces semantically unclear draft.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "into",
+    "dailyExample": "The kitten jumped into the basket beside my chair.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Kitten jumps up and down into a basket, whose front naturally occludes the body at landing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bicycle",
+    "dailyExample": "I locked my bicycle outside the small bakery.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bicycle frame is secured to a fixed post by a closed U-lock outside a bakery.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "visit",
+    "dailyExample": "We visited our neighbours and shared some homemade soup.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Neighbors meet at an open door while sharing a covered pot of homemade soup.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "everyone",
+    "dailyExample": "Everyone brought a dish to share at the picnic.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Each of three picnic contributors holds a distinct dish, representing everyone bringing food.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -5921,6 +5921,73 @@
       ],
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "spell",
+      "src": "atlas/animations/spell.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could you spell your surname slowly for me, please?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "Surname",
+        "L",
+        "E",
+        "E",
+        "LEE"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "into",
+      "src": "atlas/animations/into.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The kitten jumped into the basket beside my chair.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bicycle",
+      "src": "atlas/animations/bicycle.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I locked my bicycle outside the small bakery.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "visit",
+      "src": "atlas/animations/visit.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We visited our neighbours and shared some homemade soup.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "everyone",
+      "src": "atlas/animations/everyone.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Everyone brought a dish to share at the picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
