@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "hair",
+    "dailyExample": "She tied her hair back before making lunch.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Loose hair gathers into a ponytail before lunch preparation, and hands lower after tying.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "green",
+    "dailyExample": "She wore a green jacket to match her shoes.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Green jacket and matching green shoes shown together with clear seams and pocket details.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "call",
+    "dailyExample": "I'll call you when I get home tonight.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person phones at home at night, with arrival bag and closed front door nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cheese",
+    "dailyExample": "I added some cheese to my warm vegetable sandwich.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cheese slice lowers onto a warm vegetable sandwich and hand releases after placement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "long",
+    "dailyExample": "Her long scarf nearly touched the wet pavement.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Long scarf and fringe nearly reach a wet pavement puddle beside the shoes.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

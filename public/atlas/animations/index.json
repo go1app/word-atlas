@@ -6782,6 +6782,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hair",
+      "src": "atlas/animations/hair.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She tied her hair back before making lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "green",
+      "src": "atlas/animations/green.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She wore a green jacket to match her shoes.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "call",
+      "src": "atlas/animations/call.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I'll call you when I get home tonight.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cheese",
+      "src": "atlas/animations/cheese.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I added some cheese to my warm vegetable sandwich.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "long",
+      "src": "atlas/animations/long.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Her long scarf nearly touched the wet pavement.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 565,
-  "pending": 6733,
+  "uploaded": 570,
+  "pending": 6728,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "hair",
-    "green",
-    "call",
-    "cheese",
-    "long"
+    "meeting",
+    "waiter",
+    "bank",
+    "classroom",
+    "plan"
   ],
   "words": [
     {
@@ -7276,27 +7276,67 @@
     {
       "wordId": "hair",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She tied her hair back before making lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hair.svg",
+      "blobSha": "ae300f5567d18f9534650243de0aa39f92764273",
+      "visualReview": "Loose hair gathers into a ponytail before lunch preparation, and hands lower after tying.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "green",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She wore a green jacket to match her shoes.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/green.svg",
+      "blobSha": "c0eefa7a8265b86ef728b10286006c65178a9aa7",
+      "visualReview": "Green jacket and matching green shoes shown together with clear seams and pocket details.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "call",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I'll call you when I get home tonight.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/call.svg",
+      "blobSha": "37820b83dce5d51afdfe11b34314d2ec23369706",
+      "visualReview": "Person phones at home at night, with arrival bag and closed front door nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cheese",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I added some cheese to my warm vegetable sandwich.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cheese.svg",
+      "blobSha": "3ee5d8ceee1591bb6bf3479f442965049c9768f8",
+      "visualReview": "Cheese slice lowers onto a warm vegetable sandwich and hand releases after placement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "long",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Her long scarf nearly touched the wet pavement.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/long.svg",
+      "blobSha": "18a9ec7a4e307bd2736dfd3cecc5bd7ba5ef7e22",
+      "visualReview": "Long scarf and fringe nearly reach a wet pavement puddle beside the shoes.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "meeting",
