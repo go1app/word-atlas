@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "feel",
+    "dailyExample": "I feel much warmer with this soft blanket.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person pulls soft blanket toward shoulders with joined hand/corner movement, relaxed smile and gentle warm blush.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "toy",
+    "dailyExample": "The baby dropped her toy behind the sofa.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Baby releases a rattle that arcs over the sofa side and lands behind the armrest; foreground furniture occludes its passage. Revised final position to land behind right armrest, retaining only an edge visible; reviewed at 7.5 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "so",
+    "dailyExample": "The soup was so hot that I had to wait.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Very hot soup steams strongly, person draws hand away and waits with spoon resting and small hourglass nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "climb",
+    "dailyExample": "We climbed the hill before stopping for a picnic.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two walkers ascend a hill toward a picnic blanket and basket; packs, slope and walking cycle establish the climb before the stop. Replaced crossed-leg phase with alternating lifted feet; inspected both hilltop and mid-slope poses.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bird",
+    "dailyExample": "A small bird built a nest above our window.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bird carries twig to nest above window, lands beside it and releases twig into the woven nest. Reviewed twig delivery and perched state at 7.5 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

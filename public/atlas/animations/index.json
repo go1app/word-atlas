@@ -7517,6 +7517,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "feel",
+      "src": "atlas/animations/feel.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I feel much warmer with this soft blanket.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "toy",
+      "src": "atlas/animations/toy.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The baby dropped her toy behind the sofa.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "so",
+      "src": "atlas/animations/so.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The soup was so hot that I had to wait.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "climb",
+      "src": "atlas/animations/climb.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We climbed the hill before stopping for a picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bird",
+      "src": "atlas/animations/bird.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A small bird built a nest above our window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 625,
-  "pending": 6673,
+  "uploaded": 630,
+  "pending": 6668,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "feel",
-    "toy",
-    "so",
-    "climb",
-    "bird"
+    "game",
+    "single",
+    "park",
+    "boy",
+    "chicken"
   ],
   "words": [
     {
@@ -8056,27 +8056,67 @@
     {
       "wordId": "feel",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I feel much warmer with this soft blanket.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/feel.svg",
+      "blobSha": "ac76a24655baba364e5577567b3545b7040ab085",
+      "visualReview": "Person pulls soft blanket toward shoulders with joined hand/corner movement, relaxed smile and gentle warm blush.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "toy",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The baby dropped her toy behind the sofa.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/toy.svg",
+      "blobSha": "39d84028e4bb4279534e7ff824c124f11a691a44",
+      "visualReview": "Baby releases a rattle that arcs over the sofa side and lands behind the armrest; foreground furniture occludes its passage. Revised final position to land behind right armrest, retaining only an edge visible; reviewed at 7.5 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "so",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The soup was so hot that I had to wait.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/so.svg",
+      "blobSha": "30f9cb8745c66c7982b65ca5a4a6237d388356bc",
+      "visualReview": "Very hot soup steams strongly, person draws hand away and waits with spoon resting and small hourglass nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "climb",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We climbed the hill before stopping for a picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/climb.svg",
+      "blobSha": "8b4347df5a1ddec14898dbc2981563eae7f39a33",
+      "visualReview": "Two walkers ascend a hill toward a picnic blanket and basket; packs, slope and walking cycle establish the climb before the stop. Replaced crossed-leg phase with alternating lifted feet; inspected both hilltop and mid-slope poses.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bird",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A small bird built a nest above our window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bird.svg",
+      "blobSha": "53e9d2329a987b23d4b8b84d43eed6f13e2ca3ab",
+      "visualReview": "Bird carries twig to nest above window, lands beside it and releases twig into the woven nest. Reviewed twig delivery and perched state at 7.5 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "game",
