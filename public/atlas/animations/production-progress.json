@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 431,
-  "pending": 6867,
+  "uploaded": 436,
+  "pending": 6862,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sport",
-    "exam",
-    "cow",
-    "ball",
-    "picnic"
+    "begin",
+    "enough",
+    "class",
+    "few",
+    "country"
   ],
   "words": [
     {
@@ -5534,27 +5534,67 @@
     {
       "wordId": "sport",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Swimming is the only sport my sister really enjoys.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sport.svg",
+      "blobSha": "9444b78c8da8741cad62373a0710181ffc3eb41f",
+      "visualReview": "Smiling swimmer moves steadily in a pool lane with an active stroke and small splash.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "exam",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I have a maths exam on Friday morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/exam.svg",
+      "blobSha": "5eee8482c99d61c6676efc11e8a37e1acbc7b3b0",
+      "visualReview": "Student works on geometric maths problems in morning light, with fifth weekday dot for Friday.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cow",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A brown cow stood quietly beside the farm gate.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cow.svg",
+      "blobSha": "fcb60300483aca37ba3157dcd07ca3508eee1a69",
+      "visualReview": "Brown cow stands beside a timber farm gate with a slow tail movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "ball",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The dog chased the ball across the grass.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/ball.svg",
+      "blobSha": "bae5089db6e19cc965cc784621d67502579c8dcb",
+      "visualReview": "Dog runs after rolling ball across grass, pauses and fades before the reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "picnic",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We had a picnic under a shady tree.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/picnic.svg",
+      "blobSha": "d25805a17ee2178642ef5f00a1e25a9b57d73b66",
+      "visualReview": "Two people sit on a picnic blanket with basket and food under a broad tree shade.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "begin",

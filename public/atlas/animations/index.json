@@ -5150,6 +5150,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sport",
+      "src": "atlas/animations/sport.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Swimming is the only sport my sister really enjoys.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "exam",
+      "src": "atlas/animations/exam.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I have a maths exam on Friday morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cow",
+      "src": "atlas/animations/cow.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A brown cow stood quietly beside the farm gate.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "ball",
+      "src": "atlas/animations/ball.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The dog chased the ball across the grass.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "picnic",
+      "src": "atlas/animations/picnic.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We had a picnic under a shady tree.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

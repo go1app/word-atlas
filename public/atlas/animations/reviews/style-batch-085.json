@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "sport",
+    "dailyExample": "Swimming is the only sport my sister really enjoys.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Smiling swimmer moves steadily in a pool lane with an active stroke and small splash.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "exam",
+    "dailyExample": "I have a maths exam on Friday morning.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Student works on geometric maths problems in morning light, with fifth weekday dot for Friday.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cow",
+    "dailyExample": "A brown cow stood quietly beside the farm gate.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Brown cow stands beside a timber farm gate with a slow tail movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "ball",
+    "dailyExample": "The dog chased the ball across the grass.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Dog runs after rolling ball across grass, pauses and fades before the reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "picnic",
+    "dailyExample": "We had a picnic under a shady tree.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people sit on a picnic blanket with basket and food under a broad tree shade.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
