@@ -1,0 +1,46 @@
+[
+  {
+    "wordId": "catch",
+    "dailyExample": "Can you catch the ball with just one hand?",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A ball arrives in one open hand and stays supported before a hidden reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "love",
+    "dailyExample": "I love walking by the river after dinner.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Relaxed evening riverside walk with warm light and quiet water reflects enjoyment after dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "four",
+    "dailyExample": "We put four chairs around the kitchen table.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exactly four visible chairs surround a kitchen table, separated clearly for counting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "show",
+    "dailyExample": "Please show me how to fold this paper bird.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two hands demonstrate an origami fold beside a finished paper bird.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

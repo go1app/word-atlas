@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 481,
-  "pending": 6817,
-  "needsRevision": 0,
+  "uploaded": 485,
+  "pending": 6812,
+  "needsRevision": 1,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "spell",
-    "catch",
-    "love",
-    "four",
-    "show"
+    "above",
+    "beginner",
+    "cry",
+    "buy",
+    "short"
   ],
   "words": [
     {
@@ -6184,27 +6184,62 @@
     {
       "wordId": "spell",
       "chunk": 4,
-      "status": "pending"
+      "status": "needs_revision",
+      "stage": "semantic_revision",
+      "visualReview": "Draft shows conversation, but surname spelling is not unambiguous. Retained locally without uploading or counting complete.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "catch",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Can you catch the ball with just one hand?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/catch.svg",
+      "blobSha": "bdd5f05c7cca2689ab461a3dc3a30d64eeb98be2",
+      "visualReview": "A ball arrives in one open hand and stays supported before a hidden reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "love",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I love walking by the river after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/love.svg",
+      "blobSha": "dd3f148464578ee62323de7ad7f112ef95b045c3",
+      "visualReview": "Relaxed evening riverside walk with warm light and quiet water reflects enjoyment after dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "four",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We put four chairs around the kitchen table.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/four.svg",
+      "blobSha": "2e3f86ee3f95f32f70ab0356ff1807cb8feac0e1",
+      "visualReview": "Exactly four visible chairs surround a kitchen table, separated clearly for counting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "show",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please show me how to fold this paper bird.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/show.svg",
+      "blobSha": "dee208d8d2435d143151d274a42f0cbd9ecfc096",
+      "visualReview": "Two hands demonstrate an origami fold beside a finished paper bird.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "above",
