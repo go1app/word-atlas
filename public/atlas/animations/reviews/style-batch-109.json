@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "swim",
+    "dailyExample": "We swim in the indoor pool every Saturday morning.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two swimmers practice in an indoor pool in morning light; sixth weekday dot indicates Saturday.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "science",
+    "dailyExample": "We grew tiny crystals in our science class today.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Tiny faceted crystals grow from a fixed base inside a classroom jar beside notes and diagrams.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "snow",
+    "dailyExample": "Fresh snow covered the garden when we woke up.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh snow blankets garden ground, tree canopy and fence beyond a morning window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "forget",
+    "dailyExample": "I always forget where I put my reading glasses.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Elderly person searches with open hands while glasses lie partly concealed beneath a book, and thought bubble recalls them.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "slowly",
+    "dailyExample": "She slowly poured the hot soup into bowls.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Narrow stream of hot soup descends slowly from a tilted jug into a bowl beside another waiting bowl.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

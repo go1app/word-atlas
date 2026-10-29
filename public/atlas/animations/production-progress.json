@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 550,
-  "pending": 6748,
+  "uploaded": 555,
+  "pending": 6743,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "swim",
-    "science",
-    "snow",
-    "forget",
-    "slowly"
+    "flat",
+    "glasses",
+    "special",
+    "plant",
+    "meat"
   ],
   "words": [
     {
@@ -7081,27 +7081,67 @@
     {
       "wordId": "swim",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We swim in the indoor pool every Saturday morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/swim.svg",
+      "blobSha": "29ee00dfd831d357af2fb660157a6f5094325480",
+      "visualReview": "Two swimmers practice in an indoor pool in morning light; sixth weekday dot indicates Saturday.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "science",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We grew tiny crystals in our science class today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/science.svg",
+      "blobSha": "671666ed717847b22ac5b5289bd54fd016634903",
+      "visualReview": "Tiny faceted crystals grow from a fixed base inside a classroom jar beside notes and diagrams.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "snow",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Fresh snow covered the garden when we woke up.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/snow.svg",
+      "blobSha": "557f5ed6a5e8f054e407179524387021882fdb8d",
+      "visualReview": "Fresh snow blankets garden ground, tree canopy and fence beyond a morning window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "forget",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I always forget where I put my reading glasses.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/forget.svg",
+      "blobSha": "6ba8d4f762ac6e00d2e7935ed025dd765d3d23fb",
+      "visualReview": "Elderly person searches with open hands while glasses lie partly concealed beneath a book, and thought bubble recalls them.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "slowly",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She slowly poured the hot soup into bowls.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/slowly.svg",
+      "blobSha": "65252a2d8ac48f7ffcb9cc1e23ebcf15d235ea3c",
+      "visualReview": "Narrow stream of hot soup descends slowly from a tilted jug into a bowl beside another waiting bowl.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "flat",

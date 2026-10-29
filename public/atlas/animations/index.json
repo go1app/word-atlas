@@ -6602,6 +6602,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "swim",
+      "src": "atlas/animations/swim.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We swim in the indoor pool every Saturday morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "science",
+      "src": "atlas/animations/science.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We grew tiny crystals in our science class today.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "snow",
+      "src": "atlas/animations/snow.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Fresh snow covered the garden when we woke up.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "forget",
+      "src": "atlas/animations/forget.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I always forget where I put my reading glasses.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "slowly",
+      "src": "atlas/animations/slowly.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She slowly poured the hot soup into bowls.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
