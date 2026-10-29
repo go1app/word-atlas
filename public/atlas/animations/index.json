@@ -5270,6 +5270,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "understand",
+      "src": "atlas/animations/understand.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I finally understand how to use this washing machine.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "die",
+      "src": "atlas/animations/die.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These plants will die if we forget to water them.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "april",
+      "src": "atlas/animations/april.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We are moving into our new flat in April.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "with",
+      "src": "atlas/animations/with.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I cooked dinner with my sister last night.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "plate",
+      "src": "atlas/animations/plate.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She placed a warm pancake on my plate.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

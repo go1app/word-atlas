@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "understand",
+    "dailyExample": "I finally understand how to use this washing machine.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person recognizes the washer controls; drum begins turning and realization marks appear.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "die",
+    "dailyExample": "These plants will die if we forget to water them.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Unwatered plant becomes visibly drooped and brown beside an unused watering can.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "april",
+    "dailyExample": "We are moving into our new flat in April.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Move-in boxes in a springtime flat, with blossoms and fourth dot on a twelve-month card.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "with",
+    "dailyExample": "I cooked dinner with my sister last night.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two sisters share dinner preparation at night, cutting vegetables and stirring soup.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "plate",
+    "dailyExample": "She placed a warm pancake on my plate.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Server lowers a warm pancake onto the plate and retreats before the hidden reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

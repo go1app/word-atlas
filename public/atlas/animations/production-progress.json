@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 441,
-  "pending": 6857,
+  "uploaded": 446,
+  "pending": 6852,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "understand",
-    "die",
-    "april",
-    "with",
-    "plate"
+    "together",
+    "saturday",
+    "brown",
+    "spend",
+    "autumn"
   ],
   "words": [
     {
@@ -5664,27 +5664,67 @@
     {
       "wordId": "understand",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I finally understand how to use this washing machine.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/understand.svg",
+      "blobSha": "bb7bf022c71177a981457c1ce38e8a0f55c182fe",
+      "visualReview": "Person recognizes the washer controls; drum begins turning and realization marks appear.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "die",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "These plants will die if we forget to water them.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/die.svg",
+      "blobSha": "d7c13cc41b6ed44bb138cdf91ca096ba54e615eb",
+      "visualReview": "Unwatered plant becomes visibly drooped and brown beside an unused watering can.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "april",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We are moving into our new flat in April.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/april.svg",
+      "blobSha": "320e38e28dc7d1f08e0db12761c03c1ec69edbda",
+      "visualReview": "Move-in boxes in a springtime flat, with blossoms and fourth dot on a twelve-month card.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "with",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I cooked dinner with my sister last night.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/with.svg",
+      "blobSha": "61f442ca1e827e6c22ce562df4177ca15394926f",
+      "visualReview": "Two sisters share dinner preparation at night, cutting vegetables and stirring soup.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "plate",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She placed a warm pancake on my plate.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/plate.svg",
+      "blobSha": "d173939606cc46192c8b95a9d9c1dd413a43da9a",
+      "visualReview": "Server lowers a warm pancake onto the plate and retreats before the hidden reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "together",
