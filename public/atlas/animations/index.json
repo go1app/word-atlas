@@ -7145,6 +7145,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sleep",
+      "src": "atlas/animations/sleep.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our cat likes to sleep beside the warm radiator.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "toothbrush",
+      "src": "atlas/animations/toothbrush.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I packed my toothbrush in the side pocket.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "table",
+      "src": "atlas/animations/table.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We gathered around the table to share fresh bread.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "join",
+      "src": "atlas/animations/join.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Would you like to join us for lunch today?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "useful",
+      "src": "atlas/animations/useful.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This little torch is useful when the power fails.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

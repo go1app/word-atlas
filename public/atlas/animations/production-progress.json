@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 595,
-  "pending": 6703,
+  "uploaded": 600,
+  "pending": 6698,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sleep",
-    "toothbrush",
-    "table",
-    "join",
-    "useful"
+    "like",
+    "note",
+    "fall",
+    "thirty",
+    "best"
   ],
   "words": [
     {
@@ -7666,27 +7666,67 @@
     {
       "wordId": "sleep",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our cat likes to sleep beside the warm radiator.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sleep.svg",
+      "blobSha": "8f7890eb60c0c0f6a02faab6ea595481e2b25278",
+      "visualReview": "Closed-eyed cat curls on a cushioned windowsill above a radiator; anchored flank breathing and gentle warmth lines.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "toothbrush",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I packed my toothbrush in the side pocket.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/toothbrush.svg",
+      "blobSha": "8e45a626e6288e91705dd30b07092d2ea5ee8476",
+      "visualReview": "Toothbrush and gripping hand lower into a backpack side pocket; pocket front hides the inserted handle and hand releases.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "table",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We gathered around the table to share fresh bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/table.svg",
+      "blobSha": "d138f8d844b153909dda1e712237a936d5d1a03b",
+      "visualReview": "Overhead shared-bread scene with four places and hands; slice moves from central board toward a plate.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "join",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Would you like to join us for lunch today?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/join.svg",
+      "blobSha": "a280f99dbe936e07cebcc70e55f0d837daa6d130",
+      "visualReview": "Two lunch friends invite a third person toward an empty pulled-out chair with an open-palm gesture.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "useful",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This little torch is useful when the power fails.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/useful.svg",
+      "blobSha": "a87b6a4c92c94501a09a399a6b993843cb7a17be",
+      "visualReview": "Torch reveals keys in a dark room during a power failure; unlit pendant, joined gripping hand and beam rotation.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "like",

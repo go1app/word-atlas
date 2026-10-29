@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "sleep",
+    "dailyExample": "Our cat likes to sleep beside the warm radiator.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Closed-eyed cat curls on a cushioned windowsill above a radiator; anchored flank breathing and gentle warmth lines.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "toothbrush",
+    "dailyExample": "I packed my toothbrush in the side pocket.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Toothbrush and gripping hand lower into a backpack side pocket; pocket front hides the inserted handle and hand releases.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "table",
+    "dailyExample": "We gathered around the table to share fresh bread.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Overhead shared-bread scene with four places and hands; slice moves from central board toward a plate.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "join",
+    "dailyExample": "Would you like to join us for lunch today?",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two lunch friends invite a third person toward an empty pulled-out chair with an open-palm gesture.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "useful",
+    "dailyExample": "This little torch is useful when the power fails.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Torch reveals keys in a dark room during a power failure; unlit pendant, joined gripping hand and beam rotation.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
