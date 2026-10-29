@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 376,
-  "pending": 6922,
+  "uploaded": 381,
+  "pending": 6917,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "but",
-    "red",
-    "conversation",
-    "dinner",
-    "bring"
+    "reason",
+    "asia",
+    "colour",
+    "eye",
+    "afternoon"
   ],
   "words": [
     {
@@ -4819,27 +4819,67 @@
     {
       "wordId": "but",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The bag looks small, but it holds everything I need.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/but.svg",
+      "blobSha": "f29695834534e4a4182004c273b1ce443e18f0a2",
+      "visualReview": "Small open bag holds a bottle, notebook and keys, showing surprising capacity for daily necessities.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "red",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She wore a red coat to the winter market.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/red.svg",
+      "blobSha": "0ae99bd719018ff2e483a93403fa4139582b281a",
+      "visualReview": "Warm brick-red coat is the main subject at a snow-dusted winter market.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "conversation",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We had a friendly conversation while waiting for the bus.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/conversation.svg",
+      "blobSha": "d73079a16c69db84ba26dbe2a46a06edab18140d",
+      "visualReview": "Two people exchange alternating open-hand gestures while waiting at a bus shelter.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dinner",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Dinner is ready, so please bring the plates.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dinner.svg",
+      "blobSha": "255918f8121429fb72ffb26b7c4d29aa53ae83b7",
+      "visualReview": "Person brings a stack of plates toward ready steaming dinner dishes.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bring",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please bring a warm coat when you visit.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bring.svg",
+      "blobSha": "66843fbbce69180d9ef1d96f0d1d2ddba6dfc984",
+      "visualReview": "Guest arrives at an open doorway carrying a folded warm coat over the forearm.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "reason",

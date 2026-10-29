@@ -4490,6 +4490,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "but",
+      "src": "atlas/animations/but.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The bag looks small, but it holds everything I need.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "red",
+      "src": "atlas/animations/red.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She wore a red coat to the winter market.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "conversation",
+      "src": "atlas/animations/conversation.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We had a friendly conversation while waiting for the bus.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "dinner",
+      "src": "atlas/animations/dinner.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Dinner is ready, so please bring the plates.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bring",
+      "src": "atlas/animations/bring.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please bring a warm coat when you visit.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

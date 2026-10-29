@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "but",
+    "dailyExample": "The bag looks small, but it holds everything I need.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small open bag holds a bottle, notebook and keys, showing surprising capacity for daily necessities.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "red",
+    "dailyExample": "She wore a red coat to the winter market.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Warm brick-red coat is the main subject at a snow-dusted winter market.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "conversation",
+    "dailyExample": "We had a friendly conversation while waiting for the bus.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people exchange alternating open-hand gestures while waiting at a bus shelter.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dinner",
+    "dailyExample": "Dinner is ready, so please bring the plates.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person brings a stack of plates toward ready steaming dinner dishes.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bring",
+    "dailyExample": "Please bring a warm coat when you visit.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Guest arrives at an open doorway carrying a folded warm coat over the forearm.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
