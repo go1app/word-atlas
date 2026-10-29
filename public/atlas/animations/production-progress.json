@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 510,
-  "pending": 6788,
+  "uploaded": 515,
+  "pending": 6783,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "again",
-    "hello",
-    "people",
-    "canada",
-    "monkey"
+    "sit",
+    "seat",
+    "cup",
+    "film",
+    "america"
   ],
   "words": [
     {
@@ -6561,27 +6561,67 @@
     {
       "wordId": "again",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you say that again a little more slowly?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/again.svg",
+      "blobSha": "dc73da5fd357d11a5151b799c27ade3884715811",
+      "visualReview": "Same harmless phrase appears once briefly and then again more slowly after the listener request; target word absent.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hello",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Hello, would you like to sit next to me?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hello.svg",
+      "blobSha": "36387284d92fbdff293e1cc5b3e65d94a9d06a37",
+      "visualReview": "Seated person waves and indicates available bench space as a friendly greeting and invitation.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "people",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Several people were waiting outside the bakery this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/people.svg",
+      "blobSha": "d331da0ae4a25576b13917a9722b98f1d173e4a4",
+      "visualReview": "Four distinct people wait outside a bakery in morning light.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "canada",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin moved to Canada to study environmental science.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/canada.svg",
+      "blobSha": "e349058aaa49f58327f1bc91958a1c47cc9ca701",
+      "visualReview": "Environmental-science student beside Canadian maple-leaf flag, globe, seedling and travel case.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "monkey",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A little monkey swung between branches above our heads.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/monkey.svg",
+      "blobSha": "fb045199ee90fdc763af203275daccee5d929bd5",
+      "visualReview": "Small monkey swings about a fixed overhead branch grip above two observers.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sit",

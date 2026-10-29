@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "again",
+    "dailyExample": "Could you say that again a little more slowly?",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Same harmless phrase appears once briefly and then again more slowly after the listener request; target word absent.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hello",
+    "dailyExample": "Hello, would you like to sit next to me?",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seated person waves and indicates available bench space as a friendly greeting and invitation.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "people",
+    "dailyExample": "Several people were waiting outside the bakery this morning.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Four distinct people wait outside a bakery in morning light.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "canada",
+    "dailyExample": "My cousin moved to Canada to study environmental science.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Environmental-science student beside Canadian maple-leaf flag, globe, seedling and travel case.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "monkey",
+    "dailyExample": "A little monkey swung between branches above our heads.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small monkey swings about a fixed overhead branch grip above two observers.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
