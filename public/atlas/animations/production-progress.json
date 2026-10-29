@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 515,
-  "pending": 6783,
+  "uploaded": 520,
+  "pending": 6778,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sit",
-    "seat",
-    "cup",
-    "film",
-    "america"
+    "monday",
+    "sweden",
+    "else",
+    "portugal",
+    "in"
   ],
   "words": [
     {
@@ -6626,27 +6626,67 @@
     {
       "wordId": "sit",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Come and sit beside me on the garden bench.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sit.svg",
+      "blobSha": "f3d99491c43edabcd8a97e9ef10ad6e0adc64967",
+      "visualReview": "Second companion lowers into a garden bench seat beside an already seated person, then pauses.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "seat",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She saved me a seat near the front.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/seat.svg",
+      "blobSha": "06e6d18fc8f80a1935ccba1f3ba09dd549cfeb08",
+      "visualReview": "Bag reserves a front-row auditorium chair beside a companion who indicates the empty place.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cup",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I warmed my hands around a cup of tea.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cup.svg",
+      "blobSha": "332e1f5fbca8568bf7ba7ca6290197e8ce136afe",
+      "visualReview": "Both hands warm against a textured cup of tea with clear handle contact and rising steam.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "film",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched a funny film after dinner yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/film.svg",
+      "blobSha": "a9d6f4ada79a08fadf982ad20c5fc303ada29b1a",
+      "visualReview": "Two viewers watch a humorous duck in a projected film after dinner, with empty plates nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "america",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin moved to America to study engineering.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/america.svg",
+      "blobSha": "a3acf1417a1d3b85a42f5b9ac8920532b7ce065a",
+      "visualReview": "Engineering student works on bridge plan beside stylized American flag and travel case.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "monday",

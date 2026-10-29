@@ -6182,6 +6182,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sit",
+      "src": "atlas/animations/sit.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Come and sit beside me on the garden bench.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "seat",
+      "src": "atlas/animations/seat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She saved me a seat near the front.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cup",
+      "src": "atlas/animations/cup.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I warmed my hands around a cup of tea.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "film",
+      "src": "atlas/animations/film.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched a funny film after dinner yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "america",
+      "src": "atlas/animations/america.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My cousin moved to America to study engineering.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

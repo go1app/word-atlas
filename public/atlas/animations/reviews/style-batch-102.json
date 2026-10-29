@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "sit",
+    "dailyExample": "Come and sit beside me on the garden bench.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Second companion lowers into a garden bench seat beside an already seated person, then pauses.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "seat",
+    "dailyExample": "She saved me a seat near the front.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bag reserves a front-row auditorium chair beside a companion who indicates the empty place.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cup",
+    "dailyExample": "I warmed my hands around a cup of tea.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Both hands warm against a textured cup of tea with clear handle contact and rising steam.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "film",
+    "dailyExample": "We watched a funny film after dinner yesterday.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two viewers watch a humorous duck in a projected film after dinner, with empty plates nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "america",
+    "dailyExample": "My cousin moved to America to study engineering.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Engineering student works on bridge plan beside stylized American flag and travel case.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
