@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "hand",
+    "dailyExample": "She held the warm cup in her left hand.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Left hand grips a warm mug handle in close-up while steam rises.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "yellow",
+    "dailyExample": "She picked a yellow umbrella for the rainy walk.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Yellow umbrella shelters a walker from rain beside a reflected puddle.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "rich",
+    "dailyExample": "Their rich uncle owns a large house by the sea.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Large seaside home with terrace, garden and owner establishes the uncle wealth through setting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "know",
+    "dailyExample": "Do you know how to fix this bicycle?",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One person asks about bicycle repair while another indicates the chain with a tool.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cousin",
+    "dailyExample": "My cousin taught me to ride a bicycle yesterday.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Learner sits on bicycle while a cousin steadies the seat from behind.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

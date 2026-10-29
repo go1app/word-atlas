@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 461,
-  "pending": 6837,
+  "uploaded": 466,
+  "pending": 6832,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "hand",
-    "yellow",
-    "rich",
-    "know",
-    "cousin"
+    "november",
+    "cafe",
+    "live",
+    "her",
+    "quick"
   ],
   "words": [
     {
@@ -5924,27 +5924,67 @@
     {
       "wordId": "hand",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She held the warm cup in her left hand.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hand.svg",
+      "blobSha": "bfa96d88a00dd2e38bca87697ecf96ec9cf7bfb8",
+      "visualReview": "Left hand grips a warm mug handle in close-up while steam rises.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "yellow",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She picked a yellow umbrella for the rainy walk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/yellow.svg",
+      "blobSha": "db0b0cff55f62dd785e7f857f27e89d15965277c",
+      "visualReview": "Yellow umbrella shelters a walker from rain beside a reflected puddle.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "rich",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Their rich uncle owns a large house by the sea.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/rich.svg",
+      "blobSha": "869bab1868da2420f2b094921fadf18e3306ab49",
+      "visualReview": "Large seaside home with terrace, garden and owner establishes the uncle wealth through setting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "know",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Do you know how to fix this bicycle?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/know.svg",
+      "blobSha": "c520d2ab8766befb4b8086feb989bc0b34bf2e3c",
+      "visualReview": "One person asks about bicycle repair while another indicates the chain with a tool.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cousin",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin taught me to ride a bicycle yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cousin.svg",
+      "blobSha": "5d1962f558a9c6a457abe5dd24e7889193a0ea01",
+      "visualReview": "Learner sits on bicycle while a cousin steadies the seat from behind.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "november",

@@ -5510,6 +5510,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hand",
+      "src": "atlas/animations/hand.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She held the warm cup in her left hand.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "yellow",
+      "src": "atlas/animations/yellow.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She picked a yellow umbrella for the rainy walk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "rich",
+      "src": "atlas/animations/rich.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Their rich uncle owns a large house by the sea.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "know",
+      "src": "atlas/animations/know.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Do you know how to fix this bicycle?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cousin",
+      "src": "atlas/animations/cousin.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My cousin taught me to ride a bicycle yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
