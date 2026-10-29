@@ -6962,6 +6962,69 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "repeat",
+      "src": "atlas/animations/repeat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could you repeat the address a little more slowly?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "24 Oak Rd"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "welcome",
+      "src": "atlas/animations/welcome.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our neighbours came outside to welcome us home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "strawberry",
+      "src": "atlas/animations/strawberry.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I picked a ripe strawberry and put it in my basket.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sixteen",
+      "src": "atlas/animations/sixteen.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We baked sixteen small cakes for the family picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "week",
+      "src": "atlas/animations/week.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I borrowed this book from the library last week.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

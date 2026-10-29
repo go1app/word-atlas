@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 580,
-  "pending": 6718,
+  "uploaded": 585,
+  "pending": 6713,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "repeat",
-    "welcome",
-    "strawberry",
-    "sixteen",
-    "week"
+    "seventeen",
+    "wednesday",
+    "a-m",
+    "new",
+    "cooking"
   ],
   "words": [
     {
@@ -7471,27 +7471,67 @@
     {
       "wordId": "repeat",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you repeat the address a little more slowly?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/repeat.svg",
+      "blobSha": "a6b96a7e26440a3e810ab702a67e8d0f011edc9f",
+      "visualReview": "The same small address is spoken twice in a speech balloon, with a longer second pause while the listener writes. Permitted non-answer scene text declared.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "welcome",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our neighbours came outside to welcome us home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/welcome.svg",
+      "blobSha": "445baf6fb3904ee2c731d28b67b5c0ce6a536b4b",
+      "visualReview": "Neighbours wave outside their doorway to returning people carrying luggage.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "strawberry",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I picked a ripe strawberry and put it in my basket.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/strawberry.svg",
+      "blobSha": "d9a1c74c23de29a28138c0e87a33c3b411661589",
+      "visualReview": "Hand grips the strawberry stem, lifts the ripe berry from the plant and lowers it into the basket; soft reset dissolve. Revised lowering depth and added basket-front occlusion; inspected at 5 and 7 seconds to confirm the berry enters the basket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sixteen",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We baked sixteen small cakes for the family picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sixteen.svg",
+      "blobSha": "85409f61492b937199418a36b94007b5f4f400ca",
+      "visualReview": "Exactly sixteen small cakes on a four-by-four cooling tray, next to a packed picnic basket and flask. Increased row separation and tray depth so all sixteen remain separately countable.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "week",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I borrowed this book from the library last week.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/week.svg",
+      "blobSha": "c8266b95aab083ca29415118f9abca388a71413f",
+      "visualReview": "Library borrowing scene with seven-column calendar; highlighted preceding row and linked borrowing/current day mark last week.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "seventeen",

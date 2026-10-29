@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "repeat",
+    "dailyExample": "Could you repeat the address a little more slowly?",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "The same small address is spoken twice in a speech balloon, with a longer second pause while the listener writes. Permitted non-answer scene text declared.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "welcome",
+    "dailyExample": "Our neighbours came outside to welcome us home.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Neighbours wave outside their doorway to returning people carrying luggage.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "strawberry",
+    "dailyExample": "I picked a ripe strawberry and put it in my basket.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand grips the strawberry stem, lifts the ripe berry from the plant and lowers it into the basket; soft reset dissolve. Revised lowering depth and added basket-front occlusion; inspected at 5 and 7 seconds to confirm the berry enters the basket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sixteen",
+    "dailyExample": "We baked sixteen small cakes for the family picnic.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exactly sixteen small cakes on a four-by-four cooling tray, next to a packed picnic basket and flask. Increased row separation and tray depth so all sixteen remain separately countable.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "week",
+    "dailyExample": "I borrowed this book from the library last week.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Library borrowing scene with seven-column calendar; highlighted preceding row and linked borrowing/current day mark last week.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
