@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "november",
+    "dailyExample": "We are moving into our new flat in November.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Move-in boxes on an apartment landing with bare branches and eleventh dot on month card.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cafe",
+    "dailyExample": "We shared a sandwich at the cafe beside the station.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people share sandwich halves at a café table beside a station train window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "live",
+    "dailyExample": "My grandparents live in a quiet village near the coast.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grandparents stand by their cottage in a quiet coastal village, with garden fence and calm sea.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "her",
+    "dailyExample": "I called her after lunch to arrange a walk.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person phones a woman after lunch to plan a walk, with used plate and walking shoes nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "quick",
+    "dailyExample": "Her quick reaction stopped the glass from falling.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Glass slips from the counter and a hand quickly catches it, holding it steady before reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

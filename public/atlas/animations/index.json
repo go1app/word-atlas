@@ -5570,6 +5570,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "november",
+      "src": "atlas/animations/november.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We are moving into our new flat in November.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cafe",
+      "src": "atlas/animations/cafe.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We shared a sandwich at the cafe beside the station.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "live",
+      "src": "atlas/animations/live.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My grandparents live in a quiet village near the coast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "her",
+      "src": "atlas/animations/her.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I called her after lunch to arrange a walk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "quick",
+      "src": "atlas/animations/quick.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Her quick reaction stopped the glass from falling.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

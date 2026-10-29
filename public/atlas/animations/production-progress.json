@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 466,
-  "pending": 6832,
+  "uploaded": 471,
+  "pending": 6827,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "november",
-    "cafe",
-    "live",
-    "her",
-    "quick"
+    "august",
+    "germany",
+    "bag",
+    "tennis",
+    "cat"
   ],
   "words": [
     {
@@ -5989,27 +5989,67 @@
     {
       "wordId": "november",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We are moving into our new flat in November.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/november.svg",
+      "blobSha": "46b33c60066bee9e07f484562a4ad69806eedbb0",
+      "visualReview": "Move-in boxes on an apartment landing with bare branches and eleventh dot on month card.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cafe",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We shared a sandwich at the cafe beside the station.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cafe.svg",
+      "blobSha": "c022c4435cbbcc0253897e0648c27817016b98ce",
+      "visualReview": "Two people share sandwich halves at a café table beside a station train window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "live",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My grandparents live in a quiet village near the coast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/live.svg",
+      "blobSha": "ac02c7bb4e79f3a3dabd71aa441364df7879ac4d",
+      "visualReview": "Grandparents stand by their cottage in a quiet coastal village, with garden fence and calm sea.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "her",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I called her after lunch to arrange a walk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/her.svg",
+      "blobSha": "e8304009bbd9592101350d3bb8bb0bc5ffe2ea70",
+      "visualReview": "Person phones a woman after lunch to plan a walk, with used plate and walking shoes nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "quick",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Her quick reaction stopped the glass from falling.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/quick.svg",
+      "blobSha": "8ec85a0b79cab13a922b9b6702356c29c8eb5bee",
+      "visualReview": "Glass slips from the counter and a hand quickly catches it, holding it steady before reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "august",
