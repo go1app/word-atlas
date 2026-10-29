@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 590,
-  "pending": 6708,
+  "uploaded": 595,
+  "pending": 6703,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "family",
-    "example",
-    "december",
-    "metre",
-    "hate"
+    "sleep",
+    "toothbrush",
+    "table",
+    "join",
+    "useful"
   ],
   "words": [
     {
@@ -7601,27 +7601,67 @@
     {
       "wordId": "family",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My family gathers around the kitchen table every Sunday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/family.svg",
+      "blobSha": "4b7b463c9ec7e17975be9853972f316543b9f290",
+      "visualReview": "Five family members of different ages gather around kitchen table with shared bread, plates and a Sunday marker. Shortened the seated children lower legs to keep proportions appropriate.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "example",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you give me an example of a healthy breakfast?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/example.svg",
+      "blobSha": "6646d07877bbe7dd14a7b11ea5ef7242ac6334aa",
+      "visualReview": "A person presents a concrete healthy breakfast example: fruit oats, egg, toast and water. A joined presenting-arm gesture directs attention to the meal. Removed an unsupported floating recipe book and added the presenting arm motion.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "december",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin is coming to stay with us in December.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/december.svg",
+      "blobSha": "73f1dfc840f46f2c3b9164259e8984ed64f3665c",
+      "visualReview": "Cousin arrives with suitcase at a warm home doorway; snowy outdoors and final tile on twelve-month calendar indicate December.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "metre",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This shelf is just over a metre long.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/metre.svg",
+      "blobSha": "4e590109352cede3f62c568c5957ea5a61473025",
+      "visualReview": "Shelf extends slightly past the one-hundredth fine division of a tape; the measuring case and hand extend together beneath it. Inspected early and fully extended samples; tape hook, case and hands retain contact.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hate",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I hate finding wet socks on the bathroom floor.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hate.svg",
+      "blobSha": "77b42123d97c0fa5c3ceb9d474c12b7f68afc4fb",
+      "visualReview": "Frowning person reacts to wet socks on bathroom tiles, beside a dry mat; subtle water rings emphasise dampness.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sleep",

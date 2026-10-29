@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "family",
+    "dailyExample": "My family gathers around the kitchen table every Sunday.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Five family members of different ages gather around kitchen table with shared bread, plates and a Sunday marker. Shortened the seated children lower legs to keep proportions appropriate.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "example",
+    "dailyExample": "Could you give me an example of a healthy breakfast?",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A person presents a concrete healthy breakfast example: fruit oats, egg, toast and water. A joined presenting-arm gesture directs attention to the meal. Removed an unsupported floating recipe book and added the presenting arm motion.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "december",
+    "dailyExample": "My cousin is coming to stay with us in December.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cousin arrives with suitcase at a warm home doorway; snowy outdoors and final tile on twelve-month calendar indicate December.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "metre",
+    "dailyExample": "This shelf is just over a metre long.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Shelf extends slightly past the one-hundredth fine division of a tape; the measuring case and hand extend together beneath it. Inspected early and fully extended samples; tape hook, case and hands retain contact.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hate",
+    "dailyExample": "I hate finding wet socks on the bathroom floor.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Frowning person reacts to wet socks on bathroom tiles, beside a dry mat; subtle water rings emphasise dampness.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
