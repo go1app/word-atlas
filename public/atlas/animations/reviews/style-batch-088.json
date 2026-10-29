@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "together",
+    "dailyExample": "We cooked dinner together and shared stories about our day.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people cook and trade small hand gestures while sharing their day.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "saturday",
+    "dailyExample": "We usually buy fresh vegetables at the market on Saturday.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh vegetable stall has cabbages, carrots and produce, with the sixth weekday dot highlighted.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "brown",
+    "dailyExample": "A small brown dog was sleeping beside the door.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small brown dog sleeps with closed eye by a paneled door, breathing gently around its body center.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "spend",
+    "dailyExample": "We spent all our money on fresh fruit.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "An open emptied purse, transferred coins and a full fruit basket show all money spent on fruit.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "autumn",
+    "dailyExample": "We collect fallen leaves in the park every autumn.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person collects fallen leaves beside an autumn tree and basket, with one leaf drifting down.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

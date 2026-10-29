@@ -5330,6 +5330,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "together",
+      "src": "atlas/animations/together.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We cooked dinner together and shared stories about our day.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "saturday",
+      "src": "atlas/animations/saturday.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We usually buy fresh vegetables at the market on Saturday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "brown",
+      "src": "atlas/animations/brown.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A small brown dog was sleeping beside the door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "spend",
+      "src": "atlas/animations/spend.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We spent all our money on fresh fruit.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "autumn",
+      "src": "atlas/animations/autumn.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We collect fallen leaves in the park every autumn.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

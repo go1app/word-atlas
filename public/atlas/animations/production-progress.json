@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 446,
-  "pending": 6852,
+  "uploaded": 451,
+  "pending": 6847,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "together",
-    "saturday",
-    "brown",
-    "spend",
-    "autumn"
+    "help",
+    "high",
+    "soup",
+    "choose",
+    "movie"
   ],
   "words": [
     {
@@ -5729,27 +5729,67 @@
     {
       "wordId": "together",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We cooked dinner together and shared stories about our day.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/together.svg",
+      "blobSha": "62e0b7d1452db4e512ff45772d91d3776d74ee36",
+      "visualReview": "Two people cook and trade small hand gestures while sharing their day.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "saturday",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually buy fresh vegetables at the market on Saturday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/saturday.svg",
+      "blobSha": "705eb41231b101d20d449f774cfc05a4829e7f9a",
+      "visualReview": "Fresh vegetable stall has cabbages, carrots and produce, with the sixth weekday dot highlighted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "brown",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A small brown dog was sleeping beside the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/brown.svg",
+      "blobSha": "6ed428e707985d026b1e6ea4de581b2b4e6174c6",
+      "visualReview": "Small brown dog sleeps with closed eye by a paneled door, breathing gently around its body center.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "spend",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent all our money on fresh fruit.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/spend.svg",
+      "blobSha": "3289681d2f594d07675deed3d47387a66c1db4a9",
+      "visualReview": "An open emptied purse, transferred coins and a full fruit basket show all money spent on fruit.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "autumn",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We collect fallen leaves in the park every autumn.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/autumn.svg",
+      "blobSha": "086d5d41a26d8b03b6ccf1434aa4a31daf54d1e0",
+      "visualReview": "Person collects fallen leaves beside an autumn tree and basket, with one leaf drifting down.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "help",
