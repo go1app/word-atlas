@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 471,
-  "pending": 6827,
+  "uploaded": 476,
+  "pending": 6822,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "august",
-    "germany",
-    "bag",
-    "tennis",
-    "cat"
+    "place",
+    "dress",
+    "mouse",
+    "car",
+    "breakfast"
   ],
   "words": [
     {
@@ -6054,27 +6054,67 @@
     {
       "wordId": "august",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually visit our grandparents by the sea in August.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/august.svg",
+      "blobSha": "4a6e1bee4a02df405749da6a01a6b2ef850b9981",
+      "visualReview": "Summer family visit at grandparents coastal home, with eighth month dot and seaside light.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "germany",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin moved to Germany to study engineering.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/germany.svg",
+      "blobSha": "c5f567dbf14629ea1761f8b82201d4293e0b5b7d",
+      "visualReview": "Engineering student works from a technical drawing beside Germany map silhouette and travel case.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bag",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She put the apples in a reusable bag.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bag.svg",
+      "blobSha": "e4b4e1e756fdf1cf9acb87497a084d4f0de229b7",
+      "visualReview": "Hand lowers an apple into a reusable cloth tote already holding apples.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tennis",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We play tennis at the park on Sundays.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tennis.svg",
+      "blobSha": "0f66289e02fff5c39223f75afebf35be3d46b5b0",
+      "visualReview": "Two players exchange a ball over the net in a park court.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cat",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our cat sleeps in a sunny spot by the window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cat.svg",
+      "blobSha": "0fde68345cbb41926af920619b9dfe45301bc7f3",
+      "visualReview": "Cat curls up in a sunny floor patch by the window, with gentle breathing and curtain movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "place",

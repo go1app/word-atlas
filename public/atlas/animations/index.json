@@ -5630,6 +5630,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "august",
+      "src": "atlas/animations/august.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We usually visit our grandparents by the sea in August.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "germany",
+      "src": "atlas/animations/germany.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My cousin moved to Germany to study engineering.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bag",
+      "src": "atlas/animations/bag.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She put the apples in a reusable bag.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "tennis",
+      "src": "atlas/animations/tennis.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We play tennis at the park on Sundays.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cat",
+      "src": "atlas/animations/cat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our cat sleeps in a sunny spot by the window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

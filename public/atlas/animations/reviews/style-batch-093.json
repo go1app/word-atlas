@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "august",
+    "dailyExample": "We usually visit our grandparents by the sea in August.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Summer family visit at grandparents coastal home, with eighth month dot and seaside light.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "germany",
+    "dailyExample": "My cousin moved to Germany to study engineering.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Engineering student works from a technical drawing beside Germany map silhouette and travel case.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bag",
+    "dailyExample": "She put the apples in a reusable bag.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand lowers an apple into a reusable cloth tote already holding apples.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tennis",
+    "dailyExample": "We play tennis at the park on Sundays.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two players exchange a ball over the net in a park court.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cat",
+    "dailyExample": "Our cat sleeps in a sunny spot by the window.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cat curls up in a sunny floor patch by the window, with gentle breathing and curtain movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
