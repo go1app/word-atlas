@@ -6542,6 +6542,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "england",
+      "src": "atlas/animations/england.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My cousin lives in a quiet village in England.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "think",
+      "src": "atlas/animations/think.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I think this soup needs a little more salt.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "another",
+      "src": "atlas/animations/another.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This cup is cracked, so please bring me another.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "building",
+      "src": "atlas/animations/building.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our apartment building has a garden on the roof.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sunny",
+      "src": "atlas/animations/sunny.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We ate breakfast on the sunny balcony this morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

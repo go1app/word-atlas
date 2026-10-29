@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 545,
-  "pending": 6753,
+  "uploaded": 550,
+  "pending": 6748,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "england",
-    "think",
-    "another",
-    "building",
-    "sunny"
+    "swim",
+    "science",
+    "snow",
+    "forget",
+    "slowly"
   ],
   "words": [
     {
@@ -7016,27 +7016,67 @@
     {
       "wordId": "england",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin lives in a quiet village in England.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/england.svg",
+      "blobSha": "a59461ca70077057a147164373b449a6d2583a34",
+      "visualReview": "Quiet village cottage and resident beside a small St George cross flag.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "think",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I think this soup needs a little more salt.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/think.svg",
+      "blobSha": "86f0eea245ac6eb991020f048b25027fcbdd5cb8",
+      "visualReview": "Person tastes soup while a thought bubble suggests adding a little salt.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "another",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This cup is cracked, so please bring me another.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/another.svg",
+      "blobSha": "511fb8a9f22352d7850f395a41effbf135878fe2",
+      "visualReview": "An intact mug is brought beside the visibly cracked original mug.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "building",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our apartment building has a garden on the roof.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/building.svg",
+      "blobSha": "5ade8fa0f4803d8a35d88c16a3987aad90e0d3de",
+      "visualReview": "Multiple-floor apartment block has a distinct rooftop garden with raised beds and a tree.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sunny",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We ate breakfast on the sunny balcony this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sunny.svg",
+      "blobSha": "e57c6d3801a11cfc57a75c7b97a82d428e40c6a3",
+      "visualReview": "Two diners eat breakfast on a sunlit balcony, with directional warm light and breakfast plates.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "swim",

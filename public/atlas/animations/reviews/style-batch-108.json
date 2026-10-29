@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "england",
+    "dailyExample": "My cousin lives in a quiet village in England.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Quiet village cottage and resident beside a small St George cross flag.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "think",
+    "dailyExample": "I think this soup needs a little more salt.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person tastes soup while a thought bubble suggests adding a little salt.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "another",
+    "dailyExample": "This cup is cracked, so please bring me another.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "An intact mug is brought beside the visibly cracked original mug.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "building",
+    "dailyExample": "Our apartment building has a garden on the roof.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Multiple-floor apartment block has a distinct rooftop garden with raised beds and a tree.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sunny",
+    "dailyExample": "We ate breakfast on the sunny balcony this morning.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two diners eat breakfast on a sunlit balcony, with directional warm light and breakfast plates.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
