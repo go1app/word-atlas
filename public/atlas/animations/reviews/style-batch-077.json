@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "up",
+    "dailyExample": "The child looked up at the bright red balloon.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child tilts profile upward toward a red balloon drifting gently above a held string.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "world",
+    "dailyExample": "She dreams of travelling around the world by train.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Globe, travel notebook and a tiny train on a curved route express the dream of global rail travel.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "drink",
+    "dailyExample": "I always drink some water after walking the dog.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person raises a water glass after walking the dog; leash joins the resting dog collar.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "mexico",
+    "dailyExample": "We explored ancient ruins during our holiday in Mexico.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Visitor photographs a stepped Mesoamerican pyramid and stone ruins during a holiday.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "grey",
+    "dailyExample": "A grey cat was sleeping on the windowsill.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Gray cat sleeps with closed eyes on a broad windowsill, with restrained breathing and curtain movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

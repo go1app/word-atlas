@@ -4670,6 +4670,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "up",
+      "src": "atlas/animations/up.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The child looked up at the bright red balloon.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "world",
+      "src": "atlas/animations/world.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She dreams of travelling around the world by train.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "drink",
+      "src": "atlas/animations/drink.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I always drink some water after walking the dog.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "mexico",
+      "src": "atlas/animations/mexico.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We explored ancient ruins during our holiday in Mexico.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "grey",
+      "src": "atlas/animations/grey.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A grey cat was sleeping on the windowsill.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

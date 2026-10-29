@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 391,
-  "pending": 6907,
+  "uploaded": 396,
+  "pending": 6902,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "up",
-    "world",
-    "drink",
-    "mexico",
-    "grey"
+    "much",
+    "learn",
+    "south",
+    "can",
+    "hey"
   ],
   "words": [
     {
@@ -5014,27 +5014,67 @@
     {
       "wordId": "up",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The child looked up at the bright red balloon.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/up.svg",
+      "blobSha": "dfd9dcb10722d9fff7e761b21dfda4e69b7cd497",
+      "visualReview": "Child tilts profile upward toward a red balloon drifting gently above a held string.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "world",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She dreams of travelling around the world by train.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/world.svg",
+      "blobSha": "521cd3ea07c73e9a976c99b47aa6294e432d19d3",
+      "visualReview": "Globe, travel notebook and a tiny train on a curved route express the dream of global rail travel.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "drink",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I always drink some water after walking the dog.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/drink.svg",
+      "blobSha": "33f8ffca87a159d27a0dc7b9b73755da3cd774e4",
+      "visualReview": "Person raises a water glass after walking the dog; leash joins the resting dog collar.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "mexico",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We explored ancient ruins during our holiday in Mexico.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/mexico.svg",
+      "blobSha": "f703b056bafd492d4cdb8ddcfecfe8d36bfabdf0",
+      "visualReview": "Visitor photographs a stepped Mesoamerican pyramid and stone ruins during a holiday.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "grey",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A grey cat was sleeping on the windowsill.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/grey.svg",
+      "blobSha": "50f7b15a53a9449de9c1ca5b9b78e5533c61ddee",
+      "visualReview": "Gray cat sleeps with closed eyes on a broad windowsill, with restrained breathing and curtain movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "much",
