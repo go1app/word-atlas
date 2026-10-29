@@ -4970,6 +4970,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "chair",
+      "src": "atlas/animations/chair.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She pulled a chair closer to the window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "never",
+      "src": "atlas/animations/never.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I never leave home without my water bottle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "middle",
+      "src": "atlas/animations/middle.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Someone left a suitcase in the middle of the hallway.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cool",
+      "src": "atlas/animations/cool.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A cool breeze drifted through the open kitchen window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "september",
+      "src": "atlas/animations/september.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our evening photography course starts in September this year.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

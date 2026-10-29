@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "chair",
+    "dailyExample": "She pulled a chair closer to the window.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person pulls held chair toward the window, pauses and fades before reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "never",
+    "dailyExample": "I never leave home without my water bottle.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person leaving home keeps a water bottle gripped beside the doorway.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "middle",
+    "dailyExample": "Someone left a suitcase in the middle of the hallway.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Suitcase stands in the center of a symmetrical hallway, blocking the central path.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cool",
+    "dailyExample": "A cool breeze drifted through the open kitchen window.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Fresh-air curves enter an open kitchen casement as a curtain drifts beside herbs.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "september",
+    "dailyExample": "Our evening photography course starts in September this year.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Evening photography lesson with camera tripod, autumn window and a twelve-month card highlighting the ninth dot.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

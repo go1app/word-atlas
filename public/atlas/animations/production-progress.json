@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 416,
-  "pending": 6882,
+  "uploaded": 421,
+  "pending": 6877,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "chair",
-    "never",
-    "middle",
-    "cool",
-    "september"
+    "easy",
+    "thing",
+    "mouth",
+    "study",
+    "anything"
   ],
   "words": [
     {
@@ -5339,27 +5339,67 @@
     {
       "wordId": "chair",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She pulled a chair closer to the window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/chair.svg",
+      "blobSha": "c4237aed12853640a6b5d2012146537bc57ea12f",
+      "visualReview": "Person pulls held chair toward the window, pauses and fades before reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "never",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I never leave home without my water bottle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/never.svg",
+      "blobSha": "cdb9b7cbbbcb1892135f4618d6c140a2d09a1f58",
+      "visualReview": "Person leaving home keeps a water bottle gripped beside the doorway.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "middle",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Someone left a suitcase in the middle of the hallway.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/middle.svg",
+      "blobSha": "08662d15a40188e62a3914c9695e8e9eebc46ec1",
+      "visualReview": "Suitcase stands in the center of a symmetrical hallway, blocking the central path.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cool",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A cool breeze drifted through the open kitchen window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cool.svg",
+      "blobSha": "ce1e9b2fe7b71031bb30dad94ac83e8a7d5661a7",
+      "visualReview": "Fresh-air curves enter an open kitchen casement as a curtain drifts beside herbs.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "september",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our evening photography course starts in September this year.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/september.svg",
+      "blobSha": "7b0ee80cc79d42994b74f03bfe1339095f45aa43",
+      "visualReview": "Evening photography lesson with camera tripod, autumn window and a twelve-month card highlighting the ninth dot.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "easy",
