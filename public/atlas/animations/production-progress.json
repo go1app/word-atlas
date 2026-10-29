@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 530,
-  "pending": 6768,
+  "uploaded": 535,
+  "pending": 6763,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "piece",
-    "pink",
-    "lesson",
-    "garden",
-    "geography"
+    "salt",
+    "until",
+    "each",
+    "women",
+    "feeling"
   ],
   "words": [
     {
@@ -6821,27 +6821,67 @@
     {
       "wordId": "piece",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She saved the last piece of cake for her brother.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/piece.svg",
+      "blobSha": "0d24b91840986412cfe6deb30b75b8bf6a75aadc",
+      "visualReview": "Last cake slice saved in a container, with an empty serving platter and crumbs beside it.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pink",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The tree outside our window has pink flowers.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pink.svg",
+      "blobSha": "d4a722f0551d6a86b75152a069546e4351b911e8",
+      "visualReview": "Pink blossoms fill a tree outside foreground window mullions; a petal drifts gently.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "lesson",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our swimming lesson starts after school on Thursday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/lesson.svg",
+      "blobSha": "1a1ffc9c39d63b4a2a6c644cffeb7631ab7fd92e",
+      "visualReview": "Swimming instructor and learners meet after school, with school bags and fourth weekday dot.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "garden",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We picked fresh beans from the garden before lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/garden.svg",
+      "blobSha": "bbf455b9aa86f19e5aefbd17138ff01871579771",
+      "visualReview": "Hand picks a fresh bean from a trellis toward the harvest basket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "geography",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "In geography today, we learned how rivers shape valleys.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/geography.svg",
+      "blobSha": "94e3f74fe76c5294a680270c37f69a995a720483",
+      "visualReview": "Teacher points to a river running between valley slopes on a classroom model.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "salt",

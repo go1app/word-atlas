@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "piece",
+    "dailyExample": "She saved the last piece of cake for her brother.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Last cake slice saved in a container, with an empty serving platter and crumbs beside it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pink",
+    "dailyExample": "The tree outside our window has pink flowers.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pink blossoms fill a tree outside foreground window mullions; a petal drifts gently.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "lesson",
+    "dailyExample": "Our swimming lesson starts after school on Thursday.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Swimming instructor and learners meet after school, with school bags and fourth weekday dot.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "garden",
+    "dailyExample": "We picked fresh beans from the garden before lunch.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand picks a fresh bean from a trellis toward the harvest basket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "geography",
+    "dailyExample": "In geography today, we learned how rivers shape valleys.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Teacher points to a river running between valley slopes on a classroom model.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

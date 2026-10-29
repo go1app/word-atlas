@@ -6362,6 +6362,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "piece",
+      "src": "atlas/animations/piece.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She saved the last piece of cake for her brother.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pink",
+      "src": "atlas/animations/pink.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The tree outside our window has pink flowers.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "lesson",
+      "src": "atlas/animations/lesson.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our swimming lesson starts after school on Thursday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "garden",
+      "src": "atlas/animations/garden.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We picked fresh beans from the garden before lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "geography",
+      "src": "atlas/animations/geography.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "In geography today, we learned how rivers shape valleys.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
