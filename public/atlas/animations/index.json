@@ -7205,6 +7205,69 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "like",
+      "src": "atlas/animations/like.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I like reading by the window on rainy afternoons.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "note",
+      "src": "atlas/animations/note.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I left a note beside your breakfast bowl.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "See you soon!"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fall",
+      "src": "atlas/animations/fall.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Golden leaves fall onto the path outside our house.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "thirty",
+      "src": "atlas/animations/thirty.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The soup needs another thirty minutes on the stove.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "best",
+      "src": "atlas/animations/best.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This bakery makes the best bread in our neighbourhood.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

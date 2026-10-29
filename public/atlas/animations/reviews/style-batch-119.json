@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "like",
+    "dailyExample": "I like reading by the window on rainy afternoons.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Relaxed reader smiles in an armchair by a rainy window; periodic clipped rain tile, book held at both edges, warm mug nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "note",
+    "dailyExample": "I left a note beside your breakfast bowl.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A short personal message is placed beside a breakfast bowl; paper and hand move together, hand then releases. Permitted scene greeting declared. Inspected released-paper state at 8 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fall",
+    "dailyExample": "Golden leaves fall onto the path outside our house.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Golden leaves drift and turn from an autumn tree onto the path outside the house, with soft landing reset. Inspected late falling/landing positions at 8 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "thirty",
+    "dailyExample": "The soup needs another thirty minutes on the stove.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Soup simmers on stove beside a sixty-mark timer with half of the dial shaded and pointer set to thirty minutes. Added a side counter under the timer to eliminate unsupported placement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "best",
+    "dailyExample": "This bakery makes the best bread in our neighbourhood.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Neighbourhood bakery with fresh scored bread, local customers and a small rosette for quality; subtle bread warmth.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

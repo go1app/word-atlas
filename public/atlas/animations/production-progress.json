@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 600,
-  "pending": 6698,
+  "uploaded": 605,
+  "pending": 6693,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "like",
-    "note",
-    "fall",
-    "thirty",
-    "best"
+    "any",
+    "computer",
+    "shopping",
+    "alphabet",
+    "address"
   ],
   "words": [
     {
@@ -7731,27 +7731,67 @@
     {
       "wordId": "like",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I like reading by the window on rainy afternoons.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/like.svg",
+      "blobSha": "6b86fcc02f271b82df6e7be0cca9e235120893bd",
+      "visualReview": "Relaxed reader smiles in an armchair by a rainy window; periodic clipped rain tile, book held at both edges, warm mug nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "note",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I left a note beside your breakfast bowl.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/note.svg",
+      "blobSha": "07d51d25e9b90357a615247497238e8b84da86a4",
+      "visualReview": "A short personal message is placed beside a breakfast bowl; paper and hand move together, hand then releases. Permitted scene greeting declared. Inspected released-paper state at 8 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fall",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Golden leaves fall onto the path outside our house.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fall.svg",
+      "blobSha": "ff47199e02d1b09f6b18fef40acbb6863c261636",
+      "visualReview": "Golden leaves drift and turn from an autumn tree onto the path outside the house, with soft landing reset. Inspected late falling/landing positions at 8 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "thirty",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The soup needs another thirty minutes on the stove.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/thirty.svg",
+      "blobSha": "5b45b5867e913515c65f1dc8297c982f43f8a31f",
+      "visualReview": "Soup simmers on stove beside a sixty-mark timer with half of the dial shaded and pointer set to thirty minutes. Added a side counter under the timer to eliminate unsupported placement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "best",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This bakery makes the best bread in our neighbourhood.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/best.svg",
+      "blobSha": "b178db00ff206955e7f11cfb2c2fe4175fbcc2e6",
+      "visualReview": "Neighbourhood bakery with fresh scored bread, local customers and a small rosette for quality; subtle bread warmth.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "any",
