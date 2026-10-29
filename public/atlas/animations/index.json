@@ -6052,6 +6052,72 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "read",
+      "src": "atlas/animations/read.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I read a few pages before bed every night.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "email",
+      "src": "atlas/animations/email.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please email me the photos from our camping trip.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "test",
+      "src": "atlas/animations/test.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I have a spelling test at school tomorrow.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "CAT"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "july",
+      "src": "atlas/animations/july.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We usually visit our cousins for a week in July.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "zero",
+      "src": "atlas/animations/zero.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The temperature fell below zero while we were sleeping.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "0"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

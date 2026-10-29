@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 505,
-  "pending": 6793,
+  "uploaded": 510,
+  "pending": 6788,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "read",
-    "email",
-    "test",
-    "july",
-    "zero"
+    "again",
+    "hello",
+    "people",
+    "canada",
+    "monkey"
   ],
   "words": [
     {
@@ -6496,27 +6496,67 @@
     {
       "wordId": "read",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I read a few pages before bed every night.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/read.svg",
+      "blobSha": "8a81c6650f163c8995aad1ce103d86dda20fb79f",
+      "visualReview": "Nighttime reader holds open book in bed beside a warm lamp and moonlit window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "email",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please email me the photos from our camping trip.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/email.svg",
+      "blobSha": "9c6d99c34f6309add3db1c91f9e2eff1fa62c285",
+      "visualReview": "Camping photo thumbnails move toward an envelope/send symbol on a laptop.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "test",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I have a spelling test at school tomorrow.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/test.svg",
+      "blobSha": "4b82f1538ffa3c53630f9c16cc39c2fe1c1949fe",
+      "visualReview": "Student writes CAT for a school spelling assessment beside a cat drawing; scene lettering declared, target answer absent.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "july",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually visit our cousins for a week in July.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/july.svg",
+      "blobSha": "33a9db3ce8b6546bd66fbceb2b5180a628f60493",
+      "visualReview": "Summer cousin visit has luggage and seventh month dot plus seven-day strip.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "zero",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The temperature fell below zero while we were sleeping.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/zero.svg",
+      "blobSha": "e77ea077c0c1efc06525dfce7a705ed87904b9e2",
+      "visualReview": "Thermometer liquid drops below its zero mark outside while a person sleeps beneath a blanket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "again",

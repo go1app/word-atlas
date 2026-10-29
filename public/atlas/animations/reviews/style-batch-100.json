@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "read",
+    "dailyExample": "I read a few pages before bed every night.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Nighttime reader holds open book in bed beside a warm lamp and moonlit window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "email",
+    "dailyExample": "Please email me the photos from our camping trip.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Camping photo thumbnails move toward an envelope/send symbol on a laptop.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "test",
+    "dailyExample": "I have a spelling test at school tomorrow.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Student writes CAT for a school spelling assessment beside a cat drawing; scene lettering declared, target answer absent.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "july",
+    "dailyExample": "We usually visit our cousins for a week in July.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Summer cousin visit has luggage and seventh month dot plus seven-day strip.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "zero",
+    "dailyExample": "The temperature fell below zero while we were sleeping.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Thermometer liquid drops below its zero mark outside while a person sleeps beneath a blanket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
