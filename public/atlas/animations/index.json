@@ -5690,6 +5690,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "place",
+      "src": "atlas/animations/place.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This shady spot is a lovely place for a picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "dress",
+      "src": "atlas/animations/dress.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She wore a blue dress to her sister's party.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "mouse",
+      "src": "atlas/animations/mouse.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A tiny mouse slipped behind the cupboard before breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "car",
+      "src": "atlas/animations/car.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our car is parked under the tree outside.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "breakfast",
+      "src": "atlas/animations/breakfast.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I usually have breakfast before taking the bus.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

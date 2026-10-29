@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 476,
-  "pending": 6822,
+  "uploaded": 481,
+  "pending": 6817,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "place",
-    "dress",
-    "mouse",
-    "car",
-    "breakfast"
+    "spell",
+    "catch",
+    "love",
+    "four",
+    "show"
   ],
   "words": [
     {
@@ -6119,27 +6119,67 @@
     {
       "wordId": "place",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This shady spot is a lovely place for a picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/place.svg",
+      "blobSha": "f683c4fb85ffdbb9316eb803a28cd557990d89dd",
+      "visualReview": "A welcoming shaded picnic blanket, basket and food beneath a broad tree.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dress",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She wore a blue dress to her sister's party.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dress.svg",
+      "blobSha": "edeae86a219217063fc76e794021f7b8bdde11b4",
+      "visualReview": "Blue flared dress worn to a small family party with sister, bunting and cake.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "mouse",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A tiny mouse slipped behind the cupboard before breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/mouse.svg",
+      "blobSha": "0d2ee2860a1f7f110f6bc179fe20c2209fa24b61",
+      "visualReview": "Tiny mouse slips behind a cupboard, naturally occluded by the cabinet before reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "car",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our car is parked under the tree outside.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/car.svg",
+      "blobSha": "1919d36cc5caaddbcdb7f65311a2d18b58f62247",
+      "visualReview": "Brick-red car is parked under a tree, with static wheels and a broad soft ground shadow.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "breakfast",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I usually have breakfast before taking the bus.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/breakfast.svg",
+      "blobSha": "1f2b0cedc1c4a27a8efacddf8159325ba7164a1a",
+      "visualReview": "Morning breakfast on the table before taking a bus, with ready bag and bus visible outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "spell",

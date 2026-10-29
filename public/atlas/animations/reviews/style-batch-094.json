@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "place",
+    "dailyExample": "This shady spot is a lovely place for a picnic.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A welcoming shaded picnic blanket, basket and food beneath a broad tree.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dress",
+    "dailyExample": "She wore a blue dress to her sister's party.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Blue flared dress worn to a small family party with sister, bunting and cake.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "mouse",
+    "dailyExample": "A tiny mouse slipped behind the cupboard before breakfast.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Tiny mouse slips behind a cupboard, naturally occluded by the cabinet before reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "car",
+    "dailyExample": "Our car is parked under the tree outside.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Brick-red car is parked under a tree, with static wheels and a broad soft ground shadow.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "breakfast",
+    "dailyExample": "I usually have breakfast before taking the bus.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Morning breakfast on the table before taking a bus, with ready bag and bus visible outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
