@@ -4550,6 +4550,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "reason",
+      "src": "atlas/animations/reason.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The heavy rain was the reason we stayed home.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "asia",
+      "src": "atlas/animations/asia.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My cousin spent three months travelling around Asia.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "colour",
+      "src": "atlas/animations/colour.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "What colour should we paint the kitchen walls?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "eye",
+      "src": "atlas/animations/eye.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She closed her eyes and listened to the rain.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "afternoon",
+      "src": "atlas/animations/afternoon.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We spent the afternoon baking bread in the kitchen.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

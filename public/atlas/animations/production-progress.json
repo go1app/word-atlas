@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 381,
-  "pending": 6917,
+  "uploaded": 386,
+  "pending": 6912,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "reason",
-    "asia",
-    "colour",
-    "eye",
-    "afternoon"
+    "t-shirt",
+    "end",
+    "delicious",
+    "fill",
+    "become"
   ],
   "words": [
     {
@@ -4884,27 +4884,67 @@
     {
       "wordId": "reason",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The heavy rain was the reason we stayed home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/reason.svg",
+      "blobSha": "728e53a67907aeacdeb827144afaef743f95cc85",
+      "visualReview": "Heavy rain fills the window while two companions stay indoors beside tea and a packed outing bag.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "asia",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin spent three months travelling around Asia.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/asia.svg",
+      "blobSha": "91391b118e4f1858c8153792051a67a7d24ef255",
+      "visualReview": "Traveler and suitcase beside an Asia map with a route connecting multiple stops, no written labels.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "colour",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "What colour should we paint the kitchen walls?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/colour.svg",
+      "blobSha": "46f27f6356a7f7f0e43c959f7bbde10a65b6109b",
+      "visualReview": "Three paint swatches in a kitchen and a held roller beside a fresh gray-green wall patch.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "eye",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She closed her eyes and listened to the rain.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/eye.svg",
+      "blobSha": "fbc6525c85f3bf68b852f7c0713aa7eaaa8d2982",
+      "visualReview": "Close-up face beside rainy window deliberately closes eyes while listening calmly.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "afternoon",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent the afternoon baking bread in the kitchen.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/afternoon.svg",
+      "blobSha": "123e8d54fcde8a26b6b85804ea884c1c93f89a18",
+      "visualReview": "Low afternoon window light falls on bread dough being shaped beside a warm oven.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "t-shirt",

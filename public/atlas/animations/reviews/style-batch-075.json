@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "reason",
+    "dailyExample": "The heavy rain was the reason we stayed home.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Heavy rain fills the window while two companions stay indoors beside tea and a packed outing bag.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "asia",
+    "dailyExample": "My cousin spent three months travelling around Asia.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Traveler and suitcase beside an Asia map with a route connecting multiple stops, no written labels.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "colour",
+    "dailyExample": "What colour should we paint the kitchen walls?",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three paint swatches in a kitchen and a held roller beside a fresh gray-green wall patch.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "eye",
+    "dailyExample": "She closed her eyes and listened to the rain.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Close-up face beside rainy window deliberately closes eyes while listening calmly.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "afternoon",
+    "dailyExample": "We spent the afternoon baking bread in the kitchen.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Low afternoon window light falls on bread dough being shaped beside a warm oven.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
