@@ -6902,6 +6902,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "funny",
+      "src": "atlas/animations/funny.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "That funny story made everyone at the table laugh.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pay",
+      "src": "atlas/animations/pay.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Can I pay for these apples by card?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "old",
+      "src": "atlas/animations/old.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our old dog sleeps beside the warm kitchen stove.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "italy",
+      "src": "atlas/animations/italy.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We travelled around Italy by train last summer.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "mistake",
+      "src": "atlas/animations/mistake.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I took your umbrella by mistake this morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "funny",
+    "dailyExample": "That funny story made everyone at the table laugh.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three smiling people laugh at the table; the teller gestures and a wordless story balloon shows a silly dog wearing a hat.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pay",
+    "dailyExample": "Can I pay for these apples by card?",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand-held card reaches the reader, then a confirmation lamp appears; apples are visible in the shopping bag.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "old",
+    "dailyExample": "Our old dog sleeps beside the warm kitchen stove.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grey-muzzled dog curls asleep on a rug by the glowing kitchen stove, with subtle chest breathing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "italy",
+    "dailyExample": "We travelled around Italy by train last summer.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Summer hills and Italian village architecture move through a train window; Italian tricolour luggage tag, seamless repeating scenery tile.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "mistake",
+    "dailyExample": "I took your umbrella by mistake this morning.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Red-coated person holds a blue umbrella and touches forehead while blue-coated owner points; red umbrella remains in the hall stand.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

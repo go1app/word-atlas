@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 575,
-  "pending": 6723,
+  "uploaded": 580,
+  "pending": 6718,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "funny",
-    "pay",
-    "old",
-    "italy",
-    "mistake"
+    "repeat",
+    "welcome",
+    "strawberry",
+    "sixteen",
+    "week"
   ],
   "words": [
     {
@@ -7406,27 +7406,67 @@
     {
       "wordId": "funny",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "That funny story made everyone at the table laugh.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/funny.svg",
+      "blobSha": "d7efb95669daf10226d3e429e209e72832cfc556",
+      "visualReview": "Three smiling people laugh at the table; the teller gestures and a wordless story balloon shows a silly dog wearing a hat.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pay",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Can I pay for these apples by card?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pay.svg",
+      "blobSha": "521b0c158c509f038529253b885db3298a322c8f",
+      "visualReview": "Hand-held card reaches the reader, then a confirmation lamp appears; apples are visible in the shopping bag.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "old",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our old dog sleeps beside the warm kitchen stove.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/old.svg",
+      "blobSha": "37f73496ad6e0d34584826b26f12d24c34418c6f",
+      "visualReview": "Grey-muzzled dog curls asleep on a rug by the glowing kitchen stove, with subtle chest breathing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "italy",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We travelled around Italy by train last summer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/italy.svg",
+      "blobSha": "404e2e410e7c1b6268c5fe995dcc9ee01dc95811",
+      "visualReview": "Summer hills and Italian village architecture move through a train window; Italian tricolour luggage tag, seamless repeating scenery tile.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "mistake",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I took your umbrella by mistake this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/mistake.svg",
+      "blobSha": "a27a5437ba72f1e8da73e6079a28a39c4af2ce63",
+      "visualReview": "Red-coated person holds a blue umbrella and touches forehead while blue-coated owner points; red umbrella remains in the hall stand.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "repeat",
