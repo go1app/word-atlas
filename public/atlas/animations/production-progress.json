@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 535,
-  "pending": 6763,
+  "uploaded": 540,
+  "pending": 6758,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "salt",
-    "until",
-    "each",
-    "women",
-    "feeling"
+    "bath",
+    "nine",
+    "twelve",
+    "moment",
+    "want"
   ],
   "words": [
     {
@@ -6886,27 +6886,67 @@
     {
       "wordId": "salt",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please pass the salt before the soup gets cold.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/salt.svg",
+      "blobSha": "f5c2d344607a0053b90a8353c7bcb99ed0554b01",
+      "visualReview": "Salt shaker passes toward an open receiving hand beside a still-warm bowl of soup.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "until",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We waited outside until the rain finally stopped.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/until.svg",
+      "blobSha": "d29a30ddc7ad4dfe6ab887a8c899446ce0b24d8e",
+      "visualReview": "Companions wait under an outdoor shelter until rain fades, then begin to leave as light returns.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "each",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Each child carried a small basket into the garden.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/each.svg",
+      "blobSha": "38913ab5bc4d87a52e9c72ad09a56c5105559faa",
+      "visualReview": "Three children each carry a separate basket toward a garden gate.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "women",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Three women were planting flowers in the shared garden.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/women.svg",
+      "blobSha": "5e8771bee1539db814f25794b7e3fd0cf7bdf0e5",
+      "visualReview": "Three women plant flowers in a shared garden bed, with distinct clothing and kneeling poses.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "feeling",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A feeling of relief washed over me after the exam.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/feeling.svg",
+      "blobSha": "28bd5fbe6d05d1d0a06a32aff2f2f177d8954638",
+      "visualReview": "Relief follows the exam: eyes soften, mouth relaxes and paper and pencil rest on the desk.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bath",

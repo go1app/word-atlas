@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "salt",
+    "dailyExample": "Please pass the salt before the soup gets cold.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Salt shaker passes toward an open receiving hand beside a still-warm bowl of soup.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "until",
+    "dailyExample": "We waited outside until the rain finally stopped.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Companions wait under an outdoor shelter until rain fades, then begin to leave as light returns.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "each",
+    "dailyExample": "Each child carried a small basket into the garden.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three children each carry a separate basket toward a garden gate.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "women",
+    "dailyExample": "Three women were planting flowers in the shared garden.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three women plant flowers in a shared garden bed, with distinct clothing and kneeling poses.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "feeling",
+    "dailyExample": "A feeling of relief washed over me after the exam.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Relief follows the exam: eyes soften, mouth relaxes and paper and pencil rest on the desk.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

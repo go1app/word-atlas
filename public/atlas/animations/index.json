@@ -6422,6 +6422,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "salt",
+      "src": "atlas/animations/salt.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please pass the salt before the soup gets cold.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "until",
+      "src": "atlas/animations/until.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We waited outside until the rain finally stopped.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "each",
+      "src": "atlas/animations/each.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Each child carried a small basket into the garden.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "women",
+      "src": "atlas/animations/women.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Three women were planting flowers in the shared garden.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "feeling",
+      "src": "atlas/animations/feeling.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A feeling of relief washed over me after the exam.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
