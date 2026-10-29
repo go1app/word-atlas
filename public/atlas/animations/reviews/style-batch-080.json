@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "early",
+    "dailyExample": "We caught an early train and arrived before breakfast.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Travelers with cases arrive on a platform in soft dawn light beside an early train.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "these",
+    "dailyExample": "These strawberries smell lovely, so let's buy a basket.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand indicates a basket of fragrant fresh strawberries at the market.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "favourite",
+    "dailyExample": "This little bakery sells my favourite kind of bread.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A distinctive warm seeded round loaf is selected at a small bakery counter.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "adult",
+    "dailyExample": "Children must visit the swimming pool with an adult.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Adult holds a child hand as they approach the pool area together.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "clock",
+    "dailyExample": "The kitchen clock stopped while we were making lunch.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Kitchen clock hand moves briefly then stops while lunch preparation and steam continue.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

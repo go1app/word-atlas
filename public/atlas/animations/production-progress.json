@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 406,
-  "pending": 6892,
+  "uploaded": 411,
+  "pending": 6887,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "early",
-    "these",
-    "favourite",
-    "adult",
-    "clock"
+    "downstairs",
+    "information",
+    "blackboard",
+    "party",
+    "meal"
   ],
   "words": [
     {
@@ -5209,27 +5209,67 @@
     {
       "wordId": "early",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We caught an early train and arrived before breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/early.svg",
+      "blobSha": "05303df8b667f9b329a3d3a7fe00b0d53a3cd712",
+      "visualReview": "Travelers with cases arrive on a platform in soft dawn light beside an early train.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "these",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "These strawberries smell lovely, so let's buy a basket.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/these.svg",
+      "blobSha": "5f3e453daa45ad6b4adb0cc466c4fe61918f3510",
+      "visualReview": "Hand indicates a basket of fragrant fresh strawberries at the market.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "favourite",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This little bakery sells my favourite kind of bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/favourite.svg",
+      "blobSha": "c1a322120d594b9615dcbb6017c951ca88a5a1e6",
+      "visualReview": "A distinctive warm seeded round loaf is selected at a small bakery counter.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "adult",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Children must visit the swimming pool with an adult.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/adult.svg",
+      "blobSha": "9c71f71db555a233bca054d9980bc73978038bd7",
+      "visualReview": "Adult holds a child hand as they approach the pool area together.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "clock",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The kitchen clock stopped while we were making lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/clock.svg",
+      "blobSha": "0afcddd650a29eadf6b9c46b1218e7ff07c6b01f",
+      "visualReview": "Kitchen clock hand moves briefly then stops while lunch preparation and steam continue.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "downstairs",

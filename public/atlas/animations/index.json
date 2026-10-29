@@ -4850,6 +4850,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "early",
+      "src": "atlas/animations/early.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We caught an early train and arrived before breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "these",
+      "src": "atlas/animations/these.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "These strawberries smell lovely, so let's buy a basket.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "favourite",
+      "src": "atlas/animations/favourite.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This little bakery sells my favourite kind of bread.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "adult",
+      "src": "atlas/animations/adult.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Children must visit the swimming pool with an adult.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "clock",
+      "src": "atlas/animations/clock.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The kitchen clock stopped while we were making lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
