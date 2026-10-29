@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "eighteen",
+    "dailyExample": "We baked eighteen muffins for the picnic this morning.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exactly eighteen muffins arranged as three rows of six on a tray beside a picnic basket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "time",
+    "dailyExample": "We still have time for a walk before dinner.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Companions stand ready for a walk beside an open door, with a clock and covered dinner dish establishing available time.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "company",
+    "dailyExample": "My sister works for a company that makes bicycles.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Worker assembles bicycles in a small factory workshop, with tools and an assembled bike.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bathroom",
+    "dailyExample": "She hung a clean towel beside the bathroom sink.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A hand releases a clean towel onto the rail beside a bathroom sink and mirror.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dance",
+    "dailyExample": "We danced in the kitchen while dinner was cooking.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two figures sway in a kitchen while soup cooks; arm poses replace default arms and rotation pivots near feet.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

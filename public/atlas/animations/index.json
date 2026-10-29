@@ -4310,6 +4310,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "eighteen",
+      "src": "atlas/animations/eighteen.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We baked eighteen muffins for the picnic this morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "time",
+      "src": "atlas/animations/time.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We still have time for a walk before dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "company",
+      "src": "atlas/animations/company.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My sister works for a company that makes bicycles.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bathroom",
+      "src": "atlas/animations/bathroom.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She hung a clean towel beside the bathroom sink.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "dance",
+      "src": "atlas/animations/dance.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We danced in the kitchen while dinner was cooking.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

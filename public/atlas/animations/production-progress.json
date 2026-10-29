@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 361,
-  "pending": 6937,
+  "uploaded": 366,
+  "pending": 6932,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "eighteen",
-    "time",
-    "company",
-    "bathroom",
-    "dance"
+    "favorite",
+    "tea",
+    "change",
+    "australia",
+    "ready"
   ],
   "words": [
     {
@@ -4624,27 +4624,67 @@
     {
       "wordId": "eighteen",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We baked eighteen muffins for the picnic this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/eighteen.svg",
+      "blobSha": "0b6324a552d1f385d5bf0c18af347674f538fbe6",
+      "visualReview": "Exactly eighteen muffins arranged as three rows of six on a tray beside a picnic basket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "time",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We still have time for a walk before dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/time.svg",
+      "blobSha": "653f8876883084c28773d6e30e24fc9360405c66",
+      "visualReview": "Companions stand ready for a walk beside an open door, with a clock and covered dinner dish establishing available time.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "company",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister works for a company that makes bicycles.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/company.svg",
+      "blobSha": "ceab1d6b187ad25966f1d6f207dfa4f7aa090440",
+      "visualReview": "Worker assembles bicycles in a small factory workshop, with tools and an assembled bike.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bathroom",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She hung a clean towel beside the bathroom sink.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bathroom.svg",
+      "blobSha": "852c521caa53920fc15320cdb7637dcdc57e4887",
+      "visualReview": "A hand releases a clean towel onto the rail beside a bathroom sink and mirror.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dance",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We danced in the kitchen while dinner was cooking.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dance.svg",
+      "blobSha": "8512eaa95875ada046fd4804f296727c6b0c3e25",
+      "visualReview": "Two figures sway in a kitchen while soup cooks; arm poses replace default arms and rotation pivots near feet.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "favorite",
