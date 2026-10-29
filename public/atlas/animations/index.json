@@ -7337,6 +7337,66 @@
       ],
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "win",
+      "src": "atlas/animations/win.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our team won the match despite the heavy rain.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "grow",
+      "src": "atlas/animations/grow.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We grow fresh herbs in pots beside the kitchen window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "box",
+      "src": "atlas/animations/box.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The kitten fell asleep inside an empty cardboard box.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fun",
+      "src": "atlas/animations/fun.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We had so much fun building sandcastles together yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "beard",
+      "src": "atlas/animations/beard.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "He trimmed his beard before leaving for work.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

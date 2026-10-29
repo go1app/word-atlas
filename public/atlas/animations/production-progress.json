@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 610,
-  "pending": 6688,
+  "uploaded": 615,
+  "pending": 6683,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "win",
-    "grow",
-    "box",
-    "fun",
-    "beard"
+    "wet",
+    "money",
+    "agree",
+    "now",
+    "real"
   ],
   "words": [
     {
@@ -7861,27 +7861,67 @@
     {
       "wordId": "win",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our team won the match despite the heavy rain.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/win.svg",
+      "blobSha": "2a168a0070a69311e62ddc7051d3614ddbcb9fb6",
+      "visualReview": "Matching football team raises a trophy on a rain-soaked pitch; hands track trophy lift, with goal and ball visible.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "grow",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We grow fresh herbs in pots beside the kitchen window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/grow.svg",
+      "blobSha": "44998cf04627d0a0cc1ec4d0755dc1297c0e6548",
+      "visualReview": "Basil, mint and rosemary grow in kitchen-window pots; can tips and stream reaches rosemary soil after spout aligns. Reviewed can before pouring and at the aligned pouring position.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "box",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The kitten fell asleep inside an empty cardboard box.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/box.svg",
+      "blobSha": "7f0899ebd25d7d10260cbfc23cad47ad47a4a254",
+      "visualReview": "Kitten sleeps inside an empty open cardboard box; front faces correctly occlude lower body, with gentle anchored breathing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "fun",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We had so much fun building sandcastles together yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/fun.svg",
+      "blobSha": "a14927b05d1d5f2ce5039a673b15727bcd0eb578",
+      "visualReview": "Two smiling children kneel together at a sandcastle with shovel, flag, bucket and moat. Shovel rotates about held grip.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "beard",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He trimmed his beard before leaving for work.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/beard.svg",
+      "blobSha": "afc388edcb72836bf7380b357a770cffa4492228",
+      "visualReview": "Electric trimmer and hand follow beard edge in mirror; beard shortens subtly after pass, work bag and tie establish departure context. Added visible neck and reshaped shirt neckline to eliminate floating-head gap; inspected tool position at early and late pass.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wet",

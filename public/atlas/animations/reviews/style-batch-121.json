@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "win",
+    "dailyExample": "Our team won the match despite the heavy rain.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Matching football team raises a trophy on a rain-soaked pitch; hands track trophy lift, with goal and ball visible.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "grow",
+    "dailyExample": "We grow fresh herbs in pots beside the kitchen window.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Basil, mint and rosemary grow in kitchen-window pots; can tips and stream reaches rosemary soil after spout aligns. Reviewed can before pouring and at the aligned pouring position.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "box",
+    "dailyExample": "The kitten fell asleep inside an empty cardboard box.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Kitten sleeps inside an empty open cardboard box; front faces correctly occlude lower body, with gentle anchored breathing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fun",
+    "dailyExample": "We had so much fun building sandcastles together yesterday.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two smiling children kneel together at a sandcastle with shovel, flag, bucket and moat. Shovel rotates about held grip.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "beard",
+    "dailyExample": "He trimmed his beard before leaving for work.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Electric trimmer and hand follow beard edge in mirror; beard shortens subtly after pass, work bag and tie establish departure context. Added visible neck and reshaped shirt neckline to eliminate floating-head gap; inspected tool position at early and late pass.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
