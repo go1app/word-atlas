@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 635,
-  "pending": 6663,
+  "uploaded": 640,
+  "pending": 6658,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "milk",
-    "and",
-    "most",
-    "story",
-    "other"
+    "apple",
+    "chinese",
+    "air",
+    "because",
+    "team"
   ],
   "words": [
     {
@@ -8186,27 +8186,67 @@
     {
       "wordId": "milk",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I poured some cold milk over my cereal.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/milk.svg",
+      "blobSha": "8b285b9a43ac950506e0ac0bbbb32ed069cb59ed",
+      "visualReview": "Cold carton with condensation tips over cereal; hand and carton rotate together, milk stream appears at tipped spout and fills bowl. Corrected stream origin to the rotated carton spout; reviewed pre-pour and pouring frames.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "and",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I bought fresh bread and cheese for our picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/and.svg",
+      "blobSha": "31f07d6a6d451e80ffdb1a3556db62ed16c18a81",
+      "visualReview": "Picnic basket contains fresh bread and cheese, with folded picnic cloth; cheese lowers alongside already packed loaf.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "most",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Most shops here close before we finish work.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/most.svg",
+      "blobSha": "a21502257e076fb78f90b1fcde160f141c8197ef",
+      "visualReview": "Four of five shop shutters close while office workers are still at desks above; clock and remaining open shop show the comparison.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "story",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Grandma told us a funny story about her childhood.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/story.svg",
+      "blobSha": "3ba8f279f776b8da2b45a3a138ca599e315bfce1",
+      "visualReview": "Grandma gestures to smiling children; wordless memory balloon depicts funny childhood oversized boots and duck.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "other",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This shoe fits, but where is the other one?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/other.svg",
+      "blobSha": "cba37ad031e975551d55e0a7573cada45aaefd42",
+      "visualReview": "One shoe worn and other foot socked; child scans for partner, partly visible in shadow beneath cabinet. Extended cabinet plinth occlusion to partly hide the missing shoe rather than leaving it fully visible.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "apple",

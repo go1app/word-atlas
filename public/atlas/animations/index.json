@@ -7637,6 +7637,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "milk",
+      "src": "atlas/animations/milk.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I poured some cold milk over my cereal.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "and",
+      "src": "atlas/animations/and.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I bought fresh bread and cheese for our picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "most",
+      "src": "atlas/animations/most.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Most shops here close before we finish work.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "story",
+      "src": "atlas/animations/story.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Grandma told us a funny story about her childhood.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "other",
+      "src": "atlas/animations/other.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This shoe fits, but where is the other one?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

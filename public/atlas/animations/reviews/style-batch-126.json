@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "milk",
+    "dailyExample": "I poured some cold milk over my cereal.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cold carton with condensation tips over cereal; hand and carton rotate together, milk stream appears at tipped spout and fills bowl. Corrected stream origin to the rotated carton spout; reviewed pre-pour and pouring frames.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "and",
+    "dailyExample": "I bought fresh bread and cheese for our picnic.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Picnic basket contains fresh bread and cheese, with folded picnic cloth; cheese lowers alongside already packed loaf.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "most",
+    "dailyExample": "Most shops here close before we finish work.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Four of five shop shutters close while office workers are still at desks above; clock and remaining open shop show the comparison.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "story",
+    "dailyExample": "Grandma told us a funny story about her childhood.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grandma gestures to smiling children; wordless memory balloon depicts funny childhood oversized boots and duck.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "other",
+    "dailyExample": "This shoe fits, but where is the other one?",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One shoe worn and other foot socked; child scans for partner, partly visible in shadow beneath cabinet. Extended cabinet plinth occlusion to partly hide the missing shoe rather than leaving it fully visible.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
