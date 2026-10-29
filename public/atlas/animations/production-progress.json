@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 366,
-  "pending": 6932,
+  "uploaded": 371,
+  "pending": 6927,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "favorite",
-    "tea",
-    "change",
-    "australia",
-    "ready"
+    "idea",
+    "draw",
+    "down",
+    "machine",
+    "get"
   ],
   "words": [
     {
@@ -4689,27 +4689,67 @@
     {
       "wordId": "favorite",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This blue sweater is my favorite winter item.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/favorite.svg",
+      "blobSha": "5b7cee18a4069736184b59045147a8310c085bca",
+      "visualReview": "Blue sweater cradled by two hands in a winter room, with knit ribs and soft snowy window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "tea",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I made a pot of tea while you rested.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/tea.svg",
+      "blobSha": "546a0232fe5ec43ba46a19371c5e5d42256077bd",
+      "visualReview": "Teapot steams on a table while a companion rests with closed eyes in an armchair.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "change",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We changed our plans when the rain started falling.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/change.svg",
+      "blobSha": "4bb48699f0fb517324c2a92046e116e9a177c485",
+      "visualReview": "Rain at the window contrasts with picnic basket and food moved to the indoor table.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "australia",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin moved to Australia to study marine biology.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/australia.svg",
+      "blobSha": "042adabae7ad079b44302ac71ec87c28df998330",
+      "visualReview": "Marine-biology student beside an aquarium, Australia map and travel case establishes study after moving.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "ready",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Dinner is ready, so please bring your plate.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/ready.svg",
+      "blobSha": "0c91405ff7ef05ea103dd172a74c091ae5a1251a",
+      "visualReview": "Person brings an empty plate to steaming ready-to-serve dinner dishes.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "idea",

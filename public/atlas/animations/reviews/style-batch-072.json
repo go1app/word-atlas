@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "favorite",
+    "dailyExample": "This blue sweater is my favorite winter item.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Blue sweater cradled by two hands in a winter room, with knit ribs and soft snowy window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "tea",
+    "dailyExample": "I made a pot of tea while you rested.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Teapot steams on a table while a companion rests with closed eyes in an armchair.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "change",
+    "dailyExample": "We changed our plans when the rain started falling.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rain at the window contrasts with picnic basket and food moved to the indoor table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "australia",
+    "dailyExample": "My cousin moved to Australia to study marine biology.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Marine-biology student beside an aquarium, Australia map and travel case establishes study after moving.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "ready",
+    "dailyExample": "Dinner is ready, so please bring your plate.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person brings an empty plate to steaming ready-to-serve dinner dishes.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
