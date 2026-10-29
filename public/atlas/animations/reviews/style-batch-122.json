@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "wet",
+    "dailyExample": "My socks got wet when I stepped in a puddle.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sock-clad foot steps into a puddle; damp colour appears after contact and water ripples respond. Inspected pre-contact raised foot and wet state after contact.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "money",
+    "dailyExample": "I saved enough money to buy a new bicycle.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child adds final coin to a full savings jar, with counted coin stacks and a clean new bicycle behind.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "agree",
+    "dailyExample": "I agree with you that this soup needs salt.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One person offers salt for soup while the other tastes and nods, with head isolated so feet stay fixed.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "now",
+    "dailyExample": "We live near the station now, so walking is easy.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Current home beside station, moving boxes and short linking footpath; walker crosses toward station. Replaced generic window with explicit train front, headlights, wheels and short approach rails.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "real",
+    "dailyExample": "I thought the bird was plastic, but it was real.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bird first sits motionless like an ornament, then flaps and flies from fence, revealing that it is real. Added foot retraction during take-off; inspected perched and airborne states.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

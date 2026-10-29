@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 615,
-  "pending": 6683,
+  "uploaded": 620,
+  "pending": 6678,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "wet",
-    "money",
-    "agree",
-    "now",
-    "real"
+    "someone",
+    "hear",
+    "please",
+    "hard",
+    "terrible"
   ],
   "words": [
     {
@@ -7926,27 +7926,67 @@
     {
       "wordId": "wet",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My socks got wet when I stepped in a puddle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wet.svg",
+      "blobSha": "892dc2d9611c6ba6a39a5e37146b268e134016f6",
+      "visualReview": "Sock-clad foot steps into a puddle; damp colour appears after contact and water ripples respond. Inspected pre-contact raised foot and wet state after contact.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "money",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I saved enough money to buy a new bicycle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/money.svg",
+      "blobSha": "036de09821063bd0e1828c269b61b7fe6ba08f10",
+      "visualReview": "Child adds final coin to a full savings jar, with counted coin stacks and a clean new bicycle behind.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "agree",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I agree with you that this soup needs salt.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/agree.svg",
+      "blobSha": "d5c322a1371435e68caea60adfc46e82456653d9",
+      "visualReview": "One person offers salt for soup while the other tastes and nods, with head isolated so feet stay fixed.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "now",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We live near the station now, so walking is easy.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/now.svg",
+      "blobSha": "1e3667bd97c1805e19010f1cb25281a2106713a1",
+      "visualReview": "Current home beside station, moving boxes and short linking footpath; walker crosses toward station. Replaced generic window with explicit train front, headlights, wheels and short approach rails.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "real",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I thought the bird was plastic, but it was real.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/real.svg",
+      "blobSha": "7d92c231f24b2123e0572769a36fa253bd50d00a",
+      "visualReview": "Bird first sits motionless like an ornament, then flaps and flies from fence, revealing that it is real. Added foot retraction during take-off; inspected perched and airborne states.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "someone",

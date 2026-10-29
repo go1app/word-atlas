@@ -7397,6 +7397,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "wet",
+      "src": "atlas/animations/wet.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My socks got wet when I stepped in a puddle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "money",
+      "src": "atlas/animations/money.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I saved enough money to buy a new bicycle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "agree",
+      "src": "atlas/animations/agree.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I agree with you that this soup needs salt.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "now",
+      "src": "atlas/animations/now.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We live near the station now, so walking is easy.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "real",
+      "src": "atlas/animations/real.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I thought the bird was plastic, but it was real.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
