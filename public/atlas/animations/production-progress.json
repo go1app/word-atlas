@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 436,
-  "pending": 6862,
+  "uploaded": 441,
+  "pending": 6857,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "begin",
-    "enough",
-    "class",
-    "few",
-    "country"
+    "understand",
+    "die",
+    "april",
+    "with",
+    "plate"
   ],
   "words": [
     {
@@ -5599,27 +5599,67 @@
     {
       "wordId": "begin",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We begin dinner when everyone is sitting at the table.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/begin.svg",
+      "blobSha": "c541221821aecf99472b9e11503ef4f5513c2eb4",
+      "visualReview": "Family begins dinner after the last diner settles into the chair, then reaching hands appear.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "enough",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We have enough rice to feed everyone tonight.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/enough.svg",
+      "blobSha": "2016b84ebb2d0a94dff9ea774d0c57594e14f8fc",
+      "visualReview": "A full rice pot and four filled bowls show sufficient dinner for every place setting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "class",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our class is learning how to grow vegetables.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/class.svg",
+      "blobSha": "7afbde36dca9579717f75342ea26c36d552a7869",
+      "visualReview": "Teacher demonstrates a seedling while pupils learn gardening beside planted vegetable rows.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "few",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "There were few customers in the shop this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/few.svg",
+      "blobSha": "eb75fdd806c89ecb33f1be26c745b7139c096c8d",
+      "visualReview": "Morning shop has a broad empty floor, one browsing customer and an attendant.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "country",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She hopes to visit another country next summer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/country.svg",
+      "blobSha": "a49ba871307b69810c667c14fd341641abd90512",
+      "visualReview": "Hopeful traveler studies a route between two land regions with passport and summer travel case nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "understand",

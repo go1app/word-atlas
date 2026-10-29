@@ -5210,6 +5210,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "begin",
+      "src": "atlas/animations/begin.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We begin dinner when everyone is sitting at the table.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "enough",
+      "src": "atlas/animations/enough.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We have enough rice to feed everyone tonight.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "class",
+      "src": "atlas/animations/class.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our class is learning how to grow vegetables.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "few",
+      "src": "atlas/animations/few.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There were few customers in the shop this morning.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "country",
+      "src": "atlas/animations/country.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She hopes to visit another country next summer.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

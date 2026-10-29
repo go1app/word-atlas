@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "begin",
+    "dailyExample": "We begin dinner when everyone is sitting at the table.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Family begins dinner after the last diner settles into the chair, then reaching hands appear.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "enough",
+    "dailyExample": "We have enough rice to feed everyone tonight.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A full rice pot and four filled bowls show sufficient dinner for every place setting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "class",
+    "dailyExample": "Our class is learning how to grow vegetables.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Teacher demonstrates a seedling while pupils learn gardening beside planted vegetable rows.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "few",
+    "dailyExample": "There were few customers in the shop this morning.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Morning shop has a broad empty floor, one browsing customer and an attendant.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "country",
+    "dailyExample": "She hopes to visit another country next summer.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hopeful traveler studies a route between two land regions with passport and summer travel case nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
