@@ -4430,6 +4430,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "idea",
+      "src": "atlas/animations/idea.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Your idea of growing herbs on the balcony sounds lovely.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "draw",
+      "src": "atlas/animations/draw.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She drew a sleeping cat in her sketchbook.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "down",
+      "src": "atlas/animations/down.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The cat jumped down from the kitchen table.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "machine",
+      "src": "atlas/animations/machine.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The washing machine shook loudly during its final spin.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "get",
+      "src": "atlas/animations/get.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I got a warm scarf for my birthday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "idea",
+    "dailyExample": "Your idea of growing herbs on the balcony sounds lovely.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Balcony herb planter and two companions discussing the gardening idea, with subtle realization rays.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "draw",
+    "dailyExample": "She drew a sleeping cat in her sketchbook.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pencil hand draws an outlined sleeping cat in a sketchbook; drawing becomes clearer over the loop.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "down",
+    "dailyExample": "The cat jumped down from the kitchen table.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Cat launches from the kitchen table, arcs down to the floor, settles and fades before reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "machine",
+    "dailyExample": "The washing machine shook loudly during its final spin.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Washer casing shakes gently while its visible drum spins; nearby basket stays stationary.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "get",
+    "dailyExample": "I got a warm scarf for my birthday.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Birthday recipient and giver hold a warm scarf above an opened gift box beneath bunting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

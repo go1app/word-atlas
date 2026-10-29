@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 371,
-  "pending": 6927,
+  "uploaded": 376,
+  "pending": 6922,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "idea",
-    "draw",
-    "down",
-    "machine",
-    "get"
+    "but",
+    "red",
+    "conversation",
+    "dinner",
+    "bring"
   ],
   "words": [
     {
@@ -4754,27 +4754,67 @@
     {
       "wordId": "idea",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Your idea of growing herbs on the balcony sounds lovely.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/idea.svg",
+      "blobSha": "40a913cd0ee7f79f589a83b23d11e7f98ee45dad",
+      "visualReview": "Balcony herb planter and two companions discussing the gardening idea, with subtle realization rays.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "draw",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She drew a sleeping cat in her sketchbook.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/draw.svg",
+      "blobSha": "b9e87ca2e4678d639a59e41cad5eac13c9c62999",
+      "visualReview": "Pencil hand draws an outlined sleeping cat in a sketchbook; drawing becomes clearer over the loop.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "down",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The cat jumped down from the kitchen table.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/down.svg",
+      "blobSha": "ed9e27c9105881441178dc728fa16050bfaaab79",
+      "visualReview": "Cat launches from the kitchen table, arcs down to the floor, settles and fades before reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "machine",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The washing machine shook loudly during its final spin.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/machine.svg",
+      "blobSha": "86b0fc9a6b6732a2a879646c39dd5e70d0dc6e1b",
+      "visualReview": "Washer casing shakes gently while its visible drum spins; nearby basket stays stationary.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "get",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I got a warm scarf for my birthday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/get.svg",
+      "blobSha": "85d2e8f79f6a44bee587b07bc51bdd3d08d6f885",
+      "visualReview": "Birthday recipient and giver hold a warm scarf above an opened gift box beneath bunting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "but",
