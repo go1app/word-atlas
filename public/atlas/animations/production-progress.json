@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 520,
-  "pending": 6778,
+  "uploaded": 525,
+  "pending": 6773,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "monday",
-    "sweden",
-    "else",
-    "portugal",
-    "in"
+    "top",
+    "purple",
+    "bottle",
+    "june",
+    "turn"
   ],
   "words": [
     {
@@ -6691,27 +6691,67 @@
     {
       "wordId": "monday",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually buy fresh fruit at the market on Monday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/monday.svg",
+      "blobSha": "c19bab5b3f23832cd1292295630f6ab327572bea",
+      "visualReview": "Hand buys fruit at a fresh market, first weekday dot highlighted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sweden",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We travelled through Sweden by train last summer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sweden.svg",
+      "blobSha": "aef82dee420f3d693636c619e4cc83b6575a9b35",
+      "visualReview": "Summer lake and pine forest through train windows, with Swedish blue-yellow cross flag and travel bag.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "else",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Would you like anything else with your soup?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/else.svg",
+      "blobSha": "28efceda08eb5dea9b2b992dd3c27a12a2e69733",
+      "visualReview": "Bread and salad are offered as additional choices beside a warm bowl of soup.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "portugal",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We travelled along the coast of Portugal by train.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/portugal.svg",
+      "blobSha": "45383042059d770de52794e50ad3dce7a3608d2e",
+      "visualReview": "Coastal train window shows sea and white cliff houses, Portuguese flag and blue tile border.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "in",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Your keys are in the bowl beside the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/in.svg",
+      "blobSha": "373c9814bca38f026aa8a0921b639db5ce68e750",
+      "visualReview": "Two key rings and upper shafts sit inside bowl beside a door; bowl front occludes lower portions.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "top",

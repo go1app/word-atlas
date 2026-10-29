@@ -6242,6 +6242,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "monday",
+      "src": "atlas/animations/monday.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We usually buy fresh fruit at the market on Monday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "sweden",
+      "src": "atlas/animations/sweden.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We travelled through Sweden by train last summer.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "else",
+      "src": "atlas/animations/else.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Would you like anything else with your soup?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "portugal",
+      "src": "atlas/animations/portugal.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We travelled along the coast of Portugal by train.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "in",
+      "src": "atlas/animations/in.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Your keys are in the bowl beside the door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
