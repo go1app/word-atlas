@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "much",
+    "dailyExample": "We do not have much milk left for breakfast.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Only a shallow layer of milk remains in the bottle beside breakfast cereal.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "learn",
+    "dailyExample": "My grandfather is learning to swim at the local pool.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grandfather practices swimming with a kickboard in a shallow supervised pool.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "south",
+    "dailyExample": "Our balcony faces south and gets plenty of sunshine.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Balcony is flooded by warm sunlight, with a small compass pictogram showing the south-facing setting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "can",
+    "dailyExample": "I can carry both bags if you open the door.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person carries two bags while a companion holds the doorway open.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hey",
+    "dailyExample": "Hey, you left your umbrella beside the door!",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person calls to a departing companion and points back toward the forgotten umbrella beside the door.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 396,
-  "pending": 6902,
+  "uploaded": 401,
+  "pending": 6897,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "much",
-    "learn",
-    "south",
-    "can",
-    "hey"
+    "cola",
+    "shower",
+    "tree",
+    "build",
+    "man"
   ],
   "words": [
     {
@@ -5079,27 +5079,67 @@
     {
       "wordId": "much",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We do not have much milk left for breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/much.svg",
+      "blobSha": "b5039d55d615d58196e36d79d8130cec96c8a4a9",
+      "visualReview": "Only a shallow layer of milk remains in the bottle beside breakfast cereal.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "learn",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My grandfather is learning to swim at the local pool.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/learn.svg",
+      "blobSha": "ccba038619bd2c1a4d9c5e6704950f90c2ebffce",
+      "visualReview": "Grandfather practices swimming with a kickboard in a shallow supervised pool.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "south",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our balcony faces south and gets plenty of sunshine.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/south.svg",
+      "blobSha": "2ac038fa30637237ca2440e432b419ec30f70e3f",
+      "visualReview": "Balcony is flooded by warm sunlight, with a small compass pictogram showing the south-facing setting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "can",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I can carry both bags if you open the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/can.svg",
+      "blobSha": "b67b0e15f0c4e70961068c573e951cf51e8d6691",
+      "visualReview": "Person carries two bags while a companion holds the doorway open.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hey",
       "chunk": 3,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Hey, you left your umbrella beside the door!",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hey.svg",
+      "blobSha": "f47ecbea419658204f9a23ac56755b3ad8b8bf63",
+      "visualReview": "Person calls to a departing companion and points back toward the forgotten umbrella beside the door.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cola",

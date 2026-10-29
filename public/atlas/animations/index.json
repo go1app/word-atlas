@@ -4730,6 +4730,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "much",
+      "src": "atlas/animations/much.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We do not have much milk left for breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "learn",
+      "src": "atlas/animations/learn.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My grandfather is learning to swim at the local pool.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "south",
+      "src": "atlas/animations/south.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our balcony faces south and gets plenty of sunshine.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "can",
+      "src": "atlas/animations/can.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I can carry both bags if you open the door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hey",
+      "src": "atlas/animations/hey.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Hey, you left your umbrella beside the door!",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
