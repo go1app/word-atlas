@@ -6662,6 +6662,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "flat",
+      "src": "atlas/animations/flat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We rent a small flat above a busy bakery.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "glasses",
+      "src": "atlas/animations/glasses.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I left my glasses beside the bed last night.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "special",
+      "src": "atlas/animations/special.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We saved this special cake for your birthday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "plant",
+      "src": "atlas/animations/plant.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This little plant needs more sunlight and less water.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "meat",
+      "src": "atlas/animations/meat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We keep raw meat separate from vegetables in the fridge.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

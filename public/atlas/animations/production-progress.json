@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 555,
-  "pending": 6743,
+  "uploaded": 560,
+  "pending": 6738,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "flat",
-    "glasses",
-    "special",
-    "plant",
-    "meat"
+    "swimming",
+    "grass",
+    "teach",
+    "switzerland",
+    "carry"
   ],
   "words": [
     {
@@ -7146,27 +7146,67 @@
     {
       "wordId": "flat",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We rent a small flat above a busy bakery.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/flat.svg",
+      "blobSha": "9f94de71a22d9e30c03aed4084af8c60eef1856e",
+      "visualReview": "Small upstairs home window sits above a busy bakery with three customers waiting below.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "glasses",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I left my glasses beside the bed last night.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/glasses.svg",
+      "blobSha": "3a9654226b1c93a0066ac158838e5a23dad434b2",
+      "visualReview": "Reading glasses rest on the bedside table beside lamp and book, with bed in the background.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "special",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We saved this special cake for your birthday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/special.svg",
+      "blobSha": "eaeb00321edf8fec65c7b2201b54c4e767ec4609",
+      "visualReview": "A carefully decorated birthday cake is saved under a dome beside wrapped gift and bunting.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "plant",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This little plant needs more sunlight and less water.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/plant.svg",
+      "blobSha": "07a8dac57e2817f916f97547792e5dcb868ef58d",
+      "visualReview": "Plant moves toward sunlit window while watering can stays unused on the shaded side.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "meat",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We keep raw meat separate from vegetables in the fridge.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/meat.svg",
+      "blobSha": "d08854ef63026e4c212fb7ce523885b7eb8a0be6",
+      "visualReview": "Raw meat is kept in a closed lower container, separated from vegetables on an upper fridge shelf.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "swimming",

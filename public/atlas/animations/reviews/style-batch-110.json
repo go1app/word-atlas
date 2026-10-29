@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "flat",
+    "dailyExample": "We rent a small flat above a busy bakery.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small upstairs home window sits above a busy bakery with three customers waiting below.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "glasses",
+    "dailyExample": "I left my glasses beside the bed last night.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Reading glasses rest on the bedside table beside lamp and book, with bed in the background.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "special",
+    "dailyExample": "We saved this special cake for your birthday.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A carefully decorated birthday cake is saved under a dome beside wrapped gift and bunting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "plant",
+    "dailyExample": "This little plant needs more sunlight and less water.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Plant moves toward sunlit window while watering can stays unused on the shaded side.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "meat",
+    "dailyExample": "We keep raw meat separate from vegetables in the fridge.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Raw meat is kept in a closed lower container, separated from vegetables on an upper fridge shelf.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
