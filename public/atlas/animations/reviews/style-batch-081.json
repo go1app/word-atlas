@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "downstairs",
+    "dailyExample": "I went downstairs when I smelled fresh bread.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person descends stairs toward warm bread below, then fades before the upward reset.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "information",
+    "dailyExample": "The receptionist gave us useful information about local buses.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Receptionist passes a pictorial bus brochure across the desk beside a local route map.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "blackboard",
+    "dailyExample": "Our teacher drew a huge circle on the blackboard.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Teacher chalk draws a huge circle on a blackboard with synchronized hand movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "party",
+    "dailyExample": "We held a small party in the garden yesterday.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Garden party has bunting, a small cake and companions raising cups.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "meal",
+    "dailyExample": "Dad cooked a warm meal after our long walk.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Father prepares a steaming warm meal with walking pack and shoes set aside after a long walk.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

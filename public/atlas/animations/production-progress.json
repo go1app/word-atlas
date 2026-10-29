@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 411,
-  "pending": 6887,
+  "uploaded": 416,
+  "pending": 6882,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "downstairs",
-    "information",
-    "blackboard",
-    "party",
-    "meal"
+    "chair",
+    "never",
+    "middle",
+    "cool",
+    "september"
   ],
   "words": [
     {
@@ -5274,27 +5274,67 @@
     {
       "wordId": "downstairs",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I went downstairs when I smelled fresh bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/downstairs.svg",
+      "blobSha": "d3125acd449ab7a6784c481df1aab3d8b8d473ed",
+      "visualReview": "Person descends stairs toward warm bread below, then fades before the upward reset.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "information",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The receptionist gave us useful information about local buses.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/information.svg",
+      "blobSha": "30d391c69eb8787f4478ecbe9130f096970acc62",
+      "visualReview": "Receptionist passes a pictorial bus brochure across the desk beside a local route map.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "blackboard",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our teacher drew a huge circle on the blackboard.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/blackboard.svg",
+      "blobSha": "5f2f51ae2a0b66cb60bf8ccb68539174ed24edd3",
+      "visualReview": "Teacher chalk draws a huge circle on a blackboard with synchronized hand movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "party",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We held a small party in the garden yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/party.svg",
+      "blobSha": "e6d588e6caf595c865baa4c9cd0a80d830ad383e",
+      "visualReview": "Garden party has bunting, a small cake and companions raising cups.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "meal",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Dad cooked a warm meal after our long walk.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/meal.svg",
+      "blobSha": "39c1662f248d8eb4cbe24661aaa0f2e7b1b9103a",
+      "visualReview": "Father prepares a steaming warm meal with walking pack and shoes set aside after a long walk.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "chair",

@@ -4910,6 +4910,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "downstairs",
+      "src": "atlas/animations/downstairs.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I went downstairs when I smelled fresh bread.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "information",
+      "src": "atlas/animations/information.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The receptionist gave us useful information about local buses.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "blackboard",
+      "src": "atlas/animations/blackboard.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our teacher drew a huge circle on the blackboard.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "party",
+      "src": "atlas/animations/party.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We held a small party in the garden yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "meal",
+      "src": "atlas/animations/meal.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Dad cooked a warm meal after our long walk.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
