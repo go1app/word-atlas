@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "help",
+    "dailyExample": "Could you help me carry these bags upstairs?",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people share the weight of a bag on the stairs, with another bag carried beside them.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "high",
+    "dailyExample": "The shelf is too high for me to reach.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Raised hand reaches toward an overhead shelf but stops clearly short.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "soup",
+    "dailyExample": "She warmed her hands around a bowl of soup.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two hands cup the sides of a steaming soup bowl in a winter room.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "choose",
+    "dailyExample": "You can choose a seat beside the window.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Hand indicates the available chair next to the sunlit window, beside another seating option.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "movie",
+    "dailyExample": "We watched a funny movie after dinner last night.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two relaxed viewers watch a comic cat on television after dinner, with empty plates nearby.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

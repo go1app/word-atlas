@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 451,
-  "pending": 6847,
+  "uploaded": 456,
+  "pending": 6842,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "help",
-    "high",
-    "soup",
-    "choose",
-    "movie"
+    "believe",
+    "train",
+    "paper",
+    "if",
+    "big"
   ],
   "words": [
     {
@@ -5794,27 +5794,67 @@
     {
       "wordId": "help",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you help me carry these bags upstairs?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/help.svg",
+      "blobSha": "db1bdf019c42e2b858227d075e90934c50340823",
+      "visualReview": "Two people share the weight of a bag on the stairs, with another bag carried beside them.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "high",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The shelf is too high for me to reach.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/high.svg",
+      "blobSha": "e881364bb39c6fcf360b2f98181b7e54caafb607",
+      "visualReview": "Raised hand reaches toward an overhead shelf but stops clearly short.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "soup",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She warmed her hands around a bowl of soup.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/soup.svg",
+      "blobSha": "69e761be18259ae39976359b47df45b2908a6f50",
+      "visualReview": "Two hands cup the sides of a steaming soup bowl in a winter room.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "choose",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "You can choose a seat beside the window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/choose.svg",
+      "blobSha": "5b175f9bb7b8254c6961347709bbfc92c42813af",
+      "visualReview": "Hand indicates the available chair next to the sunlit window, beside another seating option.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "movie",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We watched a funny movie after dinner last night.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/movie.svg",
+      "blobSha": "5a8050399c0209ec1b8ad360f234b80726cdc638",
+      "visualReview": "Two relaxed viewers watch a comic cat on television after dinner, with empty plates nearby.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "believe",

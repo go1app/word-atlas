@@ -5390,6 +5390,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "help",
+      "src": "atlas/animations/help.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could you help me carry these bags upstairs?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "high",
+      "src": "atlas/animations/high.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The shelf is too high for me to reach.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "soup",
+      "src": "atlas/animations/soup.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She warmed her hands around a bowl of soup.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "choose",
+      "src": "atlas/animations/choose.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "You can choose a seat beside the window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "movie",
+      "src": "atlas/animations/movie.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We watched a funny movie after dinner last night.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
