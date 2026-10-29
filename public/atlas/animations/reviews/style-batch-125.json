@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "game",
+    "dailyExample": "We played a board game after dinner yesterday.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "After-dinner overhead board game with cleared plates, dice and cards; hand advances a pawn two track spaces.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "single",
+    "dailyExample": "A single candle lit the room during the power cut.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exactly one candle lights the dark room, pendant unlit; soft radial halo and gently changing flame. Added neck connection to strengthen the head-to-shirt join. Inspected corrected scene at 2 and 5 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "park",
+    "dailyExample": "We shared a picnic under the trees in the park.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Family shares an apple at a picnic under broad park trees, with pond, path and bench behind; hands track the apple.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "boy",
+    "dailyExample": "The boy carefully carried his puppy across the puddle.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Boy cradles puppy securely while carefully walking across puddle; puppy and supporting arms remain together above water.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "chicken",
+    "dailyExample": "The chickens scratched the soil beside our vegetable patch.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three hens scratch soil beside raised vegetable patch; raking feet and drifting soil grains show the action.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

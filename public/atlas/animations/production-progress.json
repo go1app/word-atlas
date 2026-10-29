@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 630,
-  "pending": 6668,
+  "uploaded": 635,
+  "pending": 6663,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "game",
-    "single",
-    "park",
-    "boy",
-    "chicken"
+    "milk",
+    "and",
+    "most",
+    "story",
+    "other"
   ],
   "words": [
     {
@@ -8121,27 +8121,67 @@
     {
       "wordId": "game",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We played a board game after dinner yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/game.svg",
+      "blobSha": "5020fd1a7cc54f008145dd1455bf0a977bc53648",
+      "visualReview": "After-dinner overhead board game with cleared plates, dice and cards; hand advances a pawn two track spaces.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "single",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A single candle lit the room during the power cut.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/single.svg",
+      "blobSha": "890efdb352ca5a2e6c47496d358d94921e62440a",
+      "visualReview": "Exactly one candle lights the dark room, pendant unlit; soft radial halo and gently changing flame. Added neck connection to strengthen the head-to-shirt join. Inspected corrected scene at 2 and 5 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "park",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We shared a picnic under the trees in the park.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/park.svg",
+      "blobSha": "e91b5983c3a5ff6916beea86a58bfe43fc247335",
+      "visualReview": "Family shares an apple at a picnic under broad park trees, with pond, path and bench behind; hands track the apple.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "boy",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The boy carefully carried his puppy across the puddle.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/boy.svg",
+      "blobSha": "1f5fd47a232203f4ad27954021658ea4a084c927",
+      "visualReview": "Boy cradles puppy securely while carefully walking across puddle; puppy and supporting arms remain together above water.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "chicken",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The chickens scratched the soil beside our vegetable patch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/chicken.svg",
+      "blobSha": "e1420cd8d61d2c394b2210f742f2e700c39db3d6",
+      "visualReview": "Three hens scratch soil beside raised vegetable patch; raking feet and drifting soil grains show the action.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "milk",

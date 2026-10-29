@@ -7577,6 +7577,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "game",
+      "src": "atlas/animations/game.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We played a board game after dinner yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "single",
+      "src": "atlas/animations/single.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A single candle lit the room during the power cut.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "park",
+      "src": "atlas/animations/park.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We shared a picnic under the trees in the park.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "boy",
+      "src": "atlas/animations/boy.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The boy carefully carried his puppy across the puddle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "chicken",
+      "src": "atlas/animations/chicken.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The chickens scratched the soil beside our vegetable patch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
