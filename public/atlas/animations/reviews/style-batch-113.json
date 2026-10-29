@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "meeting",
+    "dailyExample": "Our team meeting starts right after lunch today.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three colleagues begin a shared-table discussion; cleared lunch dishes and one-o-clock clock establish after lunch.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "waiter",
+    "dailyExample": "The waiter brought our soup and two warm rolls.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Waiter approaches a dining table with a supported soup bowl and exactly two warm rolls.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "bank",
+    "dailyExample": "I went to the bank to open an account.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Customer signs an account form at the teller counter while an account booklet slides across.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "classroom",
+    "dailyExample": "Sunlight filled the classroom as we opened our books.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two students open books in a sunlit classroom with leaf diagram on the board.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "plan",
+    "dailyExample": "Our plan is to leave early and avoid traffic.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Early departure plan on a map, dawn, six-o-clock clock, luggage and keys; finger follows the clear route.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

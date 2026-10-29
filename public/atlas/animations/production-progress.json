@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 570,
-  "pending": 6728,
+  "uploaded": 575,
+  "pending": 6723,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "meeting",
-    "waiter",
-    "bank",
-    "classroom",
-    "plan"
+    "funny",
+    "pay",
+    "old",
+    "italy",
+    "mistake"
   ],
   "words": [
     {
@@ -7341,27 +7341,67 @@
     {
       "wordId": "meeting",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our team meeting starts right after lunch today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/meeting.svg",
+      "blobSha": "48fd08b5b7a06ecd093b572b602a2fa89c2bd3a6",
+      "visualReview": "Three colleagues begin a shared-table discussion; cleared lunch dishes and one-o-clock clock establish after lunch.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "waiter",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The waiter brought our soup and two warm rolls.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/waiter.svg",
+      "blobSha": "7fb115e26bee22c023624aa5fb3dbef28ed6daa7",
+      "visualReview": "Waiter approaches a dining table with a supported soup bowl and exactly two warm rolls.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "bank",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I went to the bank to open an account.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bank.svg",
+      "blobSha": "740aef30389837fb6c770dfe6547c689eef04df2",
+      "visualReview": "Customer signs an account form at the teller counter while an account booklet slides across.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "classroom",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Sunlight filled the classroom as we opened our books.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/classroom.svg",
+      "blobSha": "215a5a94082c319caba724e5899cd628dd6dcf99",
+      "visualReview": "Two students open books in a sunlit classroom with leaf diagram on the board.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "plan",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our plan is to leave early and avoid traffic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/plan.svg",
+      "blobSha": "b745f69a92eb17a8deb1f0b028b756865d36c539",
+      "visualReview": "Early departure plan on a map, dawn, six-o-clock clock, luggage and keys; finger follows the clear route.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "funny",
