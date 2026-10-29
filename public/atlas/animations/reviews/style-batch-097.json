@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "wear",
+    "dailyExample": "I always wear thick socks when the floor feels cold.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Thick knitted socks cover both feet on a cold tiled floor, with clear cuffs and grounded soles.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "day",
+    "dailyExample": "We spent the whole day building sandcastles on the beach.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Child builds a sandcastle on the beach while the sun travels through the day.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "homework",
+    "dailyExample": "I finished my homework before dinner and went outside.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Completed workbook and set-aside pencil remain on desk as person heads to door before covered dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "better",
+    "dailyExample": "This backpack is better than my old one.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "New backpack has intact padded straps and pockets beside an old patched bag with a broken strap.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sentence",
+    "dailyExample": "Our teacher asked us to write one sentence about autumn.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Student writes one complete autumn sentence on paper below a leaf demonstration; user-authorized scene text is declared and does not contain target word.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

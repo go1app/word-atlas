@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 490,
-  "pending": 6807,
+  "uploaded": 495,
+  "pending": 6802,
   "needsRevision": 1,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "sentence",
-    "wear",
-    "day",
-    "homework",
-    "better"
+    "into",
+    "bicycle",
+    "visit",
+    "everyone",
+    "wrong"
   ],
   "words": [
     {
@@ -6309,27 +6309,67 @@
     {
       "wordId": "sentence",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our teacher asked us to write one sentence about autumn.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sentence.svg",
+      "blobSha": "3272ea4b96bd235db2e3d6a6600f82d8814d221a",
+      "visualReview": "Student writes one complete autumn sentence on paper below a leaf demonstration; user-authorized scene text is declared and does not contain target word.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wear",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I always wear thick socks when the floor feels cold.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wear.svg",
+      "blobSha": "defa35d4032b0b57d511b6eda94977f1aa0da7fd",
+      "visualReview": "Thick knitted socks cover both feet on a cold tiled floor, with clear cuffs and grounded soles.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "day",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent the whole day building sandcastles on the beach.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/day.svg",
+      "blobSha": "ce6b8285783d2e6f80f90972d4e9b5bb68687e0c",
+      "visualReview": "Child builds a sandcastle on the beach while the sun travels through the day.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "homework",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I finished my homework before dinner and went outside.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/homework.svg",
+      "blobSha": "ef69a83f4f22fe29c309d29fb5cb05d5610dbfba",
+      "visualReview": "Completed workbook and set-aside pencil remain on desk as person heads to door before covered dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "better",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This backpack is better than my old one.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/better.svg",
+      "blobSha": "4af67544150b1664a199c3acba648eb6e85c9a98",
+      "visualReview": "New backpack has intact padded straps and pockets beside an old patched bag with a broken strap.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "into",
