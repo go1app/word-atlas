@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "someone",
+    "dailyExample": "Someone left a blue umbrella beside the front door.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "An anonymous hand leaves a blue umbrella beside the front door, then withdraws; no owner remains visible.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hear",
+    "dailyExample": "I can hear birds singing outside my bedroom window.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bedroom listener cups an ear toward two singing birds outside the window, with pulsing vector sound arcs. Lowered birds and branch below the window crossbar so heads and bodies remain visible.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "please",
+    "dailyExample": "Could you please hold the door for me?",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Helper keeps hand on open door handle while a visitor carrying grocery bags approaches the held doorway; reviewed hand/handle contact and visitor approach.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "hard",
+    "dailyExample": "This bread is too hard to bite into.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A piece of hard-crusted bread presses against small gritted teeth, with strained brows and joined hand/bread gesture.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "terrible",
+    "dailyExample": "The soup tasted terrible, so I made a sandwich.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Displeased person pushes bad soup away first, then assembles a sandwich; hand endpoints track both moving objects. Reviewed the finished sandwich and pushed-away soup at 8 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

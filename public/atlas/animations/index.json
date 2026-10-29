@@ -7457,6 +7457,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "someone",
+      "src": "atlas/animations/someone.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Someone left a blue umbrella beside the front door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hear",
+      "src": "atlas/animations/hear.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I can hear birds singing outside my bedroom window.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "please",
+      "src": "atlas/animations/please.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could you please hold the door for me?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "hard",
+      "src": "atlas/animations/hard.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This bread is too hard to bite into.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "terrible",
+      "src": "atlas/animations/terrible.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The soup tasted terrible, so I made a sandwich.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

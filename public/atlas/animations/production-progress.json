@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 620,
-  "pending": 6678,
+  "uploaded": 625,
+  "pending": 6673,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "someone",
-    "hear",
-    "please",
-    "hard",
-    "terrible"
+    "feel",
+    "toy",
+    "so",
+    "climb",
+    "bird"
   ],
   "words": [
     {
@@ -7991,27 +7991,67 @@
     {
       "wordId": "someone",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Someone left a blue umbrella beside the front door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/someone.svg",
+      "blobSha": "27e86e17ac53f8670cc6c27e5315d5f3783affba",
+      "visualReview": "An anonymous hand leaves a blue umbrella beside the front door, then withdraws; no owner remains visible.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hear",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I can hear birds singing outside my bedroom window.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hear.svg",
+      "blobSha": "4016c17805c8ec365a39612587ad9d7b7de4f2b9",
+      "visualReview": "Bedroom listener cups an ear toward two singing birds outside the window, with pulsing vector sound arcs. Lowered birds and branch below the window crossbar so heads and bodies remain visible.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "please",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Could you please hold the door for me?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/please.svg",
+      "blobSha": "119c3538e04c4e3db0d8719b974527385fd9cceb",
+      "visualReview": "Helper keeps hand on open door handle while a visitor carrying grocery bags approaches the held doorway; reviewed hand/handle contact and visitor approach.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hard",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This bread is too hard to bite into.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/hard.svg",
+      "blobSha": "8fcdbb8da41e6b4ec01da36adc304d56377b844b",
+      "visualReview": "A piece of hard-crusted bread presses against small gritted teeth, with strained brows and joined hand/bread gesture.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "terrible",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The soup tasted terrible, so I made a sandwich.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/terrible.svg",
+      "blobSha": "38a475d00dcb43a718629aa67b18a59c12f4a0f8",
+      "visualReview": "Displeased person pushes bad soup away first, then assembles a sandwich; hand endpoints track both moving objects. Reviewed the finished sandwich and pushed-away soup at 8 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "feel",
