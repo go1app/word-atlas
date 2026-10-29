@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 540,
-  "pending": 6758,
+  "uploaded": 545,
+  "pending": 6753,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "bath",
-    "nine",
-    "twelve",
-    "moment",
-    "want"
+    "england",
+    "think",
+    "another",
+    "building",
+    "sunny"
   ],
   "words": [
     {
@@ -6951,27 +6951,67 @@
     {
       "wordId": "bath",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A warm bath helped me relax after the hike.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/bath.svg",
+      "blobSha": "642c58ffaf59855a19f696061a38c441e83ff068",
+      "visualReview": "Relaxed bather with body fully covered by foam, hiking pack and boots nearby establish after-hike rest.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "nine",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We packed nine apples for our picnic today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/nine.svg",
+      "blobSha": "b8298b23e770733c599ba1befe86a60c8a02724e",
+      "visualReview": "Exactly nine visible apples arranged in three rows of three inside a picnic basket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "twelve",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "There are twelve fresh eggs in this carton.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/twelve.svg",
+      "blobSha": "86e0584f5fd3d8582e51729e0417a37fa973812f",
+      "visualReview": "Exactly twelve eggs arranged as two rows of six in an open carton.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "moment",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Wait a moment while I put my shoes on.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/moment.svg",
+      "blobSha": "8d902d03d7d70edab634795b4183aaf8e0f7f831",
+      "visualReview": "One shoe already tied, hand draws the other shoe lace tight beside a doorway.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "want",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I want to grow tomatoes on our balcony.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/want.svg",
+      "blobSha": "48ae6776b6ffe94d1cd3bb4615ba1cc86178fb48",
+      "visualReview": "Seed packet and pot on balcony accompany a thought bubble of a future tomato harvest.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "england",

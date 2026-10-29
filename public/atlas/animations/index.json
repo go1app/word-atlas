@@ -6482,6 +6482,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "bath",
+      "src": "atlas/animations/bath.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A warm bath helped me relax after the hike.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "nine",
+      "src": "atlas/animations/nine.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We packed nine apples for our picnic today.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "twelve",
+      "src": "atlas/animations/twelve.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There are twelve fresh eggs in this carton.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "moment",
+      "src": "atlas/animations/moment.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Wait a moment while I put my shoes on.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "want",
+      "src": "atlas/animations/want.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I want to grow tomatoes on our balcony.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

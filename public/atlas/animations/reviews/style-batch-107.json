@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "bath",
+    "dailyExample": "A warm bath helped me relax after the hike.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Relaxed bather with body fully covered by foam, hiking pack and boots nearby establish after-hike rest.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "nine",
+    "dailyExample": "We packed nine apples for our picnic today.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exactly nine visible apples arranged in three rows of three inside a picnic basket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "twelve",
+    "dailyExample": "There are twelve fresh eggs in this carton.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exactly twelve eggs arranged as two rows of six in an open carton.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "moment",
+    "dailyExample": "Wait a moment while I put my shoes on.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One shoe already tied, hand draws the other shoe lace tight beside a doorway.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "want",
+    "dailyExample": "I want to grow tomatoes on our balcony.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seed packet and pot on balcony accompany a thought bubble of a future tomato harvest.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
