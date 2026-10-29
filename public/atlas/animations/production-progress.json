@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 426,
-  "pending": 6872,
+  "uploaded": 431,
+  "pending": 6867,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "player",
-    "forty",
-    "chocolate",
-    "size",
-    "small"
+    "sport",
+    "exam",
+    "cow",
+    "ball",
+    "picnic"
   ],
   "words": [
     {
@@ -5469,27 +5469,67 @@
     {
       "wordId": "player",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Each player shook hands before the football match began.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/player.svg",
+      "blobSha": "23f06402a46cf2b02d79b7143392bb87f4d30718",
+      "visualReview": "Opposing football players shake joined hands before kick-off, with ball and goal behind.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "forty",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We waited forty minutes before the bus finally arrived.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/forty.svg",
+      "blobSha": "6bdb3bd82961310a1f290d347a781adc38fc5568",
+      "visualReview": "Clock minute hand advances forty minutes while a bus eventually arrives at the shelter.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "chocolate",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "He shared a bar of chocolate with his sister.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/chocolate.svg",
+      "blobSha": "ec44a13e796b770721a899860c25ac84a5dbc565",
+      "visualReview": "A chocolate bar separates into two shared halves held by two hands over its wrapper.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "size",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This suitcase is just the right size for weekends.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/size.svg",
+      "blobSha": "d476db477a753862e7da2eedfb9ceab7d0c0fe12",
+      "visualReview": "Compact suitcase comfortably fits folded clothes and a pair of shoes for a weekend.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "small",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our small kitchen has room for only two chairs.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/small.svg",
+      "blobSha": "994abaae3e1ebd99a31da10571cbda80b630cd00",
+      "visualReview": "A narrow kitchen contains exactly two chairs around a small table.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sport",

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "player",
+    "dailyExample": "Each player shook hands before the football match began.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Opposing football players shake joined hands before kick-off, with ball and goal behind.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "forty",
+    "dailyExample": "We waited forty minutes before the bus finally arrived.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Clock minute hand advances forty minutes while a bus eventually arrives at the shelter.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "chocolate",
+    "dailyExample": "He shared a bar of chocolate with his sister.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A chocolate bar separates into two shared halves held by two hands over its wrapper.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "size",
+    "dailyExample": "This suitcase is just the right size for weekends.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Compact suitcase comfortably fits folded clothes and a pair of shoes for a weekend.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "small",
+    "dailyExample": "Our small kitchen has room for only two chairs.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A narrow kitchen contains exactly two chairs around a small table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -5090,6 +5090,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "player",
+      "src": "atlas/animations/player.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Each player shook hands before the football match began.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "forty",
+      "src": "atlas/animations/forty.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We waited forty minutes before the bus finally arrived.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "chocolate",
+      "src": "atlas/animations/chocolate.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "He shared a bar of chocolate with his sister.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "size",
+      "src": "atlas/animations/size.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This suitcase is just the right size for weekends.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "small",
+      "src": "atlas/animations/small.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our small kitchen has room for only two chairs.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
