@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "wrong",
+    "dailyExample": "I took the wrong bus and ended up near the airport.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bus number 13 differs from ticket route 10; aircraft terminal window establishes accidental arrival near airport. Scene numbers declared, no target answer shown.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "problem",
+    "dailyExample": "There's a problem with the kitchen tap: it keeps dripping.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Shut kitchen tap still produces repeated drops and ripples, making the fault visible.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "uncle",
+    "dailyExample": "My uncle taught me how to mend a bicycle.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Adult relative demonstrates bicycle crank repair to a younger learner with tool contact at the crank.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "key",
+    "dailyExample": "I left my house key in my coat pocket.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "House key ring and shaft are visible inside a coat pocket with stitched fabric edges.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "speak",
+    "dailyExample": "Could I speak to you after the lesson?",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Student asks for a conversation with teacher after lesson, beside board and empty desk.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

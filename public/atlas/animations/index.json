@@ -5988,6 +5988,70 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "wrong",
+      "src": "atlas/animations/wrong.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I took the wrong bus and ended up near the airport.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "13",
+        "10"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "problem",
+      "src": "atlas/animations/problem.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There's a problem with the kitchen tap: it keeps dripping.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "uncle",
+      "src": "atlas/animations/uncle.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My uncle taught me how to mend a bicycle.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "key",
+      "src": "atlas/animations/key.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I left my house key in my coat pocket.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "speak",
+      "src": "atlas/animations/speak.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Could I speak to you after the lesson?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
