@@ -7697,6 +7697,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "apple",
+      "src": "atlas/animations/apple.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I packed an apple and a sandwich for lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "chinese",
+      "src": "atlas/animations/chinese.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We shared Chinese dumplings at a small restaurant yesterday.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "air",
+      "src": "atlas/animations/air.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I opened the window to let fresh air in.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "because",
+      "src": "atlas/animations/because.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I closed the window because the room felt cold.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "team",
+      "src": "atlas/animations/team.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Our team celebrated with pizza after winning the match.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

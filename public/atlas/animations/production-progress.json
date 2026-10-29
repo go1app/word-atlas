@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 640,
-  "pending": 6658,
+  "uploaded": 645,
+  "pending": 6653,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "apple",
-    "chinese",
-    "air",
-    "because",
-    "team"
+    "right",
+    "difficult",
+    "pencil",
+    "somebody",
+    "person"
   ],
   "words": [
     {
@@ -8251,27 +8251,67 @@
     {
       "wordId": "apple",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I packed an apple and a sandwich for lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/apple.svg",
+      "blobSha": "d9e838d629cc50f595a74469d030349be2e3a836",
+      "visualReview": "Apple lowers beside sandwich in an open compartment lunchbox; gripping hand releases after placement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "chinese",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We shared Chinese dumplings at a small restaurant yesterday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/chinese.svg",
+      "blobSha": "4f6de1a9f2b492dd7ee351ae5c49069d21810bc5",
+      "visualReview": "Two diners share pleated dumplings in a small restaurant; paired chopsticks, hand and lifted dumpling remain joined.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "air",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I opened the window to let fresh air in.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/air.svg",
+      "blobSha": "b2759c1b747892d7d7fc14ea5e8dafbe595ac0eb",
+      "visualReview": "Casement opens to let fresh air into a room; hand tracks projected handle, curtain responds. Inspected closed-to-open projection at 1.5 and 5 seconds; hand stays at animated handle.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "because",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I closed the window because the room felt cold.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/because.svg",
+      "blobSha": "82086e902f43e66ca6aaad268d6ffa8d32dd3d9b",
+      "visualReview": "Bundled person closes cold bedroom window; hand follows handle and breeze fades as it closes. Inspected open-to-closed projection and fading cold-air cue at 1.5 and 5 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "team",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our team celebrated with pizza after winning the match.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/team.svg",
+      "blobSha": "f8b7be9cd372fde97dd9edf1f1240d4b7c504e97",
+      "visualReview": "Matching sports shirts, trophy and ball accompany teammates sharing sliced pizza after a win.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "right",

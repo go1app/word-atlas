@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "apple",
+    "dailyExample": "I packed an apple and a sandwich for lunch.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Apple lowers beside sandwich in an open compartment lunchbox; gripping hand releases after placement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "chinese",
+    "dailyExample": "We shared Chinese dumplings at a small restaurant yesterday.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two diners share pleated dumplings in a small restaurant; paired chopsticks, hand and lifted dumpling remain joined.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "air",
+    "dailyExample": "I opened the window to let fresh air in.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Casement opens to let fresh air into a room; hand tracks projected handle, curtain responds. Inspected closed-to-open projection at 1.5 and 5 seconds; hand stays at animated handle.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "because",
+    "dailyExample": "I closed the window because the room felt cold.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bundled person closes cold bedroom window; hand follows handle and breeze fades as it closes. Inspected open-to-closed projection and fading cold-air cue at 1.5 and 5 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "team",
+    "dailyExample": "Our team celebrated with pizza after winning the match.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Matching sports shirts, trophy and ball accompany teammates sharing sliced pizza after a win.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
