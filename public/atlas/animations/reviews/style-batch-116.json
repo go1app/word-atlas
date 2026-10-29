@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "seventeen",
+    "dailyExample": "My sister is seventeen and loves playing volleyball.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Teenage sister with volleyball on the court, and sideline birthday cake with exactly seventeen separated candles in nine-plus-eight rows.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "wednesday",
+    "dailyExample": "We meet for lunch every Wednesday near the library.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Lunch beside a library window, book bag and seven-day marker with the third day highlighted.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "a-m",
+    "dailyExample": "My alarm rings at seven a.m. every weekday.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Seven-o-clock alarm rings beside bed at sunrise; five highlighted weekday tiles, clock bells rock softly.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "new",
+    "dailyExample": "Our new neighbours brought us a basket of apples.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "New neighbours offer a basket of apples between adjacent doors; open moving boxes establish recent arrival. Added joined basket/hand motion; hand endpoints follow the raised basket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cooking",
+    "dailyExample": "My brother does the cooking while I wash dishes.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One person stirs a cooking pot with joined spoon grip and forearm, while the other washes a plate under the tap. Revised plate-holding contact and scrub forearm endpoint so cloth hand remains attached throughout movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

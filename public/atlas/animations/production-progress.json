@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 585,
-  "pending": 6713,
+  "uploaded": 590,
+  "pending": 6708,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "seventeen",
-    "wednesday",
-    "a-m",
-    "new",
-    "cooking"
+    "family",
+    "example",
+    "december",
+    "metre",
+    "hate"
   ],
   "words": [
     {
@@ -7536,27 +7536,67 @@
     {
       "wordId": "seventeen",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister is seventeen and loves playing volleyball.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/seventeen.svg",
+      "blobSha": "3f11b0f204d4e79096174533e1e8fad81e7e3a2f",
+      "visualReview": "Teenage sister with volleyball on the court, and sideline birthday cake with exactly seventeen separated candles in nine-plus-eight rows.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wednesday",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We meet for lunch every Wednesday near the library.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wednesday.svg",
+      "blobSha": "fffc613f18cc834926c79d67db76aa6d3d97811c",
+      "visualReview": "Lunch beside a library window, book bag and seven-day marker with the third day highlighted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "a-m",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My alarm rings at seven a.m. every weekday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/a-m.svg",
+      "blobSha": "4936eeab0c61db624254c9994f630119996b415f",
+      "visualReview": "Seven-o-clock alarm rings beside bed at sunrise; five highlighted weekday tiles, clock bells rock softly.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "new",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our new neighbours brought us a basket of apples.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/new.svg",
+      "blobSha": "48e600ec222ceb51e3508568da7459c58ed6164e",
+      "visualReview": "New neighbours offer a basket of apples between adjacent doors; open moving boxes establish recent arrival. Added joined basket/hand motion; hand endpoints follow the raised basket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cooking",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My brother does the cooking while I wash dishes.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cooking.svg",
+      "blobSha": "d609f0183ed2ecabbba63a65f9b7f5e7b2787d28",
+      "visualReview": "One person stirs a cooking pot with joined spoon grip and forearm, while the other washes a plate under the tap. Revised plate-holding contact and scrub forearm endpoint so cloth hand remains attached throughout movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "family",
