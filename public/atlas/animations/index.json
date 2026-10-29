@@ -4610,6 +4610,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "t-shirt",
+      "src": "atlas/animations/t-shirt.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I packed a clean T-shirt for the picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "end",
+      "src": "atlas/animations/end.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "There's a small bakery at the end of our street.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "delicious",
+      "src": "atlas/animations/delicious.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This delicious vegetable pie is still warm from the oven.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "fill",
+      "src": "atlas/animations/fill.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please fill the jug with water for our guests.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "become",
+      "src": "atlas/animations/become.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The streets become quiet after the shops close.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

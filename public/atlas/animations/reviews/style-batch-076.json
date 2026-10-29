@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "t-shirt",
+    "dailyExample": "I packed a clean T-shirt for the picnic.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Clean T-shirt lowers into an open picnic basket beside fruit on a table.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "end",
+    "dailyExample": "There's a small bakery at the end of our street.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Street perspective ends at a small bakery with bread visible in its window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "delicious",
+    "dailyExample": "This delicious vegetable pie is still warm from the oven.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Golden vegetable pie steams on a platter with a warm slice lifted beside it.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "fill",
+    "dailyExample": "Please fill the jug with water for our guests.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Tap fills a jug as its visible water level rises, with two guest glasses waiting.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "become",
+    "dailyExample": "The streets become quiet after the shops close.",
+    "sourceChunk": 3,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Shop shutters lower and pedestrian fades as the street darkens into quiet evening.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
