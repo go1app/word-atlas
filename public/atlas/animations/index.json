@@ -5450,6 +5450,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "believe",
+      "src": "atlas/animations/believe.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I believe you, but your story sounds quite unusual.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "train",
+      "src": "atlas/animations/train.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We caught the last train home after dinner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "paper",
+      "src": "atlas/animations/paper.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She wrapped the small gift in bright yellow paper.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "if",
+      "src": "atlas/animations/if.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "If it rains, we can play indoors instead.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "big",
+      "src": "atlas/animations/big.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We need a big bag for all these towels.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

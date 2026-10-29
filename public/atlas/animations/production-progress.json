@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 456,
-  "pending": 6842,
+  "uploaded": 461,
+  "pending": 6837,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "believe",
-    "train",
-    "paper",
-    "if",
-    "big"
+    "hand",
+    "yellow",
+    "rich",
+    "know",
+    "cousin"
   ],
   "words": [
     {
@@ -5859,27 +5859,67 @@
     {
       "wordId": "believe",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I believe you, but your story sounds quite unusual.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/believe.svg",
+      "blobSha": "e7d8e487cb4abed7de0846600445bad955660737",
+      "visualReview": "Two companions discuss an unusual story; listener offers an accepting open hand beside tea.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "train",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We caught the last train home after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/train.svg",
+      "blobSha": "9e7aaf69500f494ffa15542df2cee6c23ffdd889",
+      "visualReview": "Travelers arrive at a warm-windowed train on a nighttime platform after dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "paper",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She wrapped the small gift in bright yellow paper.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/paper.svg",
+      "blobSha": "0d3ada8f0f4bfc25316b3e1a68fe1f7def6e5306",
+      "visualReview": "Bright yellow paper folds around a small gift as hands hold the wrapping in place.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "if",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "If it rains, we can play indoors instead.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/if.svg",
+      "blobSha": "2e5ce759295b551ed91ae7be133bcdc54589d748",
+      "visualReview": "Rain at the window accompanies two people choosing to play a tabletop game indoors.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "big",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We need a big bag for all these towels.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/big.svg",
+      "blobSha": "e7590b85b2aee49f91111b159edb6850417f054b",
+      "visualReview": "A large tote holds a tall stack of clean towels, with both handles held.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "hand",

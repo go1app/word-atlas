@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "believe",
+    "dailyExample": "I believe you, but your story sounds quite unusual.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two companions discuss an unusual story; listener offers an accepting open hand beside tea.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "train",
+    "dailyExample": "We caught the last train home after dinner.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Travelers arrive at a warm-windowed train on a nighttime platform after dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "paper",
+    "dailyExample": "She wrapped the small gift in bright yellow paper.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Bright yellow paper folds around a small gift as hands hold the wrapping in place.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "if",
+    "dailyExample": "If it rains, we can play indoors instead.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Rain at the window accompanies two people choosing to play a tabletop game indoors.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "big",
+    "dailyExample": "We need a big bag for all these towels.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "A large tote holds a tall stack of clean towels, with both handles held.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
