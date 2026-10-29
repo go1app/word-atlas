@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 605,
-  "pending": 6693,
+  "uploaded": 610,
+  "pending": 6688,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "any",
-    "computer",
-    "shopping",
-    "alphabet",
-    "address"
+    "win",
+    "grow",
+    "box",
+    "fun",
+    "beard"
   ],
   "words": [
     {
@@ -7796,27 +7796,67 @@
     {
       "wordId": "any",
       "chunk": 5,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "You can borrow any book from this shelf.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/any.svg",
+      "blobSha": "0a66d3252547605c23424e6e5c6234bc1a10b6f3",
+      "visualReview": "Librarian welcomes a free choice of shelf books; child draws one volume closer with matching arm endpoint movement. Reviewed early and end-of-pull hand/book contact.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "computer",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My computer froze while I was editing holiday photos.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/computer.svg",
+      "blobSha": "af2e760f0d1cbdcc1442f9d7bd9d7dc55d9a2987",
+      "visualReview": "Frozen holiday-photo editor with crop handles, thumbnails and travel prints; repeated clicks leave screen contents unchanged.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "shopping",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually do our shopping early on Saturday mornings.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/shopping.svg",
+      "blobSha": "0a5c677c2e82bcf77243b562fc0eef0e9c879721",
+      "visualReview": "Early Saturday market trip: sixth day on seven-day marker, morning sun, grocery basket with milk, carrots and produce.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "alphabet",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My little sister learned the alphabet through a song.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/alphabet.svg",
+      "blobSha": "51b7693480d03f22965632413d8c5df0cb0ffd63",
+      "visualReview": "Little sister sings with older sibling on guitar; all twenty-six letters appear in four permitted scene-text rows, with vector music notes. Removed redundant static arm underneath the animated strumming arm; inspected corrected poses.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "address",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please send me your address before I post the parcel.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/address.svg",
+      "blobSha": "44e56ac28d5cca71566bd016012b51f82c964214",
+      "visualReview": "Small address message arrives on phone beside a parcel being prepared for posting; permitted scene address declared.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "win",

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "any",
+    "dailyExample": "You can borrow any book from this shelf.",
+    "sourceChunk": 5,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Librarian welcomes a free choice of shelf books; child draws one volume closer with matching arm endpoint movement. Reviewed early and end-of-pull hand/book contact.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "computer",
+    "dailyExample": "My computer froze while I was editing holiday photos.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Frozen holiday-photo editor with crop handles, thumbnails and travel prints; repeated clicks leave screen contents unchanged.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "shopping",
+    "dailyExample": "We usually do our shopping early on Saturday mornings.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Early Saturday market trip: sixth day on seven-day marker, morning sun, grocery basket with milk, carrots and produce.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "alphabet",
+    "dailyExample": "My little sister learned the alphabet through a song.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Little sister sings with older sibling on guitar; all twenty-six letters appear in four permitted scene-text rows, with vector music notes. Removed redundant static arm underneath the animated strumming arm; inspected corrected poses.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "address",
+    "dailyExample": "Please send me your address before I post the parcel.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small address message arrives on phone beside a parcel being prepared for posting; permitted scene address declared.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

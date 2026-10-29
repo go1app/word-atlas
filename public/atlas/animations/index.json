@@ -7268,6 +7268,75 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "any",
+      "src": "atlas/animations/any.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "You can borrow any book from this shelf.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "computer",
+      "src": "atlas/animations/computer.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My computer froze while I was editing holiday photos.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "shopping",
+      "src": "atlas/animations/shopping.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We usually do our shopping early on Saturday mornings.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "alphabet",
+      "src": "atlas/animations/alphabet.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "My little sister learned the alphabet through a song.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "A B C D E F G",
+        "H I J K L M N",
+        "O P Q R S T U",
+        "V W X Y Z"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "address",
+      "src": "atlas/animations/address.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please send me your address before I post the parcel.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "sceneText": [
+        "24 Oak Rd"
+      ],
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
