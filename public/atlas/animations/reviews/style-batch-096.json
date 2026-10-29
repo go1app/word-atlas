@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "above",
+    "dailyExample": "A small wooden shelf hangs above the kitchen sink.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small wooden shelf aligns directly above the kitchen sink with bracket and crockery details.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "beginner",
+    "dailyExample": "This swimming class is perfect for a complete beginner.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "First swimming lesson uses a rail and float while an instructor demonstrates hand position from poolside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cry",
+    "dailyExample": "The baby began to cry when her toy fell.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Toy falls from baby chair before open crying mouth and tears appear.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "buy",
+    "dailyExample": "I need to buy some bread before breakfast.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Morning bakery transaction exchanges a coin for a warm loaf before breakfast.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "short",
+    "dailyExample": "We took a short walk before dinner tonight.",
+    "sourceChunk": 4,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small local garden loop beside home suggests a short walk before the visible covered dinner.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

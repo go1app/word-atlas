@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 485,
-  "pending": 6812,
+  "uploaded": 490,
+  "pending": 6807,
   "needsRevision": 1,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "above",
-    "beginner",
-    "cry",
-    "buy",
-    "short"
+    "sentence",
+    "wear",
+    "day",
+    "homework",
+    "better"
   ],
   "words": [
     {
@@ -6244,27 +6244,67 @@
     {
       "wordId": "above",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "A small wooden shelf hangs above the kitchen sink.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/above.svg",
+      "blobSha": "d4dcdb98ef77ba6220d0d2e2cf69e31c759e3f19",
+      "visualReview": "Small wooden shelf aligns directly above the kitchen sink with bracket and crockery details.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "beginner",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This swimming class is perfect for a complete beginner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/beginner.svg",
+      "blobSha": "1f060e8c8160f705d17d8ed57c148bbf8a40f901",
+      "visualReview": "First swimming lesson uses a rail and float while an instructor demonstrates hand position from poolside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cry",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The baby began to cry when her toy fell.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cry.svg",
+      "blobSha": "7cb892cc29750ccfd53cd28d1fddcbf69ee73ec6",
+      "visualReview": "Toy falls from baby chair before open crying mouth and tears appear.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "buy",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I need to buy some bread before breakfast.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/buy.svg",
+      "blobSha": "3e5eaa5f38ffb6ac1c288e99a684e3b46718c0a1",
+      "visualReview": "Morning bakery transaction exchanges a coin for a warm loaf before breakfast.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "short",
       "chunk": 4,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We took a short walk before dinner tonight.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/short.svg",
+      "blobSha": "3bee9a08d0930fdfd2d450948878135f3ac6cd40",
+      "visualReview": "Small local garden loop beside home suggests a short walk before the visible covered dinner.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sentence",

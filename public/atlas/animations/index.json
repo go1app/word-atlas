@@ -5798,6 +5798,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "above",
+      "src": "atlas/animations/above.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "A small wooden shelf hangs above the kitchen sink.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "beginner",
+      "src": "atlas/animations/beginner.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This swimming class is perfect for a complete beginner.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cry",
+      "src": "atlas/animations/cry.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "The baby began to cry when her toy fell.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "buy",
+      "src": "atlas/animations/buy.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I need to buy some bread before breakfast.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "short",
+      "src": "atlas/animations/short.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We took a short walk before dinner tonight.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
