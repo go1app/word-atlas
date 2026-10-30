@@ -8177,6 +8177,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "on",
+      "src": "atlas/animations/on.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Your keys are on the table beside the door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "personal",
+      "src": "atlas/animations/personal.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Please keep your personal belongings close while boarding the train.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "possible",
+      "src": "atlas/animations/possible.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Is it possible to book a table for tonight?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "cent",
+      "src": "atlas/animations/cent.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I found a cent under the sofa cushion.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "describe",
+      "src": "atlas/animations/describe.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Can you describe the bag you left on the bus?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

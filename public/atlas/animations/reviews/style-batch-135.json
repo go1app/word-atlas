@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "on",
+    "dailyExample": "Your keys are on the table beside the door.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Keys lower onto horizontal top of door-side table; hand releases while keys stay visibly supported. Darkened metal against wooden top and inspected keys after hand release at 8 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "personal",
+    "dailyExample": "Please keep your personal belongings close while boarding the train.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Traveller holds backpack and phone against chest while boarding train, no loose belongings left behind. Inspected belongings held close while reaching train step at 8 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "possible",
+    "dailyExample": "Is it possible to book a table for tonight?",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Restaurant phone inquiry about an evening table, staff checks reservation book and empty tables; no visible yes/no answer.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "cent",
+    "dailyExample": "I found a cent under the sofa cushion.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Copper penny with leaf motif revealed under lifted sofa cushion, no readable denomination text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "describe",
+    "dailyExample": "Can you describe the bag you left on the bus?",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Speaker gestures bag size while wordless balloon shows blue bag features; staff sketches and bus visible outside.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

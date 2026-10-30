@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 680,
-  "pending": 6618,
+  "uploaded": 685,
+  "pending": 6613,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "on",
-    "personal",
-    "possible",
-    "cent",
-    "describe"
+    "say",
+    "lot",
+    "grandfather",
+    "dear",
+    "sorry"
   ],
   "words": [
     {
@@ -8771,27 +8771,67 @@
     {
       "wordId": "on",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Your keys are on the table beside the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/on.svg",
+      "blobSha": "b5869529ae9862dd21056fbc98ff69ed88129613",
+      "visualReview": "Keys lower onto horizontal top of door-side table; hand releases while keys stay visibly supported. Darkened metal against wooden top and inspected keys after hand release at 8 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "personal",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please keep your personal belongings close while boarding the train.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/personal.svg",
+      "blobSha": "cd6796ffc70714bf1365853c4a8430b78a69152c",
+      "visualReview": "Traveller holds backpack and phone against chest while boarding train, no loose belongings left behind. Inspected belongings held close while reaching train step at 8 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "possible",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Is it possible to book a table for tonight?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/possible.svg",
+      "blobSha": "01eacf6faba42ad37ce329915e9d534493dfc0b4",
+      "visualReview": "Restaurant phone inquiry about an evening table, staff checks reservation book and empty tables; no visible yes/no answer.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "cent",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I found a cent under the sofa cushion.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/cent.svg",
+      "blobSha": "55a9596a950cdc717ee50e6748163bf4f0fa5d19",
+      "visualReview": "Copper penny with leaf motif revealed under lifted sofa cushion, no readable denomination text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "describe",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Can you describe the bag you left on the bus?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/describe.svg",
+      "blobSha": "661c93a23997d28f891f0ca8a74a06bb88e76ce7",
+      "visualReview": "Speaker gestures bag size while wordless balloon shows blue bag features; staff sketches and bus visible outside.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "say",
