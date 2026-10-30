@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 655,
-  "pending": 6643,
+  "uploaded": 660,
+  "pending": 6638,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "evening",
-    "everything",
-    "west",
-    "brother",
-    "mountain"
+    "than",
+    "warm",
+    "future",
+    "german",
+    "all"
   ],
   "words": [
     {
@@ -8446,27 +8446,67 @@
     {
       "wordId": "evening",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We spent the evening cooking and listening to music.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/evening.svg",
+      "blobSha": "35da0c656f577f29737adb7d2a2ca2c58fc77cd8",
+      "visualReview": "Two people cook with music in twilight kitchen; low sunset, radio music notes and joined stirring grip. Inspected joined spoon/hand stirring at 2 and 5 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "everything",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Everything in my bag got wet during the storm.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/everything.svg",
+      "blobSha": "6d0aa884550c50a8d3079978026f1a1182dab4fd",
+      "visualReview": "Open soaked bag with all shown contents wet: book, phone, pencil and scarf, common puddle and droplets.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "west",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Our kitchen window faces west, catching the evening sunshine.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/west.svg",
+      "blobSha": "ef1b164517e9413fbd72ac47289ba4693f513d1b",
+      "visualReview": "Kitchen window frames low evening sunset, oblique warm rays and long kettle shadow indicate west-facing window.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "brother",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My younger brother borrowed my bicycle this morning.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/brother.svg",
+      "blobSha": "08f552fe96ad8a6f33865483b0a22878b31c8e5c",
+      "visualReview": "Younger sibling astride bicycle borrows key from older sibling in morning; saddle, pedal feet and handle grip aligned. Moved handlebar grip closer and shortened reaching arm to keep proportions natural; inspected both handover and grip.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "mountain",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Snow covered the mountain even in the middle of summer.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/mountain.svg",
+      "blobSha": "bae7539b45de7dccd11f0d4b6914acb1adac2f79",
+      "visualReview": "High snow-covered mountain above a summer lake/meadow with flowers, warm sun and butterfly.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "than",

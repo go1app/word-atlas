@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "evening",
+    "dailyExample": "We spent the evening cooking and listening to music.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people cook with music in twilight kitchen; low sunset, radio music notes and joined stirring grip. Inspected joined spoon/hand stirring at 2 and 5 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "everything",
+    "dailyExample": "Everything in my bag got wet during the storm.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Open soaked bag with all shown contents wet: book, phone, pencil and scarf, common puddle and droplets.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "west",
+    "dailyExample": "Our kitchen window faces west, catching the evening sunshine.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Kitchen window frames low evening sunset, oblique warm rays and long kettle shadow indicate west-facing window.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "brother",
+    "dailyExample": "My younger brother borrowed my bicycle this morning.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Younger sibling astride bicycle borrows key from older sibling in morning; saddle, pedal feet and handle grip aligned. Moved handlebar grip closer and shortened reaching arm to keep proportions natural; inspected both handover and grip.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "mountain",
+    "dailyExample": "Snow covered the mountain even in the middle of summer.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "High snow-covered mountain above a summer lake/meadow with flowers, warm sun and butterfly.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
