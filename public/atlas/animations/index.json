@@ -7817,6 +7817,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "street",
+      "src": "atlas/animations/street.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We crossed the street to reach the bakery.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "include",
+      "src": "atlas/animations/include.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Does the price include breakfast and a clean towel?",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "radio",
+      "src": "atlas/animations/radio.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Dad keeps a small radio on the kitchen shelf.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "post-office",
+      "src": "atlas/animations/post-office.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "I took the parcel to the post office before lunch.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "ice",
+      "src": "atlas/animations/ice.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She dropped a few cubes of ice into her juice.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

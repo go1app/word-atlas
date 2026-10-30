@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "street",
+    "dailyExample": "We crossed the street to reach the bakery.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two walkers cross a broad street toward a bakery using a diagonal pedestrian crossing. Extended walking path to opposite curb and aligned walkers feet, reviewed corrected mid and late crossing.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "include",
+    "dailyExample": "Does the price include breakfast and a clean towel?",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Reception clerk presents breakfast and a clean folded towel together on a tray with room key; guest offers payment.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "radio",
+    "dailyExample": "Dad keeps a small radio on the kitchen shelf.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Small radio on kitchen shelf, tuning knob and hand share a rotation pivot; sound arcs follow.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "post-office",
+    "dailyExample": "I took the parcel to the post office before lunch.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Parcel delivered over postal counter, with envelope pigeonholes, postbox and eleven-o-clock clock. Hands follow small parcel transfer.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "ice",
+    "dailyExample": "She dropped a few cubes of ice into her juice.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three cubes drop successively into juice, sink briefly and float near surface within the glass. Checked all three cubes settled near the juice surface at 8 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

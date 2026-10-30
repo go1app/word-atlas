@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 650,
-  "pending": 6648,
+  "uploaded": 655,
+  "pending": 6643,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "street",
-    "include",
-    "radio",
-    "post-office",
-    "ice"
+    "evening",
+    "everything",
+    "west",
+    "brother",
+    "mountain"
   ],
   "words": [
     {
@@ -8381,27 +8381,67 @@
     {
       "wordId": "street",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We crossed the street to reach the bakery.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/street.svg",
+      "blobSha": "9d0477dce516f4682c55030b259babec201dbd01",
+      "visualReview": "Two walkers cross a broad street toward a bakery using a diagonal pedestrian crossing. Extended walking path to opposite curb and aligned walkers feet, reviewed corrected mid and late crossing.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "include",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Does the price include breakfast and a clean towel?",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/include.svg",
+      "blobSha": "cff7a2e5f2662271a20b18fcf7b4260b6fb44908",
+      "visualReview": "Reception clerk presents breakfast and a clean folded towel together on a tray with room key; guest offers payment.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "radio",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Dad keeps a small radio on the kitchen shelf.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/radio.svg",
+      "blobSha": "2b089ea2739f45abe1fedeb831a4e275c7de38c9",
+      "visualReview": "Small radio on kitchen shelf, tuning knob and hand share a rotation pivot; sound arcs follow.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "post-office",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I took the parcel to the post office before lunch.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/post-office.svg",
+      "blobSha": "d1a3cdc33935e31ca47984cd67e124b7ec49ab31",
+      "visualReview": "Parcel delivered over postal counter, with envelope pigeonholes, postbox and eleven-o-clock clock. Hands follow small parcel transfer.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "ice",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She dropped a few cubes of ice into her juice.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/ice.svg",
+      "blobSha": "ee94526f6b93dfaa2bcb5f059c21727c4dcdf921",
+      "visualReview": "Three cubes drop successively into juice, sink briefly and float near surface within the glass. Checked all three cubes settled near the juice surface at 8 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "evening",
