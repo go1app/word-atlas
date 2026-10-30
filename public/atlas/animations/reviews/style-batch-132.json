@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "come",
+    "dailyExample": "Come inside and warm your hands by the fire.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Host invites visitor through open door toward fireplace, visitor brings both hands near the fire after entering. Added alternating footsteps during entry rather than a static-leg glide.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "eat",
+    "dailyExample": "We usually eat breakfast together before leaving the house.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two diners share morning breakfast, spoon tracks hand from bowl toward mouth; clock and packed bag indicate before leaving. Added mouth mark at spoon contact to make the bite readable.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "carrot",
+    "dailyExample": "She sliced a carrot and added it to the soup.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Carrot sliced on board, knife hand exits, spoon hand carries a slice into soup with pot-front occlusion. Inspected final spoon delivery and pot-front occlusion at 8 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "near",
+    "dailyExample": "We found a quiet café near the station.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Quiet cafe beside station with short shared pavement, empty chairs and two cups, clock and train front.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "parent",
+    "dailyExample": "Each parent brought a snack for the school picnic.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Three parents each visibly bring snacks at school picnic, with small child, school gate, clock and bunting. Added smaller child free-arm greeting while keeping held hand fixed.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

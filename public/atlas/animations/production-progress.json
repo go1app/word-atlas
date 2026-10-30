@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 665,
-  "pending": 6633,
+  "uploaded": 670,
+  "pending": 6628,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "come",
-    "eat",
-    "carrot",
-    "near",
-    "parent"
+    "famous",
+    "just",
+    "birthday",
+    "butter",
+    "college"
   ],
   "words": [
     {
@@ -8576,27 +8576,67 @@
     {
       "wordId": "come",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Come inside and warm your hands by the fire.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/come.svg",
+      "blobSha": "4f3ad1268105f5ba0df2d870f8dd6beae9640ca6",
+      "visualReview": "Host invites visitor through open door toward fireplace, visitor brings both hands near the fire after entering. Added alternating footsteps during entry rather than a static-leg glide.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "eat",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We usually eat breakfast together before leaving the house.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/eat.svg",
+      "blobSha": "07013831da0c2dbdb6c45e34ac707207c7140d8e",
+      "visualReview": "Two diners share morning breakfast, spoon tracks hand from bowl toward mouth; clock and packed bag indicate before leaving. Added mouth mark at spoon contact to make the bite readable.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "carrot",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She sliced a carrot and added it to the soup.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/carrot.svg",
+      "blobSha": "18878e440f326fd9f5dfed757cc3084fab2dc088",
+      "visualReview": "Carrot sliced on board, knife hand exits, spoon hand carries a slice into soup with pot-front occlusion. Inspected final spoon delivery and pot-front occlusion at 8 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "near",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We found a quiet café near the station.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/near.svg",
+      "blobSha": "77b8599072c85d53774acc8eb17f1f4086285130",
+      "visualReview": "Quiet cafe beside station with short shared pavement, empty chairs and two cups, clock and train front.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "parent",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Each parent brought a snack for the school picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/parent.svg",
+      "blobSha": "351f90d72dfe90aa6c14e0d76ca46540c868c952",
+      "visualReview": "Three parents each visibly bring snacks at school picnic, with small child, school gate, clock and bunting. Added smaller child free-arm greeting while keeping held hand fixed.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "famous",

@@ -7997,6 +7997,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "come",
+      "src": "atlas/animations/come.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Come inside and warm your hands by the fire.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "eat",
+      "src": "atlas/animations/eat.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We usually eat breakfast together before leaving the house.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "carrot",
+      "src": "atlas/animations/carrot.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She sliced a carrot and added it to the soup.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "near",
+      "src": "atlas/animations/near.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "We found a quiet café near the station.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "parent",
+      "src": "atlas/animations/parent.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Each parent brought a snack for the school picnic.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }
