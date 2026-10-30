@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 685,
-  "pending": 6613,
+  "uploaded": 690,
+  "pending": 6608,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "say",
-    "lot",
-    "grandfather",
-    "dear",
-    "sorry"
+    "ear",
+    "healthy",
+    "laugh",
+    "find",
+    "sell"
   ],
   "words": [
     {
@@ -8836,27 +8836,67 @@
     {
       "wordId": "say",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please say your name again so I can remember it.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/say.svg",
+      "blobSha": "8845103b041786537cee01a3e3f47be15cfc374a",
+      "visualReview": "Personal name Mia is spoken twice during an introduction; listener cups ear and smiles. Permitted name declared as scene text.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "lot",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We bought a lot of fresh fruit today.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/lot.svg",
+      "blobSha": "8ca91e13a20a4dee3ba81366bdfb38e86dd198f2",
+      "visualReview": "Many fresh apples, oranges, pears, bananas and grapes fill basket and grocery bags; another orange is packed.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "grandfather",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My grandfather taught me how to grow tomatoes.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/grandfather.svg",
+      "blobSha": "d91e271490bfbc8a8e866ee5d401afc5b6ca5e88",
+      "visualReview": "Grey-haired bearded grandfather guides child planting tomato seedling beside mature tomato vine; hands tuck soil near root. Corrected thin left-arm line to a normal joined skin stroke.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "dear",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This little garden is very dear to my grandmother.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/dear.svg",
+      "blobSha": "1870e92766ff00209fcfac763333e8d528b8be76",
+      "visualReview": "Grandmother gently cups a favourite rose in her small garden, smiling through a slight head tilt; beds and climbing roses convey care.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "sorry",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I'm sorry I spilled juice on your clean shirt.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/sorry.svg",
+      "blobSha": "8a439a34cc677c2cc904a9d431ee75937515ecb2",
+      "visualReview": "Juice spills onto initially clean shirt, first person raises hand apologetically to chest and companion dabs stain calmly. Reviewed at spill time 3 seconds and after-stain 5 seconds, increased stream contrast and added droplets for clear contact sequence.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "ear",

@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "say",
+    "dailyExample": "Please say your name again so I can remember it.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Personal name Mia is spoken twice during an introduction; listener cups ear and smiles. Permitted name declared as scene text.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "lot",
+    "dailyExample": "We bought a lot of fresh fruit today.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Many fresh apples, oranges, pears, bananas and grapes fill basket and grocery bags; another orange is packed.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "grandfather",
+    "dailyExample": "My grandfather taught me how to grow tomatoes.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grey-haired bearded grandfather guides child planting tomato seedling beside mature tomato vine; hands tuck soil near root. Corrected thin left-arm line to a normal joined skin stroke.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "dear",
+    "dailyExample": "This little garden is very dear to my grandmother.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Grandmother gently cups a favourite rose in her small garden, smiling through a slight head tilt; beds and climbing roses convey care.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "sorry",
+    "dailyExample": "I'm sorry I spilled juice on your clean shirt.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Juice spills onto initially clean shirt, first person raises hand apologetically to chest and companion dabs stain calmly. Reviewed at spill time 3 seconds and after-stain 5 seconds, increased stream contrast and added droplets for clear contact sequence.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
