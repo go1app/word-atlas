@@ -7757,6 +7757,66 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "style": "abandon-reference-flat-storybook",
       "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "right",
+      "src": "atlas/animations/right.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "You picked the right key to open the door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "difficult",
+      "src": "atlas/animations/difficult.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "This heavy suitcase is difficult to carry upstairs.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "pencil",
+      "src": "atlas/animations/pencil.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "She sharpened her pencil before sketching the sleeping cat.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "somebody",
+      "src": "atlas/animations/somebody.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Somebody left a blue umbrella beside the front door.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
+    },
+    {
+      "wordId": "person",
+      "src": "atlas/animations/person.svg",
+      "durationSeconds": 10,
+      "exampleIndex": 0,
+      "dailyExample": "Only one person was waiting outside the bakery.",
+      "posterTimeSeconds": 5,
+      "attribution": "Word Atlas contributors — CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "style": "abandon-reference-flat-storybook",
+      "styleReview": "self_reviewed"
     }
   ]
 }

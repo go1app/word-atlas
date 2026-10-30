@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "right",
+    "dailyExample": "You picked the right key to open the door.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Selected key turns, then door handle responds; two unused different keys hang nearby and hand remains joined to key head. Inspected key-head grip before and after turning.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "difficult",
+    "dailyExample": "This heavy suitcase is difficult to carry upstairs.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Strained person lifts heavy suitcase only slightly on stair, then settles; hands follow handle and feet stay planted.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "pencil",
+    "dailyExample": "She sharpened her pencil before sketching the sleeping cat.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Held pencil turns in sharpener before sketching a sleeping cat, with shavings and sketch visible. Replaced ambiguous fish-like sketch outline with explicit curled cat body, ears, head and closed eye; fixed stroke-attribute spacing after edit and rerendered XML successfully.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "somebody",
+    "dailyExample": "Somebody left a blue umbrella beside the front door.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Original overhead doorway composition with blue umbrella left by an anonymous hand and departing damp footprints.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "person",
+    "dailyExample": "Only one person was waiting outside the bakery.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Exactly one person waits outside a bakery on a quiet empty pavement, with a small patient head scan.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

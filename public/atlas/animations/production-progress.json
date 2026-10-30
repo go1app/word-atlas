@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 645,
-  "pending": 6653,
+  "uploaded": 650,
+  "pending": 6648,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "right",
-    "difficult",
-    "pencil",
-    "somebody",
-    "person"
+    "street",
+    "include",
+    "radio",
+    "post-office",
+    "ice"
   ],
   "words": [
     {
@@ -8316,27 +8316,67 @@
     {
       "wordId": "right",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "You picked the right key to open the door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/right.svg",
+      "blobSha": "7435c8c58d8d2f60099bc1f3f31689e8f3a1eb7a",
+      "visualReview": "Selected key turns, then door handle responds; two unused different keys hang nearby and hand remains joined to key head. Inspected key-head grip before and after turning.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "difficult",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This heavy suitcase is difficult to carry upstairs.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/difficult.svg",
+      "blobSha": "c30bc42c9f8b54d4e03a9b3351eddd2b09911f12",
+      "visualReview": "Strained person lifts heavy suitcase only slightly on stair, then settles; hands follow handle and feet stay planted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "pencil",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She sharpened her pencil before sketching the sleeping cat.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/pencil.svg",
+      "blobSha": "137aab3047747a96fa06560f3873cf6e4d4af235",
+      "visualReview": "Held pencil turns in sharpener before sketching a sleeping cat, with shavings and sketch visible. Replaced ambiguous fish-like sketch outline with explicit curled cat body, ears, head and closed eye; fixed stroke-attribute spacing after edit and rerendered XML successfully.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "somebody",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Somebody left a blue umbrella beside the front door.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/somebody.svg",
+      "blobSha": "454c9f63351a134e4d1b75d569e78d52dbe93188",
+      "visualReview": "Original overhead doorway composition with blue umbrella left by an anonymous hand and departing damp footprints.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "person",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Only one person was waiting outside the bakery.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/person.svg",
+      "blobSha": "53656616a58e2e7e52aafe8bca9e798bc4562d25",
+      "visualReview": "Exactly one person waits outside a bakery on a quiet empty pavement, with a small patient head scan.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "street",
