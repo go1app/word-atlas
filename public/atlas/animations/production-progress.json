@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 660,
-  "pending": 6638,
+  "uploaded": 665,
+  "pending": 6633,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "than",
-    "warm",
-    "future",
-    "german",
-    "all"
+    "come",
+    "eat",
+    "carrot",
+    "near",
+    "parent"
   ],
   "words": [
     {
@@ -8511,27 +8511,67 @@
     {
       "wordId": "than",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My new backpack is lighter than my old one.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/than.svg",
+      "blobSha": "5ff9916542955725ad1b0676f99ea2ff59f5036d",
+      "visualReview": "New clean backpack rises while patched older backpack lowers on balance; chains and pans follow beam endpoints.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "warm",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This thick blanket keeps me warm on chilly evenings.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/warm.svg",
+      "blobSha": "1cb9e50c828e072b9ed7d55031825e2574cc2a79",
+      "visualReview": "Person tucks a thick plaid blanket on sofa during chilly evening; cool window, warm lamp, joined hand and blanket edge. Added matching animated clip for plaid lines so pattern stays inside blanket.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "future",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We talked about our future while walking home.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/future.svg",
+      "blobSha": "c691b6d0bcd0f364be6ffbe710c8370f3c508ac6",
+      "visualReview": "Two people converse while walking toward home; shared wordless imagined house and growing tree suggest their future.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "german",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We shared a traditional German cake after dinner.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/german.svg",
+      "blobSha": "73e4e9a10707f099ba6e3b6ee450e2acaedc1237",
+      "visualReview": "Traditional Black Forest-style chocolate cream cherry cake shared after dinner, with separate slices and black-red-gold ribbon.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "all",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "All the children brought fruit for the picnic.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/all.svg",
+      "blobSha": "d63fa43de82aa695dac687cea307c72e334c0296",
+      "visualReview": "Four children each hold a different fruit for the picnic; hand endpoints follow slight offering motion. Enlarged fruit and contrasted clothing colours so every child visibly holds fruit; inspected corrected 2 and 5 second frames.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "come",

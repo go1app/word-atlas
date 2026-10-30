@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "than",
+    "dailyExample": "My new backpack is lighter than my old one.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "New clean backpack rises while patched older backpack lowers on balance; chains and pans follow beam endpoints.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "warm",
+    "dailyExample": "This thick blanket keeps me warm on chilly evenings.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Person tucks a thick plaid blanket on sofa during chilly evening; cool window, warm lamp, joined hand and blanket edge. Added matching animated clip for plaid lines so pattern stays inside blanket.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "future",
+    "dailyExample": "We talked about our future while walking home.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Two people converse while walking toward home; shared wordless imagined house and growing tree suggest their future.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "german",
+    "dailyExample": "We shared a traditional German cake after dinner.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Traditional Black Forest-style chocolate cream cherry cake shared after dinner, with separate slices and black-red-gold ribbon.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "all",
+    "dailyExample": "All the children brought fruit for the picnic.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Four children each hold a different fruit for the picnic; hand endpoints follow slight offering motion. Enlarged fruit and contrasted clothing colours so every child visibly holds fruit; inspected corrected 2 and 5 second frames.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
