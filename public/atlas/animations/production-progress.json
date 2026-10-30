@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 675,
-  "pending": 6623,
+  "uploaded": 680,
+  "pending": 6618,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "close",
-    "off",
-    "wait",
-    "under",
-    "italian"
+    "on",
+    "personal",
+    "possible",
+    "cent",
+    "describe"
   ],
   "words": [
     {
@@ -8706,27 +8706,67 @@
     {
       "wordId": "close",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please close the window before the rain comes in.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/close.svg",
+      "blobSha": "4fea24a15a4ef4da7bf131c8a12548bbae395713",
+      "visualReview": "Sliding pane and gripping hand shut the open window before rain enters; rain remains clipped outdoors.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "off",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The dog ran off when the gate opened.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/off.svg",
+      "blobSha": "ce55eb146f66a19374f384fb12c2f78f95f01a3f",
+      "visualReview": "Gate and latch hand open first, then dog runs through opening and away along garden path. Added alternating running legs rather than rigid translation; inspected gate opening before departure at 2 seconds and running pose at 5 seconds.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "wait",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "Please wait here while I find my keys.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/wait.svg",
+      "blobSha": "8c05d64ab5af311463eb219677f35e0d013fac80",
+      "visualReview": "One person waits outside while companion searches a console tray for keys, with joined key/hand movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "under",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "The cat curled up under the kitchen table.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/under.svg",
+      "blobSha": "a103ab8a44b17ab26531abb516dbd98a8a5d0d8f",
+      "visualReview": "Curled breathing cat under kitchen table, framed by front legs and shadow, dishes above and cabinets behind.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "italian",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "We cooked Italian pasta with tomatoes and fresh basil.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/italian.svg",
+      "blobSha": "208bab8dc8fb786f3d854aee3aa4f2c833dea7dd",
+      "visualReview": "Pasta cooked with tomatoes and basil; fork and hand lift noodles while lower noodle ends stay in pot, fresh ingredients and tricolour towel.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "on",

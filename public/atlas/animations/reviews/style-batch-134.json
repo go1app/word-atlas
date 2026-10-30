@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "close",
+    "dailyExample": "Please close the window before the rain comes in.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sliding pane and gripping hand shut the open window before rain enters; rain remains clipped outdoors.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "off",
+    "dailyExample": "The dog ran off when the gate opened.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Gate and latch hand open first, then dog runs through opening and away along garden path. Added alternating running legs rather than rigid translation; inspected gate opening before departure at 2 seconds and running pose at 5 seconds.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "wait",
+    "dailyExample": "Please wait here while I find my keys.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "One person waits outside while companion searches a console tray for keys, with joined key/hand movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "under",
+    "dailyExample": "The cat curled up under the kitchen table.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Curled breathing cat under kitchen table, framed by front legs and shadow, dishes above and cabinets behind.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "italian",
+    "dailyExample": "We cooked Italian pasta with tomatoes and fresh basil.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Pasta cooked with tomatoes and basil; fork and hand lift noodles while lower noodle ends stay in pot, fresh ingredients and tricolour towel.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]
