@@ -1,0 +1,57 @@
+[
+  {
+    "wordId": "famous",
+    "dailyExample": "This village is famous for its delicious apple pies.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Apple orchard village, large pie display and visitors photographing pies communicate local fame for apple pies.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "just",
+    "dailyExample": "I need just one more minute to finish packing.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Nearly full open suitcase, final sock being tucked in, and sixty-mark clock with one minute interval highlighted.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "birthday",
+    "dailyExample": "My sister baked a lemon cake for my birthday.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Sister lowers a lemon birthday cake with joined oven-mitt contacts, candles, gift and younger sibling. Shortened candles, lowered cake and table slightly, reduced carrying descent and matched mitt/arm endpoints; face stays clear at early and final positions.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "butter",
+    "dailyExample": "She spread some butter on a slice of warm bread.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Butter patch grows behind blade across warm bread, with knife and hand moving together.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  },
+  {
+    "wordId": "college",
+    "dailyExample": "My cousin is studying nursing at a local college.",
+    "sourceChunk": 6,
+    "styleReference": "User-approved early abandon SVG",
+    "offlineKeyframeSampling": true,
+    "visualFrameInspected": "mid-action frame in batch contact sheet",
+    "specificReview": "Adult nursing student uses stethoscope on training mannequin in college skills lab with instructor, book, diagram and campus view. Added instructor arm gesture anchored at shoulder, reviewed early and mid movement.",
+    "svgStructureChecked": true,
+    "browserPlaybackVerified": false
+  }
+]

@@ -2,18 +2,18 @@
   "version": 1,
   "repository": "go1app/word-atlas",
   "total": 7298,
-  "uploaded": 670,
-  "pending": 6628,
+  "uploaded": 675,
+  "pending": 6623,
   "needsRevision": 0,
   "sourceIndexSha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d",
   "automationId": "svg",
   "automationIntervalHours": 5,
   "nextBatch": [
-    "famous",
-    "just",
-    "birthday",
-    "butter",
-    "college"
+    "close",
+    "off",
+    "wait",
+    "under",
+    "italian"
   ],
   "words": [
     {
@@ -8641,27 +8641,67 @@
     {
       "wordId": "famous",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "This village is famous for its delicious apple pies.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/famous.svg",
+      "blobSha": "ef3e4f4d4538a2f0e34b02417ce6a9b60022da1c",
+      "visualReview": "Apple orchard village, large pie display and visitors photographing pies communicate local fame for apple pies.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "just",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "I need just one more minute to finish packing.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/just.svg",
+      "blobSha": "3e1f154ce85b3676fe1750430e094ca084927cde",
+      "visualReview": "Nearly full open suitcase, final sock being tucked in, and sixty-mark clock with one minute interval highlighted.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "birthday",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My sister baked a lemon cake for my birthday.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/birthday.svg",
+      "blobSha": "85a04de470a378402a5c26eff9782a10f367942d",
+      "visualReview": "Sister lowers a lemon birthday cake with joined oven-mitt contacts, candles, gift and younger sibling. Shortened candles, lowered cake and table slightly, reduced carrying descent and matched mitt/arm endpoints; face stays clear at early and final positions.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "butter",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "She spread some butter on a slice of warm bread.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/butter.svg",
+      "blobSha": "3b81df5d935299b3a771767aa2a000e13599e4f9",
+      "visualReview": "Butter patch grows behind blade across warm bread, with knife and hand moving together.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "college",
       "chunk": 6,
-      "status": "pending"
+      "status": "uploaded",
+      "stage": "style_aligned",
+      "styleReview": "self_reviewed",
+      "dailyExample": "My cousin is studying nursing at a local college.",
+      "sourceVerified": true,
+      "assetPath": "public/atlas/animations/college.svg",
+      "blobSha": "cf5a535da9ecccb9662e6f57bab037c88f7ccaa7",
+      "visualReview": "Adult nursing student uses stethoscope on training mannequin in college skills lab with instructor, book, diagram and campus view. Added instructor arm gesture anchored at shoulder, reviewed early and mid movement.",
+      "browserPlaybackVerified": false
     },
     {
       "wordId": "close",
